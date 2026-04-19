@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd30d63db2b8c5c44b66e00b09deb5aa, type: 3}
+  m_Name: WizardStats
+  m_EditorClassIdentifier: Assembly-CSharp::WizardStats
+  wizardName: Aldric the Unwise
+  level: 1
+  strength: 8
+  dexterity: 14
+  constitution: 13
+  intelligence: 16
+  wisdom: 12
+  charisma: 10
+  proficiencyBonus: 2
+  maxHP: 9
+  currentHP: 9
+  armorClass: 13
+  baseMovementSpeed: 1
+  maxSpellSlots: 020000000000000000000000000000000000000000000000000000000000000000000000
+  currentSpellSlots: 020000000000000000000000000000000000000000000000000000000000000000000000
+  currentXP: 0
+  xpToNextLevel: 300
