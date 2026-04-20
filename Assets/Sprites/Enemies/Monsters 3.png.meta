@@ -94,7 +94,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,7 +108,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -132,7 +132,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -183,13 +183,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Monsters 3_0
+      name: Snowman_01
       rect:
         serializedVersion: 2
-        x: 13
-        y: 22
-        width: 246
-        height: 61
+        x: 16
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,13 +205,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters 3_1
+      name: Snowman_02
       rect:
         serializedVersion: 2
-        x: 117
-        y: 16
-        width: 7
-        height: 7
+        x: 32
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,13 +227,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters 3_2
+      name: Snowman_03
       rect:
         serializedVersion: 2
-        x: 123
-        y: 16
-        width: 7
-        height: 7
+        x: 48
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,79 +249,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters 3_3
+      name: SpearSkeleton_01
       rect:
         serializedVersion: 2
-        x: 129
-        y: 16
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b644c0a45a2d8650800000000000000
-      internalID: 6236687601940842165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monsters 3_4
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 16
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3a31ed842543c220800000000000000
-      internalID: 2504921841049614908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monsters 3_5
-      rect:
-        serializedVersion: 2
-        x: 141
-        y: 16
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 92275957783fa1a70800000000000000
-      internalID: 8798612585140548137
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monsters 3_6
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 16
-        width: 7
-        height: 7
+        x: 16
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -337,13 +271,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters 3_7
+      name: SpearSkeleton_02
       rect:
         serializedVersion: 2
-        x: 153
-        y: 16
-        width: 7
-        height: 7
+        x: 32
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,13 +293,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters 3_8
+      name: SpearSkeleton_03
       rect:
         serializedVersion: 2
-        x: 159
-        y: 16
-        width: 7
-        height: 7
+        x: 48
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -381,13 +315,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters 3_9
+      name: FrozenBat_01
       rect:
         serializedVersion: 2
-        x: 104
-        y: 8
-        width: 7
-        height: 7
+        x: 80
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -403,13 +337,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters 3_10
+      name: FrozenBat_02
       rect:
         serializedVersion: 2
-        x: 110
-        y: 8
-        width: 7
-        height: 7
+        x: 96
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -425,13 +359,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters 3_11
+      name: FrozenBat_03
       rect:
         serializedVersion: 2
-        x: 116
-        y: 8
-        width: 7
-        height: 7
+        x: 112
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,79 +381,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters 3_12
+      name: FrozenSkeleton_01
       rect:
         serializedVersion: 2
-        x: 122
-        y: 8
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 295c64008385636f0800000000000000
-      internalID: -705279294090852974
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monsters 3_13
-      rect:
-        serializedVersion: 2
-        x: 132
-        y: 8
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab0e2b3f7f6e094c0800000000000000
-      internalID: -4282669293009444678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monsters 3_14
-      rect:
-        serializedVersion: 2
-        x: 138
-        y: 8
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b01ce957a7330dcb0800000000000000
-      internalID: -4841312998370918133
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monsters 3_15
-      rect:
-        serializedVersion: 2
-        x: 148
-        y: 8
-        width: 7
-        height: 7
+        x: 80
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -535,13 +403,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters 3_16
+      name: FrozenSkeleton_02
       rect:
         serializedVersion: 2
-        x: 154
-        y: 8
-        width: 7
-        height: 7
+        x: 96
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -557,13 +425,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters 3_17
+      name: FrozenSkeleton_03
       rect:
         serializedVersion: 2
-        x: 160
-        y: 8
-        width: 7
-        height: 7
+        x: 112
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -579,13 +447,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters 3_18
+      name: FrozenLizard_01
       rect:
         serializedVersion: 2
-        x: 166
-        y: 8
-        width: 7
-        height: 7
+        x: 144
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -601,23 +469,111 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters 3_19
+      name: FrozenLizard_02
       rect:
         serializedVersion: 2
-        x: 172
-        y: 8
-        width: 7
-        height: 7
+        x: 160
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b6633c7091060d420800000000000000
-      internalID: 2652725841141905003
+      spriteID: fcf5debff2aa85648941e91139d47f2a
+      internalID: 197142983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrozenLizard_03
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44361dc2743549c49a992e0c45e756d3
+      internalID: 483039218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrozenSnake_01
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86af73f862729f4ab497f212e6bc9c2
+      internalID: -919162962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrozenSnake_02
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce201fa076ff6ce4a9cbce8de9a8d1ae
+      internalID: 743956255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrozenSnake_03
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370985cde8007cd49be856bb3df57293
+      internalID: -1869828385
       vertices: []
       indices: 
       edges: []
@@ -626,7 +582,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2a03082bd49b30b43a606c6b146701ac
     internalID: 0
     vertices: []
     indices: 
@@ -636,26 +592,36 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Monsters 3_0: 1866307077435207748
-      Monsters 3_1: -3985709300390672760
-      Monsters 3_10: 6128336751565717167
-      Monsters 3_11: 1049964438299737210
+      FrozenBat_01: -8784627890540784765
+      FrozenBat_02: 6128336751565717167
+      FrozenBat_03: 1049964438299737210
+      FrozenLizard_01: 1963674717607817823
+      FrozenLizard_02: 197142983
+      FrozenLizard_03: 483039218
+      FrozenSkeleton_01: -1584223203344937806
+      FrozenSkeleton_02: 3412188873659137849
+      FrozenSkeleton_03: 8898334562271360317
+      FrozenSnake_01: -919162962
+      FrozenSnake_02: 743956255
+      FrozenSnake_03: -1869828385
+      GreyBear: 2504921841049614908
+      GreyBear_01: 6236687601940842165
       Monsters 3_12: -705279294090852974
       Monsters 3_13: -4282669293009444678
       Monsters 3_14: -4841312998370918133
-      Monsters 3_15: -1584223203344937806
-      Monsters 3_16: 3412188873659137849
-      Monsters 3_17: 8898334562271360317
-      Monsters 3_18: 1963674717607817823
       Monsters 3_19: 2652725841141905003
-      Monsters 3_2: -4151913542608029416
-      Monsters 3_3: 6236687601940842165
-      Monsters 3_4: 2504921841049614908
+      Monsters 3_22: -1075934378
+      Monsters 3_23: 647119822
+      Monsters 3_27: -810050093
+      Monsters 3_28: 1584280476
+      Monsters 3_29: 1929141756
       Monsters 3_5: 8798612585140548137
-      Monsters 3_6: 1035308950365781599
-      Monsters 3_7: 2711855997783640641
-      Monsters 3_8: 5800055186471552196
-      Monsters 3_9: -8784627890540784765
+      Snowman_01: 1866307077435207748
+      Snowman_02: -3985709300390672760
+      Snowman_03: -4151913542608029416
+      SpearSkeleton_01: 1035308950365781599
+      SpearSkeleton_02: 2711855997783640641
+      SpearSkeleton_03: 5800055186471552196
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

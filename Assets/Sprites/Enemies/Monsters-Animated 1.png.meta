@@ -94,7 +94,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,7 +108,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -132,7 +132,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -183,13 +183,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Monsters-Animated 1_0
+      name: Goblin_01
       rect:
         serializedVersion: 2
-        x: 13
-        y: 22
-        width: 246
-        height: 61
+        x: 16
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,13 +205,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_1
+      name: Goblin_02
       rect:
         serializedVersion: 2
-        x: 112
-        y: 16
-        width: 7
-        height: 7
+        x: 32
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,13 +227,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_2
+      name: Goblin_03
       rect:
         serializedVersion: 2
-        x: 118
-        y: 16
-        width: 7
-        height: 7
+        x: 48
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,13 +249,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_3
+      name: HammerFireSkeleton_01
       rect:
         serializedVersion: 2
-        x: 124
-        y: 16
-        width: 7
-        height: 7
+        x: 16
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,13 +271,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_4
+      name: FireLizard_01
       rect:
         serializedVersion: 2
-        x: 130
-        y: 16
-        width: 7
-        height: 7
+        x: 16
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,13 +293,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_5
+      name: HammerFireSkeleton_02
       rect:
         serializedVersion: 2
-        x: 136
-        y: 16
-        width: 7
-        height: 7
+        x: 32
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,13 +315,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_6
+      name: HammerFireSkeleton_03
       rect:
         serializedVersion: 2
-        x: 142
-        y: 16
-        width: 7
-        height: 7
+        x: 48
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -337,13 +337,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_7
+      name: FireLizard_02
       rect:
         serializedVersion: 2
-        x: 148
-        y: 16
-        width: 7
-        height: 7
+        x: 32
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,13 +359,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_8
+      name: FireLizard_03
       rect:
         serializedVersion: 2
-        x: 154
-        y: 16
-        width: 7
-        height: 7
+        x: 48
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -381,13 +381,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_9
+      name: HammerGoblin_01
       rect:
         serializedVersion: 2
-        x: 99
-        y: 8
-        width: 7
-        height: 7
+        x: 80
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -403,13 +403,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_10
+      name: HammerGoblin_02
       rect:
         serializedVersion: 2
-        x: 105
-        y: 8
-        width: 7
-        height: 7
+        x: 96
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -425,13 +425,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_11
+      name: HammerGoblin_03
       rect:
         serializedVersion: 2
-        x: 111
-        y: 8
-        width: 7
-        height: 7
+        x: 112
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,13 +447,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_12
+      name: SwordFireSkeleton_01
       rect:
         serializedVersion: 2
-        x: 117
-        y: 8
-        width: 7
-        height: 7
+        x: 80
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -469,13 +469,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_13
+      name: SwordFireSkeleton_02
       rect:
         serializedVersion: 2
-        x: 127
-        y: 8
-        width: 7
-        height: 7
+        x: 96
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -491,13 +491,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_14
+      name: SwordFireSkeleton_03
       rect:
         serializedVersion: 2
-        x: 133
-        y: 8
-        width: 7
-        height: 7
+        x: 112
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -513,13 +513,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_15
+      name: AxeGoblin_01
       rect:
         serializedVersion: 2
-        x: 143
-        y: 8
-        width: 7
-        height: 7
+        x: 144
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -535,13 +535,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_16
+      name: AxeGoblin_02
       rect:
         serializedVersion: 2
-        x: 149
-        y: 8
-        width: 7
-        height: 7
+        x: 160
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -557,13 +557,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_17
+      name: AxeGoblin_03
       rect:
         serializedVersion: 2
-        x: 155
-        y: 8
-        width: 7
-        height: 7
+        x: 176
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -579,13 +579,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_18
+      name: FireElemental_01
       rect:
         serializedVersion: 2
-        x: 161
-        y: 8
-        width: 7
-        height: 7
+        x: 144
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -601,13 +601,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated 1_19
+      name: FireElemental_02
       rect:
         serializedVersion: 2
-        x: 167
-        y: 8
-        width: 7
-        height: 7
+        x: 160
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -622,11 +622,165 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: FireElemental_03
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a812ffc7812a1245b633fde63081475
+      internalID: -172288237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickaxeGoblin_01
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c831796783c25c46846dcf0a161daa5
+      internalID: 1756051811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickaxeGoblin_02
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56adec0d45c314341921e13d75d5c60c
+      internalID: 1096925879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickaxeGoblin_03
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bd22e06dad72f429b4efbb390a3234
+      internalID: -1653569615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSlime_01
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ab23990bc03ac47aece945d25d4889
+      internalID: -1945487980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSlime_02
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cb93ff390787d4b8a47d513e6b8760
+      internalID: 434800329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSlime_03
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac6b74e2e0124429132431c8273033
+      internalID: 2052432721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a823ca2e3eb42a74b978c918a60168a2
     internalID: 0
     vertices: []
     indices: 
@@ -636,26 +790,33 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Monsters-Animated 1_0: 6069135402725765908
-      Monsters-Animated 1_1: -8597231744207282983
-      Monsters-Animated 1_10: -5628650469443642047
-      Monsters-Animated 1_11: -4302717973762500200
-      Monsters-Animated 1_12: 8500278132184503468
-      Monsters-Animated 1_13: -2174486581604819164
-      Monsters-Animated 1_14: 4085165254535838535
-      Monsters-Animated 1_15: 4857729928689864128
-      Monsters-Animated 1_16: -2252330682639674012
-      Monsters-Animated 1_17: 3866605275323631214
-      Monsters-Animated 1_18: 3362716596090798524
-      Monsters-Animated 1_19: 1449143766713482284
-      Monsters-Animated 1_2: 7670872328437154289
-      Monsters-Animated 1_3: 8296847987006508570
-      Monsters-Animated 1_4: -1339642088645126355
-      Monsters-Animated 1_5: -361082997969912706
-      Monsters-Animated 1_6: -2092105658680677213
-      Monsters-Animated 1_7: -4947636209943204116
-      Monsters-Animated 1_8: -704134760177175865
-      Monsters-Animated 1_9: 5781934082107475185
+      AxeGoblin_01: 4857729928689864128
+      AxeGoblin_02: -2252330682639674012
+      AxeGoblin_03: 3866605275323631214
+      FireElemental_01: 3362716596090798524
+      FireElemental_02: 1449143766713482284
+      FireElemental_03: -172288237
+      FireLizard_01: -1339642088645126355
+      FireLizard_02: -4947636209943204116
+      FireLizard_03: -704134760177175865
+      FireSlime_01: -1945487980
+      FireSlime_02: 434800329
+      FireSlime_03: 2052432721
+      Goblin_01: 6069135402725765908
+      Goblin_02: -8597231744207282983
+      Goblin_03: 7670872328437154289
+      HammerFireSkeleton_01: 8296847987006508570
+      HammerFireSkeleton_02: -361082997969912706
+      HammerFireSkeleton_03: -2092105658680677213
+      HammerGoblin_01: 5781934082107475185
+      HammerGoblin_02: -5628650469443642047
+      HammerGoblin_03: -4302717973762500200
+      PickaxeGoblin_01: 1756051811
+      PickaxeGoblin_02: 1096925879
+      PickaxeGoblin_03: -1653569615
+      SwordFireSkeleton_01: 8500278132184503468
+      SwordFireSkeleton_02: -2174486581604819164
+      SwordFireSkeleton_03: 4085165254535838535
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

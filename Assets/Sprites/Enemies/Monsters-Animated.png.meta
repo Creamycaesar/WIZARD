@@ -94,7 +94,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,7 +108,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -132,7 +132,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -183,15 +183,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Monsters-Animated_0
+      name: SwordRedSkeleton_01
       rect:
         serializedVersion: 2
-        x: 13
-        y: 22
-        width: 246
-        height: 61
+        x: 16
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -205,15 +205,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_1
+      name: SwordRedSkeleton_02
       rect:
         serializedVersion: 2
-        x: 112
-        y: 16
-        width: 7
-        height: 7
+        x: 32
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -227,15 +227,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_2
+      name: SwordRedSkeleton_03
       rect:
         serializedVersion: 2
-        x: 118
-        y: 16
-        width: 7
-        height: 7
+        x: 48
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -249,15 +249,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_3
+      name: GreenScarecrow_03
       rect:
         serializedVersion: 2
-        x: 124
-        y: 16
-        width: 7
-        height: 7
+        x: 48
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -271,15 +271,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_4
+      name: Pumpkin_02
       rect:
         serializedVersion: 2
-        x: 130
-        y: 16
-        width: 7
-        height: 7
+        x: 32
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -293,15 +293,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_5
+      name: Pumpkin_03
       rect:
         serializedVersion: 2
-        x: 136
-        y: 16
-        width: 7
-        height: 7
+        x: 48
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -315,15 +315,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_6
+      name: WhipGreenSkeleton_01
       rect:
         serializedVersion: 2
-        x: 142
-        y: 16
-        width: 7
-        height: 7
+        x: 80
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -337,15 +337,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_7
+      name: WhipGreenSkeleton_02
       rect:
         serializedVersion: 2
-        x: 148
-        y: 16
-        width: 7
-        height: 7
+        x: 96
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -359,15 +359,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_8
+      name: WhipGreenSkeleton_03
       rect:
         serializedVersion: 2
-        x: 154
-        y: 16
-        width: 7
-        height: 7
+        x: 112
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -381,15 +381,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_9
+      name: GreyScarecrow_01
       rect:
         serializedVersion: 2
-        x: 99
-        y: 8
-        width: 7
-        height: 7
+        x: 80
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -403,15 +403,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_10
+      name: GreyScarecrow_02
       rect:
         serializedVersion: 2
-        x: 105
-        y: 8
-        width: 7
-        height: 7
+        x: 96
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -425,15 +425,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_11
+      name: GreyScarecrow_03
       rect:
         serializedVersion: 2
-        x: 111
-        y: 8
-        width: 7
-        height: 7
+        x: 112
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -447,15 +447,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_12
+      name: Ghost_01
       rect:
         serializedVersion: 2
-        x: 117
-        y: 8
-        width: 7
-        height: 7
+        x: 80
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -469,15 +469,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_13
+      name: Ghost_02
       rect:
         serializedVersion: 2
-        x: 127
-        y: 8
-        width: 7
-        height: 7
+        x: 96
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -491,15 +491,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_14
+      name: Ghost_03
       rect:
         serializedVersion: 2
-        x: 133
-        y: 8
-        width: 7
-        height: 7
+        x: 112
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -513,15 +513,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_15
+      name: GreyGazer_01
       rect:
         serializedVersion: 2
-        x: 143
-        y: 8
-        width: 7
-        height: 7
+        x: 144
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -535,15 +535,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_16
+      name: GreyGazer_02
       rect:
         serializedVersion: 2
-        x: 149
-        y: 8
-        width: 7
-        height: 7
+        x: 160
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -557,15 +557,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_17
+      name: GreyGazer_03
       rect:
         serializedVersion: 2
-        x: 155
-        y: 8
-        width: 7
-        height: 7
+        x: 176
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -579,15 +579,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_18
+      name: GreySpider_01
       rect:
         serializedVersion: 2
-        x: 161
-        y: 8
-        width: 7
-        height: 7
+        x: 144
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -601,15 +601,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monsters-Animated_19
+      name: GreySpider_02
       rect:
         serializedVersion: 2
-        x: 167
-        y: 8
-        width: 7
-        height: 7
+        x: 160
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -622,11 +622,231 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: GreenScarecrow_01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258974fa72751a449b7352b4bee4b6ec
+      internalID: 1656817851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin_01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2aab38f30fbac42ade8e0856fc84e9
+      internalID: -486124425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenScarecrow_02
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1632bf56b76904b80c2044a95f8ea8
+      internalID: 1691099863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreySpider_03
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ab59ae295291f468a6fe448f7516b1
+      internalID: -1981037165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownBugs_01
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ca325720147784c89a5c4129673a09
+      internalID: -1220738221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownBugs_02
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046ad4e1eab335f409206e1346477dc0
+      internalID: -1675749206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownBugs_03
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785f4ebbba3f9a34da18ce22ca268124
+      internalID: -1381809707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonReaper_03
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f507b66d2ce5b54cbbca6252e175435
+      internalID: -509650604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonReaper_02
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b265515043729d418805f3dbed880a2
+      internalID: -1568805382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonReaper_01
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf559f7fb3467047babbc7c60a7fef1
+      internalID: 1103892084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fae36bfd712780e4ba13be18b2e547c6
     internalID: 0
     vertices: []
     indices: 
@@ -636,26 +856,36 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Monsters-Animated_0: 3929892879924017014
-      Monsters-Animated_1: 8816993143657730085
-      Monsters-Animated_10: -2662839522633771143
-      Monsters-Animated_11: -2385950879107698657
-      Monsters-Animated_12: 7071094740693887719
-      Monsters-Animated_13: 1176687715201087688
-      Monsters-Animated_14: 1333935777351059607
-      Monsters-Animated_15: -2711881503214988477
-      Monsters-Animated_16: 8263930713667184268
-      Monsters-Animated_17: -8907566785077753509
-      Monsters-Animated_18: 218764305749728121
-      Monsters-Animated_19: 7417755652762187179
-      Monsters-Animated_2: -238838708787668885
-      Monsters-Animated_3: -2703431569014070725
-      Monsters-Animated_4: 3707821995865999290
-      Monsters-Animated_5: -335880431067848271
-      Monsters-Animated_6: 5381846420003735164
-      Monsters-Animated_7: 518699742238881096
-      Monsters-Animated_8: -7428272463247288306
-      Monsters-Animated_9: -4080116109568290
+      BrownBugs_01: -1220738221
+      BrownBugs_02: -1675749206
+      BrownBugs_03: -1381809707
+      Ghost_01: 7071094740693887719
+      Ghost_02: 1176687715201087688
+      Ghost_03: 1333935777351059607
+      GreenScarecrow_01: 1656817851
+      GreenScarecrow_02: 1691099863
+      GreenScarecrow_03: -2703431569014070725
+      GreyGazer_01: -2711881503214988477
+      GreyGazer_02: 8263930713667184268
+      GreyGazer_03: -8907566785077753509
+      GreyScarecrow_01: -4080116109568290
+      GreyScarecrow_02: -2662839522633771143
+      GreyScarecrow_03: -2385950879107698657
+      GreySpider_01: 218764305749728121
+      GreySpider_02: 7417755652762187179
+      GreySpider_03: -1981037165
+      Pumpkin_01: -486124425
+      Pumpkin_02: 3707821995865999290
+      Pumpkin_03: -335880431067848271
+      SkeletonReaper_01: 1103892084
+      SkeletonReaper_02: -1568805382
+      SkeletonReaper_03: -509650604
+      SwordRedSkeleton_01: 3929892879924017014
+      SwordRedSkeleton_02: 8816993143657730085
+      SwordRedSkeleton_03: -238838708787668885
+      WhipGreenSkeleton_01: 5381846420003735164
+      WhipGreenSkeleton_02: 518699742238881096
+      WhipGreenSkeleton_03: -7428272463247288306
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
