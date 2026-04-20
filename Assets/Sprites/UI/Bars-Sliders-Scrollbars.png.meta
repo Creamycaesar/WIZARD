@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: a299abc58f2cb9540a2b1a97d52d766d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6766592347891582657
+    second: Bars-Sliders-Scrollbars_0
+  - first:
+      213: -2275672100299212109
+    second: Bars-Sliders-Scrollbars_1
+  - first:
+      213: -7323701090781603283
+    second: Bars-Sliders-Scrollbars_2
+  - first:
+      213: 539980926711148905
+    second: Bars-Sliders-Scrollbars_3
+  - first:
+      213: -7902959528186192349
+    second: Bars-Sliders-Scrollbars_4
+  - first:
+      213: 2284346048465698473
+    second: Bars-Sliders-Scrollbars_5
+  - first:
+      213: -5594831995490997880
+    second: Bars-Sliders-Scrollbars_6
+  - first:
+      213: -5766910503384565445
+    second: Bars-Sliders-Scrollbars_7
+  - first:
+      213: -914145505802987107
+    second: Bars-Sliders-Scrollbars_8
+  - first:
+      213: 4141572760068038704
+    second: Bars-Sliders-Scrollbars_9
+  - first:
+      213: -340727833697799529
+    second: Bars-Sliders-Scrollbars_10
+  - first:
+      213: -2403341081005016598
+    second: Bars-Sliders-Scrollbars_11
+  - first:
+      213: 9107551516012500472
+    second: Bars-Sliders-Scrollbars_12
+  - first:
+      213: 514997909771903685
+    second: Bars-Sliders-Scrollbars_13
+  - first:
+      213: 7924546189709533380
+    second: Bars-Sliders-Scrollbars_14
+  - first:
+      213: -3723306380685394081
+    second: Bars-Sliders-Scrollbars_15
+  - first:
+      213: -7947742014676981703
+    second: Bars-Sliders-Scrollbars_16
+  - first:
+      213: 5266313895887886633
+    second: Bars-Sliders-Scrollbars_17
+  - first:
+      213: -1503632490736850971
+    second: Bars-Sliders-Scrollbars_18
+  - first:
+      213: -8539416585284101583
+    second: Bars-Sliders-Scrollbars_19
+  - first:
+      213: 1042293109179348849
+    second: Bars-Sliders-Scrollbars_20
+  - first:
+      213: -4243234113817269355
+    second: Bars-Sliders-Scrollbars_21
+  - first:
+      213: -7964950719914703438
+    second: Bars-Sliders-Scrollbars_22
+  - first:
+      213: 5232512867637985922
+    second: Bars-Sliders-Scrollbars_23
+  - first:
+      213: 7698153953799154648
+    second: Bars-Sliders-Scrollbars_24
+  - first:
+      213: 9212055037510117955
+    second: Bars-Sliders-Scrollbars_25
+  - first:
+      213: 3712554976770704828
+    second: Bars-Sliders-Scrollbars_26
+  - first:
+      213: 637051602112251372
+    second: Bars-Sliders-Scrollbars_27
+  - first:
+      213: -6605872488671543961
+    second: Bars-Sliders-Scrollbars_28
+  - first:
+      213: 4590292261032386872
+    second: Bars-Sliders-Scrollbars_29
+  - first:
+      213: 4379917448054649564
+    second: Bars-Sliders-Scrollbars_30
+  - first:
+      213: -812906041346144392
+    second: Bars-Sliders-Scrollbars_31
+  - first:
+      213: -1200728719360968214
+    second: Bars-Sliders-Scrollbars_32
+  - first:
+      213: 2228824982218606201
+    second: Bars-Sliders-Scrollbars_33
+  - first:
+      213: -8567825411257353652
+    second: Bars-Sliders-Scrollbars_34
+  - first:
+      213: 7198876645603894223
+    second: Bars-Sliders-Scrollbars_35
+  - first:
+      213: 3806115723456432658
+    second: Bars-Sliders-Scrollbars_36
+  - first:
+      213: -2599574461151053155
+    second: Bars-Sliders-Scrollbars_37
+  - first:
+      213: -2249344782543012805
+    second: Bars-Sliders-Scrollbars_38
+  - first:
+      213: 5698987846760118
+    second: Bars-Sliders-Scrollbars_39
+  - first:
+      213: 2351129623679848193
+    second: Bars-Sliders-Scrollbars_40
+  - first:
+      213: -2716878525115401416
+    second: Bars-Sliders-Scrollbars_41
+  - first:
+      213: -2325688123926595529
+    second: Bars-Sliders-Scrollbars_42
+  - first:
+      213: -439747187030634463
+    second: Bars-Sliders-Scrollbars_43
+  - first:
+      213: 4631372105027188723
+    second: Bars-Sliders-Scrollbars_44
+  - first:
+      213: 8895330857321200872
+    second: Bars-Sliders-Scrollbars_45
+  - first:
+      213: 4536740032123753031
+    second: Bars-Sliders-Scrollbars_46
+  - first:
+      213: 4027955979994992333
+    second: Bars-Sliders-Scrollbars_47
+  - first:
+      213: -8533804660901706979
+    second: Bars-Sliders-Scrollbars_48
+  - first:
+      213: -1454606604147367234
+    second: Bars-Sliders-Scrollbars_49
+  - first:
+      213: -7515550182552096911
+    second: Bars-Sliders-Scrollbars_50
+  - first:
+      213: 7563247373721114948
+    second: Bars-Sliders-Scrollbars_51
+  - first:
+      213: -1572446229961982548
+    second: Bars-Sliders-Scrollbars_52
+  - first:
+      213: 863074585562165112
+    second: Bars-Sliders-Scrollbars_53
+  - first:
+      213: -7428400528542729488
+    second: Bars-Sliders-Scrollbars_54
+  - first:
+      213: 6794353992577486741
+    second: Bars-Sliders-Scrollbars_55
+  - first:
+      213: 197532251058236590
+    second: Bars-Sliders-Scrollbars_56
+  - first:
+      213: 234194418310324602
+    second: Bars-Sliders-Scrollbars_57
+  - first:
+      213: -7262094767400850571
+    second: Bars-Sliders-Scrollbars_58
+  - first:
+      213: 5785710750026480412
+    second: Bars-Sliders-Scrollbars_59
+  - first:
+      213: 8685835907143923825
+    second: Bars-Sliders-Scrollbars_60
+  - first:
+      213: -3832822304843044697
+    second: Bars-Sliders-Scrollbars_61
+  - first:
+      213: 290745959980479877
+    second: Bars-Sliders-Scrollbars_62
+  - first:
+      213: -578050906638445645
+    second: Bars-Sliders-Scrollbars_63
+  - first:
+      213: -382459197062402854
+    second: Bars-Sliders-Scrollbars_64
+  - first:
+      213: -7874047254561858650
+    second: Bars-Sliders-Scrollbars_65
+  - first:
+      213: 279383954268564209
+    second: Bars-Sliders-Scrollbars_66
+  - first:
+      213: -2944367505738589095
+    second: Bars-Sliders-Scrollbars_67
+  - first:
+      213: -4881017020640631030
+    second: Bars-Sliders-Scrollbars_68
+  - first:
+      213: -5615374411761603861
+    second: Bars-Sliders-Scrollbars_69
+  - first:
+      213: -6703110865803380439
+    second: Bars-Sliders-Scrollbars_70
+  - first:
+      213: 3033252513953067084
+    second: Bars-Sliders-Scrollbars_71
+  - first:
+      213: -4321710450908168992
+    second: Bars-Sliders-Scrollbars_72
+  - first:
+      213: 1749017971605335357
+    second: Bars-Sliders-Scrollbars_73
+  - first:
+      213: 2443901588767378476
+    second: Bars-Sliders-Scrollbars_74
+  - first:
+      213: -573372968811423245
+    second: Bars-Sliders-Scrollbars_75
+  - first:
+      213: 3492924991039229131
+    second: Bars-Sliders-Scrollbars_76
+  - first:
+      213: -8218376595145294468
+    second: Bars-Sliders-Scrollbars_77
+  - first:
+      213: 7015222251748930879
+    second: Bars-Sliders-Scrollbars_78
+  - first:
+      213: 4639950289795188715
+    second: Bars-Sliders-Scrollbars_79
+  - first:
+      213: 6959781072866948366
+    second: Bars-Sliders-Scrollbars_80
+  - first:
+      213: -5384314892004408525
+    second: Bars-Sliders-Scrollbars_81
+  - first:
+      213: -3442630102084152858
+    second: Bars-Sliders-Scrollbars_82
+  - first:
+      213: -7085108036729737364
+    second: Bars-Sliders-Scrollbars_83
+  - first:
+      213: 3525089864716727883
+    second: Bars-Sliders-Scrollbars_84
+  - first:
+      213: -1833930282673919168
+    second: Bars-Sliders-Scrollbars_85
+  - first:
+      213: 4067755375586068767
+    second: Bars-Sliders-Scrollbars_86
+  - first:
+      213: -8516974342813959410
+    second: Bars-Sliders-Scrollbars_87
+  - first:
+      213: -7142616641614125846
+    second: Bars-Sliders-Scrollbars_88
+  - first:
+      213: 6395717033632841545
+    second: Bars-Sliders-Scrollbars_89
+  - first:
+      213: -5706049088684967039
+    second: Bars-Sliders-Scrollbars_90
+  - first:
+      213: -1060796012940205285
+    second: Bars-Sliders-Scrollbars_91
+  - first:
+      213: 1581041704752027411
+    second: Bars-Sliders-Scrollbars_92
+  - first:
+      213: 3316455134211564437
+    second: Bars-Sliders-Scrollbars_93
+  - first:
+      213: 1379016455783241589
+    second: Bars-Sliders-Scrollbars_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39bb0c4c1c3812a0800000000000000
+      internalID: -6766592347891582657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baf56428403b60e0800000000000000
+      internalID: -2275672100299212109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a52da19acfc5a90800000000000000
+      internalID: -7323701090781603283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961ba1abac56e7700800000000000000
+      internalID: 539980926711148905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e5c284e2c035290800000000000000
+      internalID: -7902959528186192349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae7ddac0a0a3bf10800000000000000
+      internalID: 2284346048465698473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889e4ca51f92b52b0800000000000000
+      internalID: -5594831995490997880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b393b4a9371d7ffa0800000000000000
+      internalID: -5766910503384565445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99d79d718d4053f0800000000000000
+      internalID: -914145505802987107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0302a477b72d97930800000000000000
+      internalID: 4141572760068038704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792ba5b27dd754bf0800000000000000
+      internalID: -340727833697799529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9b790350e95aed0800000000000000
+      internalID: -2403341081005016598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5de7599d5846e70800000000000000
+      internalID: 9107551516012500472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2e500ded3a52700800000000000000
+      internalID: 514997909771903685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0efc306c4a9fd60800000000000000
+      internalID: 7924546189709533380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f3d4dd298245cc0800000000000000
+      internalID: -3723306380685394081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9382bb02fb2f3b190800000000000000
+      internalID: -7947742014676981703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929d9101694b51940800000000000000
+      internalID: 5266313895887886633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7e4ec5736022be0800000000000000
+      internalID: -1503632490736850971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13adf050cd5ed7980800000000000000
+      internalID: -8539416585284101583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177f87c7f08f67e00800000000000000
+      internalID: 1042293109179348849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b2a1b1e010d15c0800000000000000
+      internalID: -4243234113817269355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b50ef5358fc67190800000000000000
+      internalID: -7964950719914703438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2820936eabe9d9840800000000000000
+      internalID: 5232512867637985922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_24
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dba7720c3655da60800000000000000
+      internalID: 7698153953799154648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a6322cf3bc7df70800000000000000
+      internalID: 9212055037510117955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5c687d415a58330800000000000000
+      internalID: 3712554976770704828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce58e7f8e0347d800800000000000000
+      internalID: 637051602112251372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76df43198f93354a0800000000000000
+      internalID: -6605872488671543961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8316f02bd7ef3bf30800000000000000
+      internalID: 4590292261032386872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_30
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd235d496b798cc30800000000000000
+      internalID: 4379917448054649564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_31
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8774bc9234af7b4f0800000000000000
+      internalID: -812906041346144392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_32
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae931ea6797265fe0800000000000000
+      internalID: -1200728719360968214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97608a333806eee10800000000000000
+      internalID: 2228824982218606201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ab078ce28f81980800000000000000
+      internalID: -8567825411257353652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3631bfa2c87e360800000000000000
+      internalID: 7198876645603894223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_36
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a46a6b51a02d430800000000000000
+      internalID: 3806115723456432658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_37
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9af9ebfcc47cebd0800000000000000
+      internalID: -2599574461151053155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c352b76d8b8c0e0800000000000000
+      internalID: -2249344782543012805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_39
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b67f22033f341000800000000000000
+      internalID: 5698987846760118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fc5589fe3e0a020800000000000000
+      internalID: 2351129623679848193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_41
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bfb944065bb4ad0800000000000000
+      internalID: -2716878525115401416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_42
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738b20b29fe79bfd0800000000000000
+      internalID: -2325688123926595529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120df066344b5e9f0800000000000000
+      internalID: -439747187030634463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_44
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f77cc63460f54040800000000000000
+      internalID: 4631372105027188723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_45
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec73360940927b70800000000000000
+      internalID: 8895330857321200872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_46
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742d705c50db5fe30800000000000000
+      internalID: 4536740032123753031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_47
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce038e6f9c26e730800000000000000
+      internalID: 4027955979994992333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_48
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13816cffd5d19980800000000000000
+      internalID: -8533804660901706979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_49
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2ebd7100330dbe0800000000000000
+      internalID: -1454606604147367234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_50
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f2c559de663b790800000000000000
+      internalID: -7515550182552096911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_51
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4499d032a6d06f860800000000000000
+      internalID: 7563247373721114948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_52
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadb6ba2c7c8d2ae0800000000000000
+      internalID: -1572446229961982548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_53
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fa91743c14afb00800000000000000
+      internalID: 863074585562165112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_54
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faf2ee931509e890800000000000000
+      internalID: -7428400528542729488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_55
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f86dd45f46a4e50800000000000000
+      internalID: 6794353992577486741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_56
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac62082986cdb200800000000000000
+      internalID: 197532251058236590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_57
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7124c72596004300800000000000000
+      internalID: 234194418310324602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_58
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b69d7094bd73b90800000000000000
+      internalID: -7262094767400850571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_59
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bbc7ce549fa4050800000000000000
+      internalID: 5785710750026480412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_60
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17875aeecb94a8870800000000000000
+      internalID: 8685835907143923825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_61
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8e2a0cb641fcac0800000000000000
+      internalID: -3832822304843044697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_62
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585348009efe80400800000000000000
+      internalID: 290745959980479877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_63
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b319b753c95af7f0800000000000000
+      internalID: -578050906638445645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 189
+        width: 134
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adca30af26b31baf0800000000000000
+      internalID: -382459197062402854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_65
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 189
+        width: 102
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab533f8db3c9b290800000000000000
+      internalID: -7874047254561858650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_66
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 269
+        width: 134
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa2f16e93290e300800000000000000
+      internalID: 279383954268564209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_67
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 269
+        width: 102
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c9f3c7a518327d0800000000000000
+      internalID: -2944367505738589095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_68
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07641661e4234cb0800000000000000
+      internalID: -4881017020640631030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_69
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 125
+        width: 470
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaa12a59be2212b0800000000000000
+      internalID: -5615374411761603861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9297ab1ae24c9f2a0800000000000000
+      internalID: -6703110865803380439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40bb303717481a20800000000000000
+      internalID: 3033252513953067084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_72
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec76870e333604c0800000000000000
+      internalID: -4321710450908168992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_73
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d6f471492c54810800000000000000
+      internalID: 1749017971605335357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_74
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c0e70fb8b7ae120800000000000000
+      internalID: 2443901588767378476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_75
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f91f2e9258fa08f0800000000000000
+      internalID: -573372968811423245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_76
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc4af5e5cc597030800000000000000
+      internalID: 3492924991039229131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_77
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dfaff870672fd80800000000000000
+      internalID: -8218376595145294468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3539ef38731b5160800000000000000
+      internalID: 7015222251748930879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_79
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be786be743a646040800000000000000
+      internalID: 4639950289795188715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_80
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05b8b2e20c169060800000000000000
+      internalID: 6959781072866948366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_81
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3334b3f02221745b0800000000000000
+      internalID: -5384314892004408525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_82
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1153879225930d0800000000000000
+      internalID: -3442630102084152858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_83
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f657377c3acad90800000000000000
+      internalID: -7085108036729737364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4635c32e82abe030800000000000000
+      internalID: 3525089864716727883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_85
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 374
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ba36edf129c86e0800000000000000
+      internalID: -1833930282673919168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_86
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f194ef256f1937830800000000000000
+      internalID: 4067755375586068767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_87
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b3577c5f0adc980800000000000000
+      internalID: -8516974342813959410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_88
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4ebc5f10450ec90800000000000000
+      internalID: -7142616641614125846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_89
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fb99191c622c850800000000000000
+      internalID: 6395717033632841545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_90
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bbdf5f59a00d0b0800000000000000
+      internalID: -5706049088684967039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_91
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b136c8585ab4741f0800000000000000
+      internalID: -1060796012940205285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_92
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31792d2cd0df0f510800000000000000
+      internalID: 1581041704752027411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_93
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593633c8f5a660e20800000000000000
+      internalID: 3316455134211564437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bars-Sliders-Scrollbars_94
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577d0620920432310800000000000000
+      internalID: 1379016455783241589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bars-Sliders-Scrollbars_0: -6766592347891582657
+      Bars-Sliders-Scrollbars_1: -2275672100299212109
+      Bars-Sliders-Scrollbars_10: -340727833697799529
+      Bars-Sliders-Scrollbars_11: -2403341081005016598
+      Bars-Sliders-Scrollbars_12: 9107551516012500472
+      Bars-Sliders-Scrollbars_13: 514997909771903685
+      Bars-Sliders-Scrollbars_14: 7924546189709533380
+      Bars-Sliders-Scrollbars_15: -3723306380685394081
+      Bars-Sliders-Scrollbars_16: -7947742014676981703
+      Bars-Sliders-Scrollbars_17: 5266313895887886633
+      Bars-Sliders-Scrollbars_18: -1503632490736850971
+      Bars-Sliders-Scrollbars_19: -8539416585284101583
+      Bars-Sliders-Scrollbars_2: -7323701090781603283
+      Bars-Sliders-Scrollbars_20: 1042293109179348849
+      Bars-Sliders-Scrollbars_21: -4243234113817269355
+      Bars-Sliders-Scrollbars_22: -7964950719914703438
+      Bars-Sliders-Scrollbars_23: 5232512867637985922
+      Bars-Sliders-Scrollbars_24: 7698153953799154648
+      Bars-Sliders-Scrollbars_25: 9212055037510117955
+      Bars-Sliders-Scrollbars_26: 3712554976770704828
+      Bars-Sliders-Scrollbars_27: 637051602112251372
+      Bars-Sliders-Scrollbars_28: -6605872488671543961
+      Bars-Sliders-Scrollbars_29: 4590292261032386872
+      Bars-Sliders-Scrollbars_3: 539980926711148905
+      Bars-Sliders-Scrollbars_30: 4379917448054649564
+      Bars-Sliders-Scrollbars_31: -812906041346144392
+      Bars-Sliders-Scrollbars_32: -1200728719360968214
+      Bars-Sliders-Scrollbars_33: 2228824982218606201
+      Bars-Sliders-Scrollbars_34: -8567825411257353652
+      Bars-Sliders-Scrollbars_35: 7198876645603894223
+      Bars-Sliders-Scrollbars_36: 3806115723456432658
+      Bars-Sliders-Scrollbars_37: -2599574461151053155
+      Bars-Sliders-Scrollbars_38: -2249344782543012805
+      Bars-Sliders-Scrollbars_39: 5698987846760118
+      Bars-Sliders-Scrollbars_4: -7902959528186192349
+      Bars-Sliders-Scrollbars_40: 2351129623679848193
+      Bars-Sliders-Scrollbars_41: -2716878525115401416
+      Bars-Sliders-Scrollbars_42: -2325688123926595529
+      Bars-Sliders-Scrollbars_43: -439747187030634463
+      Bars-Sliders-Scrollbars_44: 4631372105027188723
+      Bars-Sliders-Scrollbars_45: 8895330857321200872
+      Bars-Sliders-Scrollbars_46: 4536740032123753031
+      Bars-Sliders-Scrollbars_47: 4027955979994992333
+      Bars-Sliders-Scrollbars_48: -8533804660901706979
+      Bars-Sliders-Scrollbars_49: -1454606604147367234
+      Bars-Sliders-Scrollbars_5: 2284346048465698473
+      Bars-Sliders-Scrollbars_50: -7515550182552096911
+      Bars-Sliders-Scrollbars_51: 7563247373721114948
+      Bars-Sliders-Scrollbars_52: -1572446229961982548
+      Bars-Sliders-Scrollbars_53: 863074585562165112
+      Bars-Sliders-Scrollbars_54: -7428400528542729488
+      Bars-Sliders-Scrollbars_55: 6794353992577486741
+      Bars-Sliders-Scrollbars_56: 197532251058236590
+      Bars-Sliders-Scrollbars_57: 234194418310324602
+      Bars-Sliders-Scrollbars_58: -7262094767400850571
+      Bars-Sliders-Scrollbars_59: 5785710750026480412
+      Bars-Sliders-Scrollbars_6: -5594831995490997880
+      Bars-Sliders-Scrollbars_60: 8685835907143923825
+      Bars-Sliders-Scrollbars_61: -3832822304843044697
+      Bars-Sliders-Scrollbars_62: 290745959980479877
+      Bars-Sliders-Scrollbars_63: -578050906638445645
+      Bars-Sliders-Scrollbars_64: -382459197062402854
+      Bars-Sliders-Scrollbars_65: -7874047254561858650
+      Bars-Sliders-Scrollbars_66: 279383954268564209
+      Bars-Sliders-Scrollbars_67: -2944367505738589095
+      Bars-Sliders-Scrollbars_68: -4881017020640631030
+      Bars-Sliders-Scrollbars_69: -5615374411761603861
+      Bars-Sliders-Scrollbars_7: -5766910503384565445
+      Bars-Sliders-Scrollbars_70: -6703110865803380439
+      Bars-Sliders-Scrollbars_71: 3033252513953067084
+      Bars-Sliders-Scrollbars_72: -4321710450908168992
+      Bars-Sliders-Scrollbars_73: 1749017971605335357
+      Bars-Sliders-Scrollbars_74: 2443901588767378476
+      Bars-Sliders-Scrollbars_75: -573372968811423245
+      Bars-Sliders-Scrollbars_76: 3492924991039229131
+      Bars-Sliders-Scrollbars_77: -8218376595145294468
+      Bars-Sliders-Scrollbars_78: 7015222251748930879
+      Bars-Sliders-Scrollbars_79: 4639950289795188715
+      Bars-Sliders-Scrollbars_8: -914145505802987107
+      Bars-Sliders-Scrollbars_80: 6959781072866948366
+      Bars-Sliders-Scrollbars_81: -5384314892004408525
+      Bars-Sliders-Scrollbars_82: -3442630102084152858
+      Bars-Sliders-Scrollbars_83: -7085108036729737364
+      Bars-Sliders-Scrollbars_84: 3525089864716727883
+      Bars-Sliders-Scrollbars_85: -1833930282673919168
+      Bars-Sliders-Scrollbars_86: 4067755375586068767
+      Bars-Sliders-Scrollbars_87: -8516974342813959410
+      Bars-Sliders-Scrollbars_88: -7142616641614125846
+      Bars-Sliders-Scrollbars_89: 6395717033632841545
+      Bars-Sliders-Scrollbars_9: 4141572760068038704
+      Bars-Sliders-Scrollbars_90: -5706049088684967039
+      Bars-Sliders-Scrollbars_91: -1060796012940205285
+      Bars-Sliders-Scrollbars_92: 1581041704752027411
+      Bars-Sliders-Scrollbars_93: 3316455134211564437
+      Bars-Sliders-Scrollbars_94: 1379016455783241589
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
