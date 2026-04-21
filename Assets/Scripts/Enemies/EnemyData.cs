@@ -181,6 +181,12 @@ public class EnemyData : ScriptableObject
     public DamageType[] immunities;
     public Condition[] conditionImmunities;
 
+    // ── Vulnerabilities ──────────────────────────────────────────────
+
+    [Header("Vulnerabilities")]
+
+    public DamageType[] vulnerabilities;
+
     // ── Senses & Perception ──────────────────────────────────────────────
 
     [Header("Senses")]

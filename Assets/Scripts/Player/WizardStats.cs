@@ -46,6 +46,41 @@ public class WizardStats : ScriptableObject
     public int WisMod => (wisdom - 10) / 2;
     public int ChaMod => (charisma - 10) / 2;
 
+    /// <summary>
+    /// Returns the ability modifier for the given AbilityScore enum value.
+    /// Bridges the existing per-ability properties (StrMod, DexMod, etc.)
+    /// with the AbilityScore enum used by CombatManager and EnemyData.
+    /// </summary>
+    public int GetModifier(AbilityScore ability)
+    {
+        return ability switch
+        {
+            AbilityScore.Strength => StrMod,
+            AbilityScore.Dexterity => DexMod,
+            AbilityScore.Constitution => ConMod,
+            AbilityScore.Intelligence => IntMod,
+            AbilityScore.Wisdom => WisMod,
+            AbilityScore.Charisma => ChaMod,
+            _ => 0
+        };
+    }
+
+    /// <summary>
+    /// Returns the saving throw modifier for a given ability.
+    /// TODO: Add saving throw proficiency tracking. For now, returns
+    /// the raw ability modifier. Wizards are proficient in INT and WIS saves.
+    /// </summary>
+    public int GetSavingThrowModifier(AbilityScore ability)
+    {
+        int modifier = GetModifier(ability);
+
+        // Wizards are proficient in Intelligence and Wisdom saving throws
+        if (ability == AbilityScore.Intelligence || ability == AbilityScore.Wisdom)
+            modifier += proficiencyBonus;
+
+        return modifier;
+    }
+
     // ── Proficiency ───────────────────────────────────────────────────────────
     [Header("Proficiency")]
     [Tooltip("Proficiency bonus. In 5e: +2 at level 1, scaling up to +6 at level 17+.")]

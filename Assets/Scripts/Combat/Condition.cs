@@ -22,5 +22,6 @@ public enum Condition
     Prone,
     Restrained,
     Stunned,
-    Unconscious
+    Unconscious,
+    None
 }

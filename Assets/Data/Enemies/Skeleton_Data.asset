@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c14e0cccd674af41bb9a91f14ca10b9, type: 3}
+  m_Name: Skeleton_Data
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  creatureName: Skeleton
+  challengeRating: 0
+  size: 2
+  description: 
+  armorClass: 14
+  maxHP: 13
+  movementSpeed: 1
+  proficiencyBonus: 2
+  strength: 10
+  dexterity: 16
+  constitution: 15
+  intelligence: 6
+  wisdom: 8
+  charisma: 5
+  savingThrowProficiencies: 
+  attacks:
+  - attackName: Shortsword
+    attackRange: 0
+    rangeTiles: 1
+    attackBonus: 5
+    damageDiceCount: 1
+    damageDiceSides: 6
+    damageBonus: 3
+    damageType: 1
+    appliedCondition: 14
+    conditionSaveDC: 0
+    conditionSaveAbility: 0
+    conditionDurationTurns: 0
+  - attackName: Shortbow
+    attackRange: 1
+    rangeTiles: 16
+    attackBonus: 5
+    damageDiceCount: 1
+    damageDiceSides: 6
+    damageBonus: 3
+    damageType: 1
+    appliedCondition: 14
+    conditionSaveDC: 0
+    conditionSaveAbility: 0
+    conditionDurationTurns: 0
+  hasMultiattack: 0
+  multiattackCount: 0
+  canCastSpells: 0
+  spellcasting:
+    spellcastingAbility: 0
+    spellSaveDC: 0
+    spellAttackBonus: 0
+    spellSlots: 
+    knownSpells: []
+  resistances: 
+  immunities: 
+  conditionImmunities: 
+  vulnerabilities: 00000000
+  darkvisionRange: 12
+  passivePerception: 9
+  aggroRadius: 4
+  retreatThreshold: 0
+  xpValue: 50
+  lootTable: {fileID: 0}
+  sprite: {fileID: 0}
