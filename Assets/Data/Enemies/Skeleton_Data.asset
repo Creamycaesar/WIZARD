@@ -62,8 +62,8 @@ MonoBehaviour:
     spellSlots: 
     knownSpells: []
   resistances: 
-  immunities: 
-  conditionImmunities: 
+  immunities: 07000000
+  conditionImmunities: 09000000
   vulnerabilities: 00000000
   darkvisionRange: 12
   passivePerception: 9
