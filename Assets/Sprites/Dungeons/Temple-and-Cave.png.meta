@@ -415,7 +415,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -429,7 +429,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -453,7 +453,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -507,10 +507,10 @@ TextureImporter:
       name: Temple-and-Cave_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 1031
-        width: 150
-        height: 204
+        x: 16
+        y: 1216
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -529,10 +529,10 @@ TextureImporter:
       name: Temple-and-Cave_1
       rect:
         serializedVersion: 2
-        x: 189
-        y: 1032
-        width: 54
-        height: 203
+        x: 32
+        y: 1216
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,10 +551,10 @@ TextureImporter:
       name: Temple-and-Cave_2
       rect:
         serializedVersion: 2
-        x: 269
-        y: 1079
-        width: 150
-        height: 156
+        x: 48
+        y: 1216
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,10 +573,10 @@ TextureImporter:
       name: Temple-and-Cave_3
       rect:
         serializedVersion: 2
-        x: 311
-        y: 1072
-        width: 7
-        height: 7
+        x: 64
+        y: 1216
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -595,10 +595,10 @@ TextureImporter:
       name: Temple-and-Cave_4
       rect:
         serializedVersion: 2
-        x: 317
-        y: 1072
-        width: 7
-        height: 7
+        x: 80
+        y: 1216
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -617,10 +617,10 @@ TextureImporter:
       name: Temple-and-Cave_5
       rect:
         serializedVersion: 2
-        x: 323
-        y: 1072
-        width: 7
-        height: 7
+        x: 96
+        y: 1216
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -639,10 +639,10 @@ TextureImporter:
       name: Temple-and-Cave_6
       rect:
         serializedVersion: 2
-        x: 329
-        y: 1072
-        width: 7
-        height: 7
+        x: 16
+        y: 1200
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -661,10 +661,10 @@ TextureImporter:
       name: Temple-and-Cave_7
       rect:
         serializedVersion: 2
-        x: 335
-        y: 1072
-        width: 7
-        height: 7
+        x: 32
+        y: 1200
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -683,10 +683,10 @@ TextureImporter:
       name: Temple-and-Cave_8
       rect:
         serializedVersion: 2
-        x: 345
-        y: 1072
-        width: 7
-        height: 7
+        x: 16
+        y: 1184
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -705,10 +705,10 @@ TextureImporter:
       name: Temple-and-Cave_9
       rect:
         serializedVersion: 2
-        x: 351
-        y: 1072
-        width: 7
-        height: 7
+        x: 16
+        y: 1168
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -727,10 +727,10 @@ TextureImporter:
       name: Temple-and-Cave_10
       rect:
         serializedVersion: 2
-        x: 357
-        y: 1072
-        width: 7
-        height: 7
+        x: 16
+        y: 1152
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -749,10 +749,10 @@ TextureImporter:
       name: Temple-and-Cave_11
       rect:
         serializedVersion: 2
-        x: 363
-        y: 1072
-        width: 7
-        height: 7
+        x: 16
+        y: 1136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -771,10 +771,10 @@ TextureImporter:
       name: Temple-and-Cave_12
       rect:
         serializedVersion: 2
-        x: 369
-        y: 1072
-        width: 7
-        height: 7
+        x: 16
+        y: 1120
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -793,10 +793,10 @@ TextureImporter:
       name: Temple-and-Cave_13
       rect:
         serializedVersion: 2
-        x: 53
-        y: 1024
-        width: 7
-        height: 7
+        x: 16
+        y: 1104
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -815,10 +815,10 @@ TextureImporter:
       name: Temple-and-Cave_14
       rect:
         serializedVersion: 2
-        x: 59
-        y: 1024
-        width: 7
-        height: 7
+        x: 16
+        y: 1088
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -837,10 +837,10 @@ TextureImporter:
       name: Temple-and-Cave_15
       rect:
         serializedVersion: 2
-        x: 65
-        y: 1024
-        width: 7
-        height: 7
+        x: 16
+        y: 1072
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -859,10 +859,10 @@ TextureImporter:
       name: Temple-and-Cave_16
       rect:
         serializedVersion: 2
-        x: 71
-        y: 1024
-        width: 7
-        height: 7
+        x: 16
+        y: 1056
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -881,10 +881,10 @@ TextureImporter:
       name: Temple-and-Cave_17
       rect:
         serializedVersion: 2
-        x: 77
-        y: 1024
-        width: 7
-        height: 7
+        x: 16
+        y: 1040
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -903,10 +903,10 @@ TextureImporter:
       name: Temple-and-Cave_18
       rect:
         serializedVersion: 2
-        x: 87
-        y: 1024
-        width: 7
-        height: 7
+        x: 48
+        y: 1200
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -925,10 +925,10 @@ TextureImporter:
       name: Temple-and-Cave_19
       rect:
         serializedVersion: 2
-        x: 97
-        y: 1024
-        width: 7
-        height: 7
+        x: 64
+        y: 1200
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -947,10 +947,10 @@ TextureImporter:
       name: Temple-and-Cave_20
       rect:
         serializedVersion: 2
-        x: 103
-        y: 1024
-        width: 7
-        height: 7
+        x: 80
+        y: 1200
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -969,10 +969,10 @@ TextureImporter:
       name: Temple-and-Cave_21
       rect:
         serializedVersion: 2
-        x: 109
-        y: 1024
-        width: 7
-        height: 7
+        x: 48
+        y: 1184
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -991,10 +991,10 @@ TextureImporter:
       name: Temple-and-Cave_22
       rect:
         serializedVersion: 2
-        x: 115
-        y: 1024
-        width: 7
-        height: 7
+        x: 64
+        y: 1184
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1013,10 +1013,10 @@ TextureImporter:
       name: Temple-and-Cave_23
       rect:
         serializedVersion: 2
-        x: 121
-        y: 1024
-        width: 7
-        height: 7
+        x: 80
+        y: 1184
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1035,10 +1035,10 @@ TextureImporter:
       name: Temple-and-Cave_24
       rect:
         serializedVersion: 2
-        x: 191
-        y: 1026
-        width: 7
-        height: 7
+        x: 95
+        y: 1184
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1057,10 +1057,10 @@ TextureImporter:
       name: Temple-and-Cave_25
       rect:
         serializedVersion: 2
-        x: 197
-        y: 1026
-        width: 7
-        height: 7
+        x: 111
+        y: 1184
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1079,10 +1079,10 @@ TextureImporter:
       name: Temple-and-Cave_26
       rect:
         serializedVersion: 2
-        x: 203
-        y: 1026
-        width: 7
-        height: 7
+        x: 127
+        y: 1184
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1101,10 +1101,10 @@ TextureImporter:
       name: Temple-and-Cave_27
       rect:
         serializedVersion: 2
-        x: 209
-        y: 1026
-        width: 7
-        height: 7
+        x: 144
+        y: 1184
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1123,10 +1123,10 @@ TextureImporter:
       name: Temple-and-Cave_28
       rect:
         serializedVersion: 2
-        x: 215
-        y: 1026
-        width: 7
-        height: 7
+        x: 32
+        y: 1168
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1145,10 +1145,10 @@ TextureImporter:
       name: Temple-and-Cave_29
       rect:
         serializedVersion: 2
-        x: 221
-        y: 1026
-        width: 7
-        height: 7
+        x: 48
+        y: 1168
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1167,10 +1167,10 @@ TextureImporter:
       name: Temple-and-Cave_30
       rect:
         serializedVersion: 2
-        x: 227
-        y: 1026
-        width: 7
-        height: 7
+        x: 64
+        y: 1168
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1189,10 +1189,10 @@ TextureImporter:
       name: Temple-and-Cave_31
       rect:
         serializedVersion: 2
-        x: 233
-        y: 1026
-        width: 7
-        height: 7
+        x: 80
+        y: 1168
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1211,10 +1211,10 @@ TextureImporter:
       name: Temple-and-Cave_32
       rect:
         serializedVersion: 2
-        x: 13
-        y: 968
-        width: 198
-        height: 43
+        x: 96
+        y: 1168
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1233,10 +1233,10 @@ TextureImporter:
       name: Temple-and-Cave_33
       rect:
         serializedVersion: 2
-        x: 80
-        y: 960
-        width: 7
-        height: 7
+        x: 32
+        y: 1152
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1255,10 +1255,10 @@ TextureImporter:
       name: Temple-and-Cave_34
       rect:
         serializedVersion: 2
-        x: 86
-        y: 960
-        width: 7
-        height: 7
+        x: 48
+        y: 1152
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1277,10 +1277,10 @@ TextureImporter:
       name: Temple-and-Cave_35
       rect:
         serializedVersion: 2
-        x: 92
-        y: 960
-        width: 7
-        height: 7
+        x: 64
+        y: 1152
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1299,10 +1299,10 @@ TextureImporter:
       name: Temple-and-Cave_36
       rect:
         serializedVersion: 2
-        x: 98
-        y: 960
-        width: 7
-        height: 7
+        x: 80
+        y: 1152
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1321,10 +1321,10 @@ TextureImporter:
       name: Temple-and-Cave_37
       rect:
         serializedVersion: 2
-        x: 104
-        y: 960
-        width: 7
-        height: 7
+        x: 32
+        y: 1136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1343,10 +1343,10 @@ TextureImporter:
       name: Temple-and-Cave_38
       rect:
         serializedVersion: 2
-        x: 114
-        y: 960
-        width: 7
-        height: 7
+        x: 48
+        y: 1136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1365,10 +1365,10 @@ TextureImporter:
       name: Temple-and-Cave_39
       rect:
         serializedVersion: 2
-        x: 120
-        y: 960
-        width: 7
-        height: 7
+        x: 64
+        y: 1136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1387,10 +1387,10 @@ TextureImporter:
       name: Temple-and-Cave_40
       rect:
         serializedVersion: 2
-        x: 126
-        y: 960
-        width: 7
-        height: 7
+        x: 80
+        y: 1136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1409,10 +1409,10 @@ TextureImporter:
       name: Temple-and-Cave_41
       rect:
         serializedVersion: 2
-        x: 132
-        y: 960
-        width: 7
-        height: 7
+        x: 96
+        y: 1136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1431,10 +1431,10 @@ TextureImporter:
       name: Temple-and-Cave_42
       rect:
         serializedVersion: 2
-        x: 138
-        y: 960
-        width: 7
-        height: 7
+        x: 112
+        y: 1136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1453,10 +1453,10 @@ TextureImporter:
       name: Temple-and-Cave_43
       rect:
         serializedVersion: 2
-        x: 13
-        y: 904
-        width: 118
-        height: 43
+        x: 128
+        y: 1136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1475,10 +1475,10 @@ TextureImporter:
       name: Temple-and-Cave_44
       rect:
         serializedVersion: 2
-        x: 8
-        y: 896
-        width: 7
-        height: 7
+        x: 144
+        y: 1136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1497,10 +1497,10 @@ TextureImporter:
       name: Temple-and-Cave_45
       rect:
         serializedVersion: 2
-        x: 14
-        y: 896
-        width: 7
-        height: 7
+        x: 32
+        y: 1120
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1519,10 +1519,10 @@ TextureImporter:
       name: Temple-and-Cave_46
       rect:
         serializedVersion: 2
-        x: 20
-        y: 896
-        width: 7
-        height: 7
+        x: 48
+        y: 1120
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1541,10 +1541,10 @@ TextureImporter:
       name: Temple-and-Cave_47
       rect:
         serializedVersion: 2
-        x: 26
-        y: 896
-        width: 7
-        height: 7
+        x: 64
+        y: 1120
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1563,10 +1563,10 @@ TextureImporter:
       name: Temple-and-Cave_48
       rect:
         serializedVersion: 2
-        x: 36
-        y: 895
-        width: 7
-        height: 8
+        x: 80
+        y: 1120
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1585,10 +1585,10 @@ TextureImporter:
       name: Temple-and-Cave_49
       rect:
         serializedVersion: 2
-        x: 42
-        y: 896
-        width: 7
-        height: 7
+        x: 96
+        y: 1120
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1607,10 +1607,10 @@ TextureImporter:
       name: Temple-and-Cave_50
       rect:
         serializedVersion: 2
-        x: 48
-        y: 896
-        width: 7
-        height: 7
+        x: 32
+        y: 1104
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1629,10 +1629,10 @@ TextureImporter:
       name: Temple-and-Cave_51
       rect:
         serializedVersion: 2
-        x: 54
-        y: 896
-        width: 7
-        height: 7
+        x: 48
+        y: 1104
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1651,10 +1651,10 @@ TextureImporter:
       name: Temple-and-Cave_52
       rect:
         serializedVersion: 2
-        x: 60
-        y: 896
-        width: 7
-        height: 7
+        x: 64
+        y: 1104
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1673,10 +1673,10 @@ TextureImporter:
       name: Temple-and-Cave_53
       rect:
         serializedVersion: 2
-        x: 66
-        y: 896
-        width: 7
-        height: 7
+        x: 80
+        y: 1104
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1695,10 +1695,10 @@ TextureImporter:
       name: Temple-and-Cave_54
       rect:
         serializedVersion: 2
-        x: 72
-        y: 896
-        width: 7
-        height: 7
+        x: 96
+        y: 1104
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1717,10 +1717,10 @@ TextureImporter:
       name: Temple-and-Cave_55
       rect:
         serializedVersion: 2
-        x: 82
-        y: 896
-        width: 7
-        height: 7
+        x: 112
+        y: 1104
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1739,10 +1739,10 @@ TextureImporter:
       name: Temple-and-Cave_56
       rect:
         serializedVersion: 2
-        x: 88
-        y: 896
-        width: 7
-        height: 7
+        x: 128
+        y: 1104
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1761,10 +1761,10 @@ TextureImporter:
       name: Temple-and-Cave_57
       rect:
         serializedVersion: 2
-        x: 94
-        y: 896
-        width: 7
-        height: 7
+        x: 32
+        y: 1088
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1783,10 +1783,10 @@ TextureImporter:
       name: Temple-and-Cave_58
       rect:
         serializedVersion: 2
-        x: 100
-        y: 896
-        width: 7
-        height: 7
+        x: 48
+        y: 1088
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1805,10 +1805,10 @@ TextureImporter:
       name: Temple-and-Cave_59
       rect:
         serializedVersion: 2
-        x: 106
-        y: 896
-        width: 7
-        height: 7
+        x: 64
+        y: 1088
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1827,10 +1827,10 @@ TextureImporter:
       name: Temple-and-Cave_60
       rect:
         serializedVersion: 2
-        x: 112
-        y: 896
-        width: 7
-        height: 7
+        x: 80
+        y: 1088
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1849,10 +1849,10 @@ TextureImporter:
       name: Temple-and-Cave_61
       rect:
         serializedVersion: 2
-        x: 118
-        y: 896
-        width: 7
-        height: 7
+        x: 96
+        y: 1088
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1871,10 +1871,10 @@ TextureImporter:
       name: Temple-and-Cave_62
       rect:
         serializedVersion: 2
-        x: 124
-        y: 896
-        width: 7
-        height: 7
+        x: 112
+        y: 1088
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1893,10 +1893,10 @@ TextureImporter:
       name: Temple-and-Cave_63
       rect:
         serializedVersion: 2
-        x: 130
-        y: 896
-        width: 7
-        height: 7
+        x: 32
+        y: 1072
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1915,10 +1915,10 @@ TextureImporter:
       name: Temple-and-Cave_64
       rect:
         serializedVersion: 2
-        x: 13
-        y: 824
-        width: 166
-        height: 59
+        x: 48
+        y: 1072
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1937,10 +1937,10 @@ TextureImporter:
       name: Temple-and-Cave_65
       rect:
         serializedVersion: 2
-        x: 83
-        y: 816
-        width: 7
-        height: 7
+        x: 64
+        y: 1072
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1959,10 +1959,10 @@ TextureImporter:
       name: Temple-and-Cave_66
       rect:
         serializedVersion: 2
-        x: 89
-        y: 816
-        width: 7
-        height: 7
+        x: 80
+        y: 1072
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1981,10 +1981,10 @@ TextureImporter:
       name: Temple-and-Cave_67
       rect:
         serializedVersion: 2
-        x: 95
-        y: 816
-        width: 7
-        height: 7
+        x: 96
+        y: 1072
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2003,10 +2003,10 @@ TextureImporter:
       name: Temple-and-Cave_68
       rect:
         serializedVersion: 2
-        x: 101
-        y: 816
-        width: 7
-        height: 7
+        x: 32
+        y: 1056
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2025,10 +2025,10 @@ TextureImporter:
       name: Temple-and-Cave_69
       rect:
         serializedVersion: 2
-        x: 13
-        y: 743
-        width: 150
-        height: 60
+        x: 48
+        y: 1056
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2047,10 +2047,10 @@ TextureImporter:
       name: Temple-and-Cave_70
       rect:
         serializedVersion: 2
-        x: 70
-        y: 735
-        width: 7
-        height: 8
+        x: 64
+        y: 1056
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2069,10 +2069,10 @@ TextureImporter:
       name: Temple-and-Cave_71
       rect:
         serializedVersion: 2
-        x: 76
-        y: 736
-        width: 7
-        height: 7
+        x: 80
+        y: 1056
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2091,10 +2091,10 @@ TextureImporter:
       name: Temple-and-Cave_72
       rect:
         serializedVersion: 2
-        x: 82
-        y: 736
-        width: 7
-        height: 7
+        x: 96
+        y: 1056
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2113,10 +2113,10 @@ TextureImporter:
       name: Temple-and-Cave_73
       rect:
         serializedVersion: 2
-        x: 88
-        y: 736
-        width: 7
-        height: 7
+        x: 112
+        y: 1056
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2135,10 +2135,10 @@ TextureImporter:
       name: Temple-and-Cave_74
       rect:
         serializedVersion: 2
-        x: 94
-        y: 736
-        width: 7
-        height: 7
+        x: 128
+        y: 1056
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2157,10 +2157,10 @@ TextureImporter:
       name: Temple-and-Cave_75
       rect:
         serializedVersion: 2
-        x: 100
-        y: 736
-        width: 7
-        height: 7
+        x: 32
+        y: 1040
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2179,10 +2179,10 @@ TextureImporter:
       name: Temple-and-Cave_76
       rect:
         serializedVersion: 2
-        x: 13
-        y: 647
-        width: 230
-        height: 76
+        x: 48
+        y: 1040
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2201,10 +2201,10 @@ TextureImporter:
       name: Temple-and-Cave_77
       rect:
         serializedVersion: 2
-        x: 94
-        y: 639
-        width: 7
-        height: 8
+        x: 64
+        y: 1040
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2223,10 +2223,10 @@ TextureImporter:
       name: Temple-and-Cave_78
       rect:
         serializedVersion: 2
-        x: 100
-        y: 640
-        width: 7
-        height: 7
+        x: 80
+        y: 1040
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2245,10 +2245,10 @@ TextureImporter:
       name: Temple-and-Cave_79
       rect:
         serializedVersion: 2
-        x: 106
-        y: 640
-        width: 7
-        height: 7
+        x: 96
+        y: 1040
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2267,10 +2267,10 @@ TextureImporter:
       name: Temple-and-Cave_80
       rect:
         serializedVersion: 2
-        x: 116
-        y: 640
-        width: 7
-        height: 7
+        x: 112
+        y: 1040
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2289,10 +2289,10 @@ TextureImporter:
       name: Temple-and-Cave_81
       rect:
         serializedVersion: 2
-        x: 126
-        y: 640
-        width: 7
-        height: 7
+        x: 192
+        y: 1216
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2311,10 +2311,10 @@ TextureImporter:
       name: Temple-and-Cave_82
       rect:
         serializedVersion: 2
-        x: 132
-        y: 640
-        width: 7
-        height: 7
+        x: 208
+        y: 1216
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2333,10 +2333,10 @@ TextureImporter:
       name: Temple-and-Cave_83
       rect:
         serializedVersion: 2
-        x: 138
-        y: 640
-        width: 7
-        height: 7
+        x: 224
+        y: 1216
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2355,10 +2355,10 @@ TextureImporter:
       name: Temple-and-Cave_84
       rect:
         serializedVersion: 2
-        x: 144
-        y: 640
-        width: 7
-        height: 7
+        x: 192
+        y: 1200
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2377,10 +2377,10 @@ TextureImporter:
       name: Temple-and-Cave_85
       rect:
         serializedVersion: 2
-        x: 150
-        y: 640
-        width: 7
-        height: 7
+        x: 208
+        y: 1200
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2399,10 +2399,10 @@ TextureImporter:
       name: Temple-and-Cave_86
       rect:
         serializedVersion: 2
-        x: 156
-        y: 640
-        width: 7
-        height: 7
+        x: 224
+        y: 1200
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2421,10 +2421,10 @@ TextureImporter:
       name: Temple-and-Cave_87
       rect:
         serializedVersion: 2
-        x: 13
-        y: 567
-        width: 390
-        height: 60
+        x: 192
+        y: 1184
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2443,10 +2443,10 @@ TextureImporter:
       name: Temple-and-Cave_88
       rect:
         serializedVersion: 2
-        x: 179
-        y: 559
-        width: 7
-        height: 8
+        x: 208
+        y: 1184
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2465,10 +2465,10 @@ TextureImporter:
       name: Temple-and-Cave_89
       rect:
         serializedVersion: 2
-        x: 185
-        y: 560
-        width: 7
-        height: 7
+        x: 224
+        y: 1184
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2487,10 +2487,10 @@ TextureImporter:
       name: Temple-and-Cave_90
       rect:
         serializedVersion: 2
-        x: 191
-        y: 560
-        width: 7
-        height: 7
+        x: 192
+        y: 1168
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2509,10 +2509,10 @@ TextureImporter:
       name: Temple-and-Cave_91
       rect:
         serializedVersion: 2
-        x: 197
-        y: 560
-        width: 7
-        height: 7
+        x: 208
+        y: 1168
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2531,10 +2531,10 @@ TextureImporter:
       name: Temple-and-Cave_92
       rect:
         serializedVersion: 2
-        x: 203
-        y: 560
-        width: 7
-        height: 7
+        x: 224
+        y: 1168
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2553,19 +2553,19 @@ TextureImporter:
       name: Temple-and-Cave_93
       rect:
         serializedVersion: 2
-        x: 213
-        y: 560
-        width: 7
-        height: 7
+        x: 192
+        y: 1152
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bdcdbe97570ad4170800000000000000
+      spriteID: 0ac33f6a3b50b6245a50018f857d4e64
       internalID: 8164358125909695707
       vertices: []
       indices: 
@@ -2575,19 +2575,19 @@ TextureImporter:
       name: Temple-and-Cave_94
       rect:
         serializedVersion: 2
-        x: 219
-        y: 560
-        width: 7
-        height: 7
+        x: 208
+        y: 1152
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 03797a7cc6152ada0800000000000000
+      spriteID: 24f9596cdf98e9b4f82e430f96522dba
       internalID: -5935091831272925392
       vertices: []
       indices: 
@@ -2597,19 +2597,19 @@ TextureImporter:
       name: Temple-and-Cave_95
       rect:
         serializedVersion: 2
-        x: 225
-        y: 560
-        width: 7
-        height: 7
+        x: 224
+        y: 1152
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dfbd10420c33ff150800000000000000
+      spriteID: ea254b2edca11d74a9ce6ced3aba2bc9
       internalID: 5908498136464219133
       vertices: []
       indices: 
@@ -2619,19 +2619,19 @@ TextureImporter:
       name: Temple-and-Cave_96
       rect:
         serializedVersion: 2
-        x: 231
-        y: 560
-        width: 7
-        height: 7
+        x: 192
+        y: 1136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ad692f830a2f48340800000000000000
+      spriteID: e8962a359650fb14e9dd8b51fa353b92
       internalID: 4865280267431089882
       vertices: []
       indices: 
@@ -2641,19 +2641,19 @@ TextureImporter:
       name: Temple-and-Cave_97
       rect:
         serializedVersion: 2
-        x: 13
-        y: 471
-        width: 278
-        height: 76
+        x: 192
+        y: 1120
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 73eb346ebdfa02d50800000000000000
+      spriteID: 4b33d730a07d53a4e96d3d8453411557
       internalID: 6710556803777936951
       vertices: []
       indices: 
@@ -2663,19 +2663,19 @@ TextureImporter:
       name: Temple-and-Cave_98
       rect:
         serializedVersion: 2
-        x: 119
-        y: 464
-        width: 7
-        height: 7
+        x: 192
+        y: 1104
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fd49795b0143733b0800000000000000
+      spriteID: b60f8029bf882114690bbcdbe538204e
       internalID: -5532896370830633761
       vertices: []
       indices: 
@@ -2685,19 +2685,19 @@ TextureImporter:
       name: Temple-and-Cave_99
       rect:
         serializedVersion: 2
-        x: 125
-        y: 464
-        width: 7
-        height: 7
+        x: 192
+        y: 1088
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b7dcb9527170bc230800000000000000
+      spriteID: 650368577621df644a6925ba57a5bb1b
       internalID: 3660026918165269883
       vertices: []
       indices: 
@@ -2707,19 +2707,19 @@ TextureImporter:
       name: Temple-and-Cave_100
       rect:
         serializedVersion: 2
-        x: 131
-        y: 464
-        width: 7
-        height: 7
+        x: 192
+        y: 1072
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 97373a6962cc97400800000000000000
+      spriteID: 539938e9c8025d74a85ce9514c981006
       internalID: 322513314441819001
       vertices: []
       indices: 
@@ -2729,19 +2729,19 @@ TextureImporter:
       name: Temple-and-Cave_101
       rect:
         serializedVersion: 2
-        x: 137
-        y: 464
-        width: 7
-        height: 7
+        x: 192
+        y: 1056
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 524c3944752281030800000000000000
+      spriteID: d35fa7c79c99e9442a193f006aaa403f
       internalID: 3465557671469630501
       vertices: []
       indices: 
@@ -2751,19 +2751,19 @@ TextureImporter:
       name: Temple-and-Cave_102
       rect:
         serializedVersion: 2
-        x: 143
-        y: 464
-        width: 7
-        height: 7
+        x: 192
+        y: 1040
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d03cf28e3ac664fb0800000000000000
+      spriteID: 2a79377e6d5d6e94cbd5cb2ed3574418
       internalID: -4663920912864656627
       vertices: []
       indices: 
@@ -2773,19 +2773,19 @@ TextureImporter:
       name: Temple-and-Cave_103
       rect:
         serializedVersion: 2
-        x: 149
-        y: 463
-        width: 7
-        height: 8
+        x: 208
+        y: 1136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d2e64748aaf812c30800000000000000
+      spriteID: e39e5e564c694de4aba0129812293e22
       internalID: 4332902279036562989
       vertices: []
       indices: 
@@ -2795,19 +2795,19 @@ TextureImporter:
       name: Temple-and-Cave_104
       rect:
         serializedVersion: 2
-        x: 155
-        y: 464
-        width: 7
-        height: 7
+        x: 224
+        y: 1136
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bfaf5d5e08e6647e0800000000000000
+      spriteID: 2cfbabcf1500e224da57e5ebdee0e075
       internalID: -1781615102687577349
       vertices: []
       indices: 
@@ -2817,19 +2817,19 @@ TextureImporter:
       name: Temple-and-Cave_105
       rect:
         serializedVersion: 2
-        x: 161
-        y: 464
-        width: 7
-        height: 7
+        x: 208
+        y: 1120
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 338d2f692d77c44e0800000000000000
+      spriteID: 074c33b465aee244b8e27a73d53f9d8c
       internalID: -1996088788472637389
       vertices: []
       indices: 
@@ -2839,19 +2839,19 @@ TextureImporter:
       name: Temple-and-Cave_106
       rect:
         serializedVersion: 2
-        x: 167
-        y: 464
-        width: 7
-        height: 7
+        x: 224
+        y: 1120
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1dd0304dfd0654f50800000000000000
+      spriteID: 36cef85bc876c70488ec815f5c7ecc56
       internalID: 6864999721447132625
       vertices: []
       indices: 
@@ -2861,19 +2861,19 @@ TextureImporter:
       name: Temple-and-Cave_107
       rect:
         serializedVersion: 2
-        x: 173
-        y: 464
-        width: 7
-        height: 7
+        x: 208
+        y: 1104
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b9b69bb48c81b2dc0800000000000000
+      spriteID: 09f8241b3838e8e45a3a07647d1eca5e
       internalID: -3662806623392797797
       vertices: []
       indices: 
@@ -2883,19 +2883,19 @@ TextureImporter:
       name: Temple-and-Cave_108
       rect:
         serializedVersion: 2
-        x: 179
-        y: 464
-        width: 7
-        height: 7
+        x: 224
+        y: 1104
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 16bc03a78a4310d40800000000000000
+      spriteID: b484df81472b53d48b5e72f14692b598
       internalID: 5548774114106329953
       vertices: []
       indices: 
@@ -2905,19 +2905,19 @@ TextureImporter:
       name: Temple-and-Cave_109
       rect:
         serializedVersion: 2
-        x: 13
-        y: 343
-        width: 182
-        height: 108
+        x: 208
+        y: 1088
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a5b3e94b9bd674120800000000000000
+      spriteID: e1d3d023e8c7eba4f91c5ed6b0b9e0e8
       internalID: 2398005970964724570
       vertices: []
       indices: 
@@ -2927,19 +2927,19 @@ TextureImporter:
       name: Temple-and-Cave_110
       rect:
         serializedVersion: 2
-        x: 91
-        y: 336
-        width: 7
-        height: 7
+        x: 224
+        y: 1088
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 62c2f8b96b92b15c0800000000000000
+      spriteID: 8682e811f6090db4fa9694f01a07224f
       internalID: -4243752359595922394
       vertices: []
       indices: 
@@ -2949,19 +2949,19 @@ TextureImporter:
       name: Temple-and-Cave_111
       rect:
         serializedVersion: 2
-        x: 97
-        y: 336
-        width: 7
-        height: 7
+        x: 208
+        y: 1072
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b2dfd195e09cb6bc0800000000000000
+      spriteID: 95c6c134f60ba564ba4e4010d8ceb05f
       internalID: -3788713598040277717
       vertices: []
       indices: 
@@ -2971,19 +2971,19 @@ TextureImporter:
       name: Temple-and-Cave_112
       rect:
         serializedVersion: 2
-        x: 103
-        y: 336
-        width: 7
-        height: 7
+        x: 224
+        y: 1072
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4e13c3f5d49128570800000000000000
+      spriteID: 88cb6af044e2d19448b9083ac631e972
       internalID: 8467358069510910436
       vertices: []
       indices: 
@@ -2993,19 +2993,19 @@ TextureImporter:
       name: Temple-and-Cave_113
       rect:
         serializedVersion: 2
-        x: 109
-        y: 336
-        width: 7
-        height: 7
+        x: 208
+        y: 1056
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1c5f3dbfc66fa0eb0800000000000000
+      spriteID: d2131b7fff805a446b33b712d400f1de
       internalID: -4752715508794264127
       vertices: []
       indices: 
@@ -3015,19 +3015,19 @@ TextureImporter:
       name: Temple-and-Cave_114
       rect:
         serializedVersion: 2
-        x: 13
-        y: 263
-        width: 150
-        height: 60
+        x: 224
+        y: 1056
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4b1a56599982ed9c0800000000000000
+      spriteID: 38cf437956912574b80f6452057e7d2d
       internalID: -3900635587154697804
       vertices: []
       indices: 
@@ -3037,19 +3037,19 @@ TextureImporter:
       name: Temple-and-Cave_115
       rect:
         serializedVersion: 2
-        x: 74
-        y: 256
-        width: 7
-        height: 7
+        x: 208
+        y: 1040
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fe45bb20d91811a70800000000000000
+      spriteID: f658b2daac9ac11459d9c8dd1e0c52c4
       internalID: 8795954058586969327
       vertices: []
       indices: 
@@ -3059,19 +3059,19 @@ TextureImporter:
       name: Temple-and-Cave_116
       rect:
         serializedVersion: 2
-        x: 80
-        y: 256
-        width: 7
-        height: 7
+        x: 224
+        y: 1040
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: efcb777c6e8152d70800000000000000
+      spriteID: fb20c36bb6a5d984dac4f0df58f3544a
       internalID: 9017641208347344126
       vertices: []
       indices: 
@@ -3081,19 +3081,19 @@ TextureImporter:
       name: Temple-and-Cave_117
       rect:
         serializedVersion: 2
-        x: 86
-        y: 256
-        width: 7
-        height: 7
+        x: 272
+        y: 1216
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 28e06d17a7eeb8ca0800000000000000
+      spriteID: d22060fa2a927dc439095502f041347c
       internalID: -6013450667759890814
       vertices: []
       indices: 
@@ -3103,19 +3103,19 @@ TextureImporter:
       name: Temple-and-Cave_118
       rect:
         serializedVersion: 2
-        x: 92
-        y: 256
-        width: 7
-        height: 7
+        x: 288
+        y: 1216
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0ed538ca35a05dc60800000000000000
+      spriteID: b1fcb65e45d999c4984e69cdf05cd74b
       internalID: 7842185680628440544
       vertices: []
       indices: 
@@ -3125,19 +3125,19 @@ TextureImporter:
       name: Temple-and-Cave_119
       rect:
         serializedVersion: 2
-        x: 98
-        y: 256
-        width: 7
-        height: 7
+        x: 304
+        y: 1216
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 218fe1c5913684e70800000000000000
+      spriteID: 0080e6a79bf2eef40adad04c3a0432c7
       internalID: 9099632007672952850
       vertices: []
       indices: 
@@ -3147,19 +3147,19 @@ TextureImporter:
       name: Temple-and-Cave_120
       rect:
         serializedVersion: 2
-        x: 13
-        y: 23
-        width: 342
-        height: 220
+        x: 320
+        y: 1216
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 57f9c42f77a4b4b10800000000000000
+      spriteID: ffc73386b01edbd4488a3ab3c4146ed5
       internalID: 1966747541304024949
       vertices: []
       indices: 
@@ -3169,19 +3169,19 @@ TextureImporter:
       name: Temple-and-Cave_121
       rect:
         serializedVersion: 2
-        x: 164
-        y: 16
-        width: 7
-        height: 7
+        x: 272
+        y: 1200
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c4e7b51e6d8da52a0800000000000000
+      spriteID: 64ed5a42b97627b4d94572e378c90bc2
       internalID: -6747842674245796276
       vertices: []
       indices: 
@@ -3191,19 +3191,19 @@ TextureImporter:
       name: Temple-and-Cave_122
       rect:
         serializedVersion: 2
-        x: 170
-        y: 16
-        width: 7
-        height: 7
+        x: 272
+        y: 1184
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 43472daa5ac01ce70800000000000000
+      spriteID: cfd432f6d237a1346b44952819c7dc0f
       internalID: 9133595424959132724
       vertices: []
       indices: 
@@ -3213,19 +3213,19 @@ TextureImporter:
       name: Temple-and-Cave_123
       rect:
         serializedVersion: 2
-        x: 176
-        y: 16
-        width: 7
-        height: 7
+        x: 272
+        y: 1168
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3f11c9ed54e477c70800000000000000
+      spriteID: dc1227874d8dffd4b8984af2d0436671
       internalID: 8968723244926112243
       vertices: []
       indices: 
@@ -3235,19 +3235,19 @@ TextureImporter:
       name: Temple-and-Cave_124
       rect:
         serializedVersion: 2
-        x: 182
-        y: 16
-        width: 7
-        height: 7
+        x: 288
+        y: 1200
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7b86a88c718532430800000000000000
+      spriteID: e05ae1fc31cce454ca31bbec863dd9b0
       internalID: 3756943373329131703
       vertices: []
       indices: 
@@ -3257,19 +3257,19 @@ TextureImporter:
       name: Temple-and-Cave_125
       rect:
         serializedVersion: 2
-        x: 188
-        y: 16
-        width: 7
-        height: 7
+        x: 288
+        y: 1184
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 859f82db5003f08e0800000000000000
+      spriteID: ff98337fec0416c4ebde1c5296b1fc43
       internalID: -1725107331053061800
       vertices: []
       indices: 
@@ -3279,20 +3279,5234 @@ TextureImporter:
       name: Temple-and-Cave_126
       rect:
         serializedVersion: 2
-        x: 194
-        y: 16
-        width: 7
-        height: 7
+        x: 288
+        y: 1168
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d0cf1a5a2973e38c0800000000000000
+      spriteID: de0e4e21ca07f0f4aa9e11f57f3cd3f1
       internalID: -4017712714584294387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_127
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80171ff80ab6b35408bee092cfd04f8a
+      internalID: 1366617716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_128
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bdb279f61020045922dd5752bdfa50
+      internalID: 1370834139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_129
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163259a7cef8f01428ca558b1793b4a4
+      internalID: -1961387342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78cdcd88852d6c4b9e1070eb288a625
+      internalID: 1002729992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_131
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622c2447155b7224dab908593be2d4d4
+      internalID: -486095435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_132
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9422d4a74f504934d81664c5bbed3ced
+      internalID: -38054021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_133
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9096fbc343e1ac342bd0389df43bbe6a
+      internalID: 1872858684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c172906543ee248a24dc0d3b9802dc
+      internalID: -1575746694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_135
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e98138e46d0c9459fba97701b36422
+      internalID: -1342839014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_136
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0954d7cd99afed043959c68ae94bc394
+      internalID: 795480688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_137
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a00945faa1efa43895a88d568cb841
+      internalID: -1026264844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_138
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3c4329ac560bf46adda94ca74b5dff
+      internalID: -1518837859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29701eb2715aeb14e9014ea804ab2629
+      internalID: 1312192859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_140
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c23a6433faef2640aa040702f1238a5
+      internalID: -2042814781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_141
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5536968d6dbe0f74b918034c5fa8d967
+      internalID: -484971595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_142
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569fb33bc384aac4a9829ee8686823f1
+      internalID: 1960781441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29755df89875b25418bf4dcf9764eb19
+      internalID: 1175569079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_144
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773d2df99c3bb134a9898a51f7359ef8
+      internalID: -692750145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_145
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666f2c97ca51b31489a1815aa0cfce43
+      internalID: 2102110992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_146
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcf5cda36c3c2f4f92d93ea0e3dbe63
+      internalID: -1967787314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_147
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819242b0968e6d241ac02678ba42e076
+      internalID: 437102759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_148
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cf8b35cb2e2fb408328bcd3af900af
+      internalID: -1376279237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_149
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28da2f6fc830694eb575eb42fbf4b31
+      internalID: -618542284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_150
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d859cf8c3bfe32a4ab89fda001935776
+      internalID: 819159768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_151
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b4f54c64a55124aa008d83e5cafcb2
+      internalID: -485895731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_152
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962da9355a09b9c46877b12973291dd9
+      internalID: 672709513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08127bc7285454745821708679603326
+      internalID: 1010084612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_154
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cf641244ea12740991cd7c08953acf
+      internalID: 920128660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cbbd80ef81ecd45b42ece25fbd10b1
+      internalID: 1416049399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f39ceb4fccb204bbd39222d347ee1d
+      internalID: 408321429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_157
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183deb27016d0904a8143815e816f9c9
+      internalID: 465130457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_158
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d02951695c2e90459dce9d0e4afca32
+      internalID: 1058149944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86611a8d843cc87409c1e84286b26b94
+      internalID: -1817721800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_160
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b2fd169b9679941b2cb7a9f23f3e0e
+      internalID: -22046055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f99d195eb468494fb7fef8ec3ee881e
+      internalID: 112119812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf1b689bc4164940bc71dbe3579689e
+      internalID: -1098864056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_163
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e8071ddf9e7774b9ace3d55c3fa925
+      internalID: -152276985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead2163940c8a8842a45595ce48daaf7
+      internalID: 2020993830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_165
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d96fd450f64df447af7bfb7bfdd0907
+      internalID: -1060912775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_166
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c41005a13de6438882a5376388f67
+      internalID: 822597210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_167
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d453ce7ec70e645a87485d874e34b9
+      internalID: -529027529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_168
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76ecdf17544b024fba3d6a92511dadf
+      internalID: 1477240072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_169
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3544c6ce629d0b4dbb6a7cfb6482cef
+      internalID: 1934756703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_170
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c935fbbc138f254e8e604385b929594
+      internalID: -109423894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_171
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e617c9b08439fdb438739114c6fb76f2
+      internalID: 2095448045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_172
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c1464006458e74aaac226d2550def6
+      internalID: -130515703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_173
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fc07314976203469514fda707af04b
+      internalID: -1770919369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_174
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2deae55ae4c804e99867b62c36b74e
+      internalID: -723864671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_175
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593bf5a4179879348967274206d3fdd8
+      internalID: 1892299384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_176
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5328fe8666b7149950edfc21dd7ee6
+      internalID: -697496911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_177
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26357d42b890fb7428b78f2f3a409073
+      internalID: -1480220272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_178
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cd8a8d469d26c43b969b0816353571
+      internalID: 1312222352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_179
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacd068c62537514a82f0bd353074422
+      internalID: -753341881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_180
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb51fbb22a2dc334db02d6605fe57ffe
+      internalID: -1214545343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_181
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d68fe09c989a474ca38861049cd882e
+      internalID: -1803619783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa3597ea83f88b4c9763342d4524548
+      internalID: 1524683944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_183
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceff9c43482efc74ab82ce6961d825ba
+      internalID: -2004202964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536b850acdff4334393b4d8fa46bb6b9
+      internalID: 912122648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_185
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36280cd6dbc7e64096b7604aecd9639
+      internalID: 347096010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_186
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020cccf30656064ca724abd8a9066d3
+      internalID: 2039169939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_187
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a102969a2fd49478f099ba9686b233
+      internalID: -612830064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_188
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6f63bc8d7068b4f8055b7b29420d51
+      internalID: -12520472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_189
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6a9515ce9ac244e8c948b66bd04ebe
+      internalID: -427330765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d7e7c45e3a6d549b52d545f8e9a6d0
+      internalID: 360735120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_191
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bae63df32a04284bb4002d4ee48964a
+      internalID: -1565149004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85baf5029bb69d4b8024d10b2a5b6b2
+      internalID: -1476560716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_193
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f62ba92f66c284b87474d2773c9c2b
+      internalID: 268217833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e579f96c696ffa4690fdb096769b14b
+      internalID: -1921962580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_195
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce4506079c56054c9b4cf65d58f5bd6
+      internalID: 352339051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_196
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358c3255ffafaee46b9950d0885b768c
+      internalID: 1208261390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_197
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4344474a78e404e9e4c4366cb62b76
+      internalID: -964687567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 976
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e677a96367b84e8c2488baabca40d
+      internalID: 365840129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_199
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6aeed8830e02f4aba88ed00852a197
+      internalID: 1034121624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_200
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476dbf7590c506f43b153e625c983190
+      internalID: 560252727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_201
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71bc30c7b70aa94f816fa427b4e2529
+      internalID: 853104754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3e955439401dc42ad458313f307b41
+      internalID: -210081953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_203
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87b98aa3358c574eb8fd1ad327da648
+      internalID: 1614020304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_204
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1b1d0daa043c3448bfd34d0290d568
+      internalID: 443259613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_205
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71992b5204b3f546ac83d4985845052
+      internalID: -2009033621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_206
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc890ff5ce979d43a3df88b243f1138
+      internalID: -234709012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_207
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479f84ff06faf8b4fad7707cd3e02549
+      internalID: -739752478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_208
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38707e70522b3fa42bd79cd90293db5f
+      internalID: 1816006568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134ab0d182ed64f4abc4e829c2f4e073
+      internalID: -1190935485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389cfa8e9b8434840ada910e2c644a6b
+      internalID: 577484716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_211
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a6de47d96a93947b1407f1a94d9436
+      internalID: -150957285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_212
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d87d1b63924994dac6840ea3e9763c
+      internalID: -1226436662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_213
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aad28305ba9d44492d2c4865076cb7
+      internalID: -533314756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_214
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5065c849159cf304c9110f987d7a873a
+      internalID: 683448715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_215
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2d574696eb0f6459fdb9905576405e
+      internalID: 1915000740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_216
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4db41f5708735f4ab5813758006903f
+      internalID: -1299833495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_217
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af27222a70616604c8cf1bedcbfb6485
+      internalID: -1683058139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_218
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b72d1701c3a9748ad6de5ce125113c
+      internalID: -1562985599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_219
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8039e9d55d73b43468409c018acb49c7
+      internalID: 1008558907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_220
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4b180301d9bae4ea5f9dcfe5910eb3
+      internalID: 45665596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_221
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c086c42aa867141b8286996c328240
+      internalID: -57055736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_222
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95d3c466193eaa4b83251c60c849e8e
+      internalID: 1248636034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_223
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155e88c58e3464b4fbeae9751653f74d
+      internalID: 315607575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_224
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1aa56bb3e95fe40bb0bc62bee95c1b
+      internalID: 977569073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_225
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a470d45258b8f2b4db67ba1a462e651a
+      internalID: -144482038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_226
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eea02b2a6e04514994a20131a2105ce
+      internalID: -1896882283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_227
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882742703aaf16c4dbb6aab4a69ad2d0
+      internalID: -539196128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_228
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c840f0998a201f544a6c991737b53de9
+      internalID: -436475405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_229
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 768
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e807da09ca871574a950bbee255ab0cc
+      internalID: 247136250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_230
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e50014e9b19f07408180f96428f5fae
+      internalID: -179929313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_231
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6c2b35358b86e458b9832f5bc9c29f
+      internalID: -641440798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_232
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 768
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820dd666617e23b4da6de332fe71a79a
+      internalID: -2042051520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_233
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db02f2478325294b99fc620a2eb91ed
+      internalID: -938893013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_234
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e72f0b917bc15b41b904851b79f1c54
+      internalID: 2032780536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_235
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5f832ac10a90b43a4df159964991cc
+      internalID: -1837113197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_236
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def36da7bb1dd064e8a4e22c68eff9f6
+      internalID: 133587634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_237
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38621dbe03d6a8e44972198e0bc3babb
+      internalID: -1642455805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_238
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d411cc9ee379baf4ea45d1dfc45add42
+      internalID: 431584589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_239
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c4b60f786cb574b9cef020d20f20b8
+      internalID: 401291367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_240
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268d6890ca2c1b14594777a63ce97fc8
+      internalID: -1970040308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_241
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcfda8494eec4f4c829f438bdb019f0
+      internalID: -523295335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_242
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007e1ae67dda1184b8ff2a79df245e81
+      internalID: 1730682269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_243
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de63c63ca20f3fd439fda8a6c1abd6ec
+      internalID: -1301389736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_244
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e2e7a02edadf34387e1a85b9d6c271
+      internalID: 1843286438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_245
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c581e60d84c42d48ad291bcea272d97
+      internalID: -1295400418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_246
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9acb7fd410be1499ddecb34d210444
+      internalID: 1278417299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_247
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0a878807452b54085c58bde415f68e
+      internalID: 728672706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_248
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355f0914c34d54545b81e64d09df6f1f
+      internalID: -1373535134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_249
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a205a0efb992f84787bbf7c27be26d9
+      internalID: 703116051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_250
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788bf0fd5dca5904bb22232db7cbd2a7
+      internalID: 1673671122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_251
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cb839160fe5614e8f9dca070d0ca7a
+      internalID: -226231670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_252
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d5b068af3e26e4ea7aa45758f79d8a
+      internalID: 472951449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_253
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5189de6c22c020f4095c56aec09db941
+      internalID: -1820413993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_254
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe01ef55e648d43baa545e440f3857
+      internalID: -1591372825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_255
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e226b43ca4c7514794ac511468f1487
+      internalID: -260711449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_256
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47bc2befd624b74482a252517a4ee67
+      internalID: -1796617162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_257
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6c3a36d609d9b4a9a0e6d4ae4ac975
+      internalID: 1402955443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_258
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f59694621b68942aeac8ff99442cc7
+      internalID: 211371002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_259
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4992b91e9b88094eb88b17266784bbe
+      internalID: -265002627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_260
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70b8f2148cb3cc47ae91d11528580bb
+      internalID: 2033064544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_261
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0601b01fe823534dac2b0d411d92403
+      internalID: -1682432861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_262
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04005f4bfb85b94abd6e2724f2b0e92
+      internalID: -1752112701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_263
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c89671a06338a1489724adb445e04f6
+      internalID: -1508957479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_264
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ed316bb1b3bc24a98653931972f825
+      internalID: 1895885719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_265
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d442130aa49ae8e4e93a2e54c35c6f76
+      internalID: -2019097927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_266
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef66a4d2f1085240af5d984b2d3e594
+      internalID: -1652448869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_267
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4808e35b1afaf6449863a5b359ba25b4
+      internalID: 1399335341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_268
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5455409b568bc748ab4ee66808749dd
+      internalID: 1625952292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_269
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8378a88f9427f4e8e4e428208f3fe9
+      internalID: -1867055899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_270
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29335ae1f0731d44f982b6626dd5438d
+      internalID: 719065072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_271
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25da682bea8d6049817fa579a67a511
+      internalID: 1856229444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_272
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064654285ebf3844d9ad411eaabeeffd
+      internalID: -502773498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_273
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b798116c456f72d489bbb204573d7d4e
+      internalID: 1033440894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_274
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3855d5c122b3c4bb8d01d9b5f60281
+      internalID: 978845439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_275
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d05773d4128e1d4a87b68be9ca7d9c9
+      internalID: 1090311968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_276
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60985b38653f2e4ca5a2c2ce1f6f0a3
+      internalID: 1089956060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_277
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feabec1c4e6166a4394b4e4acc85a926
+      internalID: -499567068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_278
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6b1cdb1ec9e604f87bb35b5099dadf
+      internalID: -1650638114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_279
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34487e27e0930eb42b3104fa6c427da3
+      internalID: -567872771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_280
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb0b548a1faeb4d9c075aca49f92c0
+      internalID: 293581036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_281
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a1660919251c478bea7da5d772201
+      internalID: -612700622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_282
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3a1a1a51a42d94ba9cf5dd402f0f0f
+      internalID: 1277215802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_283
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79a3d8a4bf508345b73937bdbf30b34
+      internalID: 1058768689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_284
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b37383f9c9b724e85e2bd4ed611f76
+      internalID: 507154921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_285
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84be54ce288946b41aa809f5c761a13b
+      internalID: 1261623899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_286
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3710e431ee88a4b44b8662345231f60e
+      internalID: -1029203528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_287
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99295f20657c91a409f556a0c738a8ae
+      internalID: 102593351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_288
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afca1079725751641ba6ad5b23df5654
+      internalID: 459645458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_289
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8943aeed5323254e888bb1856a9a5c2
+      internalID: 875154865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_290
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c3719ee2055654d9ae7c6201003d7e
+      internalID: -1703292734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_291
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 528
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7ea511f9e71804e8ce094636c13e17
+      internalID: 1526464273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_292
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 528
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca5f7660929b494c8593940fe5feb1b
+      internalID: 2091123225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_293
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 512
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c660192760007f849a06fd6ecbc0269e
+      internalID: -1997772061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_294
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 512
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a314d4421ae24c744bae4bbaf491a906
+      internalID: 963577832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_295
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 512
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72aa1530028bd84dbbac506d29cc9aa
+      internalID: 854216731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_296
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26baad47a1fb2fd4d8e03a5a6d740c31
+      internalID: 1683251807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_297
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012048b7c6e76e944b71d1626077c617
+      internalID: 208824798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_298
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c365736123c66234b8390108eab050d2
+      internalID: -953315353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_299
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f0c49b0a2f1944d8a81d97d530e9ea
+      internalID: -645347462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_300
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b22d407b17bb741ae4c2e17d41be69
+      internalID: -219337000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_301
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864df06d5f4f0cd478afa5d111b77fbf
+      internalID: 1357051415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_302
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e471130b59cb9d45a71c90d48acb9dd
+      internalID: 986756271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_303
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7503baa56691043a9317d6d11895f6
+      internalID: 1954975907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_304
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134a94aba0d4f3446ae44e8c572ecc24
+      internalID: 146220348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_305
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7585053c4e13f4f85c2c08f2aff27c
+      internalID: -193408760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_306
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565dc7f06d3ae3044a7f4012c6c64c00
+      internalID: -2138103409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_307
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81879d2fc658c64d8d3234243027461
+      internalID: -877727200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_308
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890bc8384419ae046bf02b4fb34c6c64
+      internalID: -448717815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_309
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2924121505b0c4eb14db4142869acc
+      internalID: 64790024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_310
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d25901b08344e942b30865c1eb7493a
+      internalID: 1433513654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_311
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bf3162ea3b3fc48801c7f8c9acc65d
+      internalID: -1584693223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_312
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1806d4dd40a69bf47b1d9c2f8c473a40
+      internalID: 673796242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_313
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7d395975a6d58458572a1b87d6e742
+      internalID: 558577427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_314
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a2cc6aeb4a8544f95de6041a3d8100
+      internalID: -1050168667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_315
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9cee37499947748b1a178274dbd71a
+      internalID: -38650028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_316
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9ec0be047c54949b3d19795a9d3454
+      internalID: 256968259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_317
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2992f92ebfd227540b91e4f158764b8c
+      internalID: -1786380404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_318
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d296c604d0de53c4ab5f688404abf110
+      internalID: 2114634166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_319
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995fe18e8b84915438126773854d8fc6
+      internalID: 1623718218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_320
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42d8d287dac925428d0aebcb18da4b9
+      internalID: -1745541710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_321
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de3e1117e9498c46a826f81b81d04e7
+      internalID: -377366648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_322
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73faf92120086c49b851c1a8ac265c5
+      internalID: -1927363941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_323
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4759af42ef187a64dbbcc2dce2ee250c
+      internalID: 355074701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_324
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fafa0ee95a5554d8c4969fbf1bbdc9
+      internalID: -1171869195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_325
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34620fc294ad1f4eab171e2615cbd30
+      internalID: 917805243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_326
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91692e47d22cbe247a3a0795ab776635
+      internalID: -1140605543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_327
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8802dec98786f0141b59dddab73d364a
+      internalID: 1881957270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_328
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66bde5dc0a547f408bfcd65dbfc0fda
+      internalID: 188541335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_329
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b400130cc4204e4409b2c6ba802c36f0
+      internalID: -1452529597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_330
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dfe64cdd51aa14b81b2ff968575602
+      internalID: 1318590548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_331
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086ff628946a24244863b282040268ce
+      internalID: 381454013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_332
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b86ab1d340bb141bbe61c0c72b29d2
+      internalID: -363019847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_333
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575415ed1970fc84aa09d54e9bfac7c5
+      internalID: 1983598331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_334
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c740b1aab7e21eb4ba802a11c0f1c207
+      internalID: -1498586772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_335
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a07657f58068d048936cf69c02096f9
+      internalID: -1529729700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_336
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e172980a98e21c245844857c8017a862
+      internalID: -648839162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_337
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f11fffc00a4794e8ce26fc103a2497
+      internalID: -995847982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_338
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d868d74030eaf43924406d82c79c18
+      internalID: -1737392751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_339
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69186cb8d9287eb479d2280a35e3aa17
+      internalID: -1293108701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_340
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88054207831af24c887a9321605e0ca
+      internalID: -1478786571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_341
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25ed6795b8cca9459a20a0d7d3aee37
+      internalID: -1032409524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_342
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c42f143900e52144a5e6d691759ffd7
+      internalID: -837462265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_343
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff58ed19070ff1244b6de19fe1ad0002
+      internalID: -1904152215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_344
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec8125f504c52e458994f7e457d253a
+      internalID: 808302865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_345
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148659b28ccce4345b1840ec814a3246
+      internalID: -577681924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_346
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79218c3fac3ed642bbdb815508016ed
+      internalID: -373762855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_347
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658c85f06b65dc9439f8fd2356783653
+      internalID: 1854514554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_348
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ea259592f81f34bad9ebe23fea2141
+      internalID: -1307780123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_349
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd591f4189c32f14f96d9bfdf23d6320
+      internalID: -1098209857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_350
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c288663fd3088ef4eb6b053d81099d80
+      internalID: -1953640945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_351
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b98ed7a2f949741884b72443b6737c
+      internalID: -1513543986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_352
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302e9c7cfea162e45b2a582ecf9425ef
+      internalID: -2126901243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_353
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f551ad1e8bca68c468ffca4c29e4c325
+      internalID: 916707015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_354
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2150f4ea15e464d92701b657500531
+      internalID: -570844981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_355
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace8605849e05e948ba038ab44001630
+      internalID: 1043048554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_356
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92f25a5f71b0da438e7c3f1bf18f6c1
+      internalID: -1312785387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_357
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167eba0f97558ba49bc44ae85fb71da7
+      internalID: 505791468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_358
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499f0df4f802d844b9f7d7326a240f9f
+      internalID: -191331550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_359
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51b5199ad2adbb4486fb68333d82ea9
+      internalID: -1338576369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_360
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66859a78eea41da42b9f0d18bbb3002c
+      internalID: -1642145935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_361
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a264ca4d76b8a664baab4b6ebdbe4b68
+      internalID: -727956615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_362
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38652e317226944688d5da945564119
+      internalID: 503348985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple-and-Cave_363
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da75f03a14e2dfc429d9935d9106d5db
+      internalID: 823361451
       vertices: []
       indices: 
       edges: []
@@ -3301,7 +8515,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b671d0d6c220cab4ea464a9f2520c755
     internalID: 0
     vertices: []
     indices: 
@@ -3309,7 +8523,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Temple-and-Cave_0: 2013376061389263026
       Temple-and-Cave_1: -1351054153592890706
@@ -3343,32 +8559,269 @@ TextureImporter:
       Temple-and-Cave_124: 3756943373329131703
       Temple-and-Cave_125: -1725107331053061800
       Temple-and-Cave_126: -4017712714584294387
+      Temple-and-Cave_127: 1366617716
+      Temple-and-Cave_128: 1370834139
+      Temple-and-Cave_129: -1961387342
       Temple-and-Cave_13: 3581377401146871965
+      Temple-and-Cave_130: 1002729992
+      Temple-and-Cave_131: -486095435
+      Temple-and-Cave_132: -38054021
+      Temple-and-Cave_133: 1872858684
+      Temple-and-Cave_134: -1575746694
+      Temple-and-Cave_135: -1342839014
+      Temple-and-Cave_136: 795480688
+      Temple-and-Cave_137: -1026264844
+      Temple-and-Cave_138: -1518837859
+      Temple-and-Cave_139: 1312192859
       Temple-and-Cave_14: -1609966000162998158
+      Temple-and-Cave_140: -2042814781
+      Temple-and-Cave_141: -484971595
+      Temple-and-Cave_142: 1960781441
+      Temple-and-Cave_143: 1175569079
+      Temple-and-Cave_144: -692750145
+      Temple-and-Cave_145: 2102110992
+      Temple-and-Cave_146: -1967787314
+      Temple-and-Cave_147: 437102759
+      Temple-and-Cave_148: -1376279237
+      Temple-and-Cave_149: -618542284
       Temple-and-Cave_15: -4219746953797266845
+      Temple-and-Cave_150: 819159768
+      Temple-and-Cave_151: -485895731
+      Temple-and-Cave_152: 672709513
+      Temple-and-Cave_153: 1010084612
+      Temple-and-Cave_154: 920128660
+      Temple-and-Cave_155: 1416049399
+      Temple-and-Cave_156: 408321429
+      Temple-and-Cave_157: 465130457
+      Temple-and-Cave_158: 1058149944
+      Temple-and-Cave_159: -1817721800
       Temple-and-Cave_16: 21224534380069523
+      Temple-and-Cave_160: -22046055
+      Temple-and-Cave_161: 112119812
+      Temple-and-Cave_162: -1098864056
+      Temple-and-Cave_163: -152276985
+      Temple-and-Cave_164: 2020993830
+      Temple-and-Cave_165: -1060912775
+      Temple-and-Cave_166: 822597210
+      Temple-and-Cave_167: -529027529
+      Temple-and-Cave_168: 1477240072
+      Temple-and-Cave_169: 1934756703
       Temple-and-Cave_17: 3215885753543212036
+      Temple-and-Cave_170: -109423894
+      Temple-and-Cave_171: 2095448045
+      Temple-and-Cave_172: -130515703
+      Temple-and-Cave_173: -1770919369
+      Temple-and-Cave_174: -723864671
+      Temple-and-Cave_175: 1892299384
+      Temple-and-Cave_176: -697496911
+      Temple-and-Cave_177: -1480220272
+      Temple-and-Cave_178: 1312222352
+      Temple-and-Cave_179: -753341881
       Temple-and-Cave_18: 221184203262877297
+      Temple-and-Cave_180: -1214545343
+      Temple-and-Cave_181: -1803619783
+      Temple-and-Cave_182: 1524683944
+      Temple-and-Cave_183: -2004202964
+      Temple-and-Cave_184: 912122648
+      Temple-and-Cave_185: 347096010
+      Temple-and-Cave_186: 2039169939
+      Temple-and-Cave_187: -612830064
+      Temple-and-Cave_188: -12520472
+      Temple-and-Cave_189: -427330765
       Temple-and-Cave_19: 2348194703480617884
+      Temple-and-Cave_190: 360735120
+      Temple-and-Cave_191: -1565149004
+      Temple-and-Cave_192: -1476560716
+      Temple-and-Cave_193: 268217833
+      Temple-and-Cave_194: -1921962580
+      Temple-and-Cave_195: 352339051
+      Temple-and-Cave_196: 1208261390
+      Temple-and-Cave_197: -964687567
+      Temple-and-Cave_198: 365840129
+      Temple-and-Cave_199: 1034121624
       Temple-and-Cave_2: -2156935133821156335
       Temple-and-Cave_20: -3234399314227124130
+      Temple-and-Cave_200: 560252727
+      Temple-and-Cave_201: 853104754
+      Temple-and-Cave_202: -210081953
+      Temple-and-Cave_203: 1614020304
+      Temple-and-Cave_204: 443259613
+      Temple-and-Cave_205: -2009033621
+      Temple-and-Cave_206: -234709012
+      Temple-and-Cave_207: -739752478
+      Temple-and-Cave_208: 1816006568
+      Temple-and-Cave_209: -1190935485
       Temple-and-Cave_21: 1041898711220170856
+      Temple-and-Cave_210: 577484716
+      Temple-and-Cave_211: -150957285
+      Temple-and-Cave_212: -1226436662
+      Temple-and-Cave_213: -533314756
+      Temple-and-Cave_214: 683448715
+      Temple-and-Cave_215: 1915000740
+      Temple-and-Cave_216: -1299833495
+      Temple-and-Cave_217: -1683058139
+      Temple-and-Cave_218: -1562985599
+      Temple-and-Cave_219: 1008558907
       Temple-and-Cave_22: 7149679045333136096
+      Temple-and-Cave_220: 45665596
+      Temple-and-Cave_221: -57055736
+      Temple-and-Cave_222: 1248636034
+      Temple-and-Cave_223: 315607575
+      Temple-and-Cave_224: 977569073
+      Temple-and-Cave_225: -144482038
+      Temple-and-Cave_226: -1896882283
+      Temple-and-Cave_227: -539196128
+      Temple-and-Cave_228: -436475405
+      Temple-and-Cave_229: 247136250
       Temple-and-Cave_23: -1955671077283030131
+      Temple-and-Cave_230: -179929313
+      Temple-and-Cave_231: -641440798
+      Temple-and-Cave_232: -2042051520
+      Temple-and-Cave_233: -938893013
+      Temple-and-Cave_234: 2032780536
+      Temple-and-Cave_235: -1837113197
+      Temple-and-Cave_236: 133587634
+      Temple-and-Cave_237: -1642455805
+      Temple-and-Cave_238: 431584589
+      Temple-and-Cave_239: 401291367
       Temple-and-Cave_24: -5069338287570026179
+      Temple-and-Cave_240: -1970040308
+      Temple-and-Cave_241: -523295335
+      Temple-and-Cave_242: 1730682269
+      Temple-and-Cave_243: -1301389736
+      Temple-and-Cave_244: 1843286438
+      Temple-and-Cave_245: -1295400418
+      Temple-and-Cave_246: 1278417299
+      Temple-and-Cave_247: 728672706
+      Temple-and-Cave_248: -1373535134
+      Temple-and-Cave_249: 703116051
       Temple-and-Cave_25: -7705275638545647913
+      Temple-and-Cave_250: 1673671122
+      Temple-and-Cave_251: -226231670
+      Temple-and-Cave_252: 472951449
+      Temple-and-Cave_253: -1820413993
+      Temple-and-Cave_254: -1591372825
+      Temple-and-Cave_255: -260711449
+      Temple-and-Cave_256: -1796617162
+      Temple-and-Cave_257: 1402955443
+      Temple-and-Cave_258: 211371002
+      Temple-and-Cave_259: -265002627
       Temple-and-Cave_26: 5203517953782829651
+      Temple-and-Cave_260: 2033064544
+      Temple-and-Cave_261: -1682432861
+      Temple-and-Cave_262: -1752112701
+      Temple-and-Cave_263: -1508957479
+      Temple-and-Cave_264: 1895885719
+      Temple-and-Cave_265: -2019097927
+      Temple-and-Cave_266: -1652448869
+      Temple-and-Cave_267: 1399335341
+      Temple-and-Cave_268: 1625952292
+      Temple-and-Cave_269: -1867055899
       Temple-and-Cave_27: 200232948503310941
+      Temple-and-Cave_270: 719065072
+      Temple-and-Cave_271: 1856229444
+      Temple-and-Cave_272: -502773498
+      Temple-and-Cave_273: 1033440894
+      Temple-and-Cave_274: 978845439
+      Temple-and-Cave_275: 1090311968
+      Temple-and-Cave_276: 1089956060
+      Temple-and-Cave_277: -499567068
+      Temple-and-Cave_278: -1650638114
+      Temple-and-Cave_279: -567872771
       Temple-and-Cave_28: -3682064873497948509
+      Temple-and-Cave_280: 293581036
+      Temple-and-Cave_281: -612700622
+      Temple-and-Cave_282: 1277215802
+      Temple-and-Cave_283: 1058768689
+      Temple-and-Cave_284: 507154921
+      Temple-and-Cave_285: 1261623899
+      Temple-and-Cave_286: -1029203528
+      Temple-and-Cave_287: 102593351
+      Temple-and-Cave_288: 459645458
+      Temple-and-Cave_289: 875154865
       Temple-and-Cave_29: 4746256216587611385
+      Temple-and-Cave_290: -1703292734
+      Temple-and-Cave_291: 1526464273
+      Temple-and-Cave_292: 2091123225
+      Temple-and-Cave_293: -1997772061
+      Temple-and-Cave_294: 963577832
+      Temple-and-Cave_295: 854216731
+      Temple-and-Cave_296: 1683251807
+      Temple-and-Cave_297: 208824798
+      Temple-and-Cave_298: -953315353
+      Temple-and-Cave_299: -645347462
       Temple-and-Cave_3: -4935328548965190163
       Temple-and-Cave_30: -5109669349892684410
+      Temple-and-Cave_300: -219337000
+      Temple-and-Cave_301: 1357051415
+      Temple-and-Cave_302: 986756271
+      Temple-and-Cave_303: 1954975907
+      Temple-and-Cave_304: 146220348
+      Temple-and-Cave_305: -193408760
+      Temple-and-Cave_306: -2138103409
+      Temple-and-Cave_307: -877727200
+      Temple-and-Cave_308: -448717815
+      Temple-and-Cave_309: 64790024
       Temple-and-Cave_31: 2903026135372959005
+      Temple-and-Cave_310: 1433513654
+      Temple-and-Cave_311: -1584693223
+      Temple-and-Cave_312: 673796242
+      Temple-and-Cave_313: 558577427
+      Temple-and-Cave_314: -1050168667
+      Temple-and-Cave_315: -38650028
+      Temple-and-Cave_316: 256968259
+      Temple-and-Cave_317: -1786380404
+      Temple-and-Cave_318: 2114634166
+      Temple-and-Cave_319: 1623718218
       Temple-and-Cave_32: -120021209615079979
+      Temple-and-Cave_320: -1745541710
+      Temple-and-Cave_321: -377366648
+      Temple-and-Cave_322: -1927363941
+      Temple-and-Cave_323: 355074701
+      Temple-and-Cave_324: -1171869195
+      Temple-and-Cave_325: 917805243
+      Temple-and-Cave_326: -1140605543
+      Temple-and-Cave_327: 1881957270
+      Temple-and-Cave_328: 188541335
+      Temple-and-Cave_329: -1452529597
       Temple-and-Cave_33: 4360593224682965163
+      Temple-and-Cave_330: 1318590548
+      Temple-and-Cave_331: 381454013
+      Temple-and-Cave_332: -363019847
+      Temple-and-Cave_333: 1983598331
+      Temple-and-Cave_334: -1498586772
+      Temple-and-Cave_335: -1529729700
+      Temple-and-Cave_336: -648839162
+      Temple-and-Cave_337: -995847982
+      Temple-and-Cave_338: -1737392751
+      Temple-and-Cave_339: -1293108701
       Temple-and-Cave_34: -8161245680499453790
+      Temple-and-Cave_340: -1478786571
+      Temple-and-Cave_341: -1032409524
+      Temple-and-Cave_342: -837462265
+      Temple-and-Cave_343: -1904152215
+      Temple-and-Cave_344: 808302865
+      Temple-and-Cave_345: -577681924
+      Temple-and-Cave_346: -373762855
+      Temple-and-Cave_347: 1854514554
+      Temple-and-Cave_348: -1307780123
+      Temple-and-Cave_349: -1098209857
       Temple-and-Cave_35: -4518080800166379551
+      Temple-and-Cave_350: -1953640945
+      Temple-and-Cave_351: -1513543986
+      Temple-and-Cave_352: -2126901243
+      Temple-and-Cave_353: 916707015
+      Temple-and-Cave_354: -570844981
+      Temple-and-Cave_355: 1043048554
+      Temple-and-Cave_356: -1312785387
+      Temple-and-Cave_357: 505791468
+      Temple-and-Cave_358: -191331550
+      Temple-and-Cave_359: -1338576369
       Temple-and-Cave_36: -8270410111958926357
+      Temple-and-Cave_360: -1642145935
+      Temple-and-Cave_361: -727956615
+      Temple-and-Cave_362: 503348985
+      Temple-and-Cave_363: 823361451
       Temple-and-Cave_37: 7408359838387483009
       Temple-and-Cave_38: 2697291106111647659
       Temple-and-Cave_39: 8170655329483447440

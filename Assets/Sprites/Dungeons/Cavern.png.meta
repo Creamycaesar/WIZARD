@@ -385,7 +385,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -399,7 +399,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -423,7 +423,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -477,10 +477,10 @@ TextureImporter:
       name: Cavern_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 343
-        width: 150
-        height: 156
+        x: 16
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,10 +499,10 @@ TextureImporter:
       name: Cavern_1
       rect:
         serializedVersion: 2
-        x: 36
-        y: 336
-        width: 7
-        height: 7
+        x: 32
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,10 +521,10 @@ TextureImporter:
       name: Cavern_2
       rect:
         serializedVersion: 2
-        x: 42
-        y: 336
-        width: 7
-        height: 7
+        x: 48
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -543,10 +543,10 @@ TextureImporter:
       name: Cavern_3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 336
-        width: 7
-        height: 7
+        x: 64
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -565,10 +565,10 @@ TextureImporter:
       name: Cavern_4
       rect:
         serializedVersion: 2
-        x: 54
-        y: 336
-        width: 7
-        height: 7
+        x: 80
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -587,10 +587,10 @@ TextureImporter:
       name: Cavern_5
       rect:
         serializedVersion: 2
-        x: 60
-        y: 336
-        width: 7
-        height: 7
+        x: 96
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -609,10 +609,10 @@ TextureImporter:
       name: Cavern_6
       rect:
         serializedVersion: 2
-        x: 70
-        y: 336
-        width: 7
-        height: 7
+        x: 16
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -631,10 +631,10 @@ TextureImporter:
       name: Cavern_7
       rect:
         serializedVersion: 2
-        x: 80
-        y: 336
-        width: 7
-        height: 7
+        x: 32
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,10 +653,10 @@ TextureImporter:
       name: Cavern_8
       rect:
         serializedVersion: 2
-        x: 86
-        y: 336
-        width: 7
-        height: 7
+        x: 48
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -675,10 +675,10 @@ TextureImporter:
       name: Cavern_9
       rect:
         serializedVersion: 2
-        x: 92
-        y: 336
-        width: 7
-        height: 7
+        x: 64
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -697,10 +697,10 @@ TextureImporter:
       name: Cavern_10
       rect:
         serializedVersion: 2
-        x: 98
-        y: 336
-        width: 7
-        height: 7
+        x: 80
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -719,10 +719,10 @@ TextureImporter:
       name: Cavern_11
       rect:
         serializedVersion: 2
-        x: 104
-        y: 336
-        width: 7
-        height: 7
+        x: 96
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -741,10 +741,10 @@ TextureImporter:
       name: Cavern_12
       rect:
         serializedVersion: 2
-        x: 189
-        y: 296
-        width: 38
-        height: 203
+        x: 112
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -763,10 +763,10 @@ TextureImporter:
       name: Cavern_13
       rect:
         serializedVersion: 2
-        x: 13
-        y: 230
-        width: 166
-        height: 77
+        x: 16
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -785,10 +785,10 @@ TextureImporter:
       name: Cavern_14
       rect:
         serializedVersion: 2
-        x: 183
-        y: 290
-        width: 7
-        height: 7
+        x: 32
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -807,10 +807,10 @@ TextureImporter:
       name: Cavern_15
       rect:
         serializedVersion: 2
-        x: 189
-        y: 290
-        width: 7
-        height: 7
+        x: 48
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -829,10 +829,10 @@ TextureImporter:
       name: Cavern_16
       rect:
         serializedVersion: 2
-        x: 195
-        y: 290
-        width: 7
-        height: 7
+        x: 64
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -851,10 +851,10 @@ TextureImporter:
       name: Cavern_17
       rect:
         serializedVersion: 2
-        x: 201
-        y: 290
-        width: 7
-        height: 7
+        x: 80
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -873,10 +873,10 @@ TextureImporter:
       name: Cavern_18
       rect:
         serializedVersion: 2
-        x: 207
-        y: 290
-        width: 7
-        height: 7
+        x: 96
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -895,10 +895,10 @@ TextureImporter:
       name: Cavern_19
       rect:
         serializedVersion: 2
-        x: 213
-        y: 290
-        width: 7
-        height: 7
+        x: 112
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -917,10 +917,10 @@ TextureImporter:
       name: Cavern_20
       rect:
         serializedVersion: 2
-        x: 219
-        y: 290
-        width: 7
-        height: 7
+        x: 128
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -939,10 +939,10 @@ TextureImporter:
       name: Cavern_21
       rect:
         serializedVersion: 2
-        x: 225
-        y: 290
-        width: 7
-        height: 7
+        x: 144
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -961,10 +961,10 @@ TextureImporter:
       name: Cavern_22
       rect:
         serializedVersion: 2
-        x: 189
-        y: 233
-        width: 134
-        height: 42
+        x: 16
+        y: 432
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -983,10 +983,10 @@ TextureImporter:
       name: Cavern_23
       rect:
         serializedVersion: 2
-        x: 71
-        y: 222
-        width: 7
-        height: 7
+        x: 16
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1005,10 +1005,10 @@ TextureImporter:
       name: Cavern_24
       rect:
         serializedVersion: 2
-        x: 77
-        y: 221
-        width: 7
-        height: 8
+        x: 16
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1027,10 +1027,10 @@ TextureImporter:
       name: Cavern_25
       rect:
         serializedVersion: 2
-        x: 83
-        y: 222
-        width: 7
-        height: 7
+        x: 16
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1049,10 +1049,10 @@ TextureImporter:
       name: Cavern_26
       rect:
         serializedVersion: 2
-        x: 89
-        y: 222
-        width: 7
-        height: 7
+        x: 16
+        y: 368
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1071,10 +1071,10 @@ TextureImporter:
       name: Cavern_27
       rect:
         serializedVersion: 2
-        x: 95
-        y: 222
-        width: 7
-        height: 7
+        x: 16
+        y: 352
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1093,10 +1093,10 @@ TextureImporter:
       name: Cavern_28
       rect:
         serializedVersion: 2
-        x: 101
-        y: 222
-        width: 7
-        height: 7
+        x: 32
+        y: 432
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1115,10 +1115,10 @@ TextureImporter:
       name: Cavern_29
       rect:
         serializedVersion: 2
-        x: 216
-        y: 224
-        width: 7
-        height: 8
+        x: 32
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1137,10 +1137,10 @@ TextureImporter:
       name: Cavern_30
       rect:
         serializedVersion: 2
-        x: 222
-        y: 225
-        width: 7
-        height: 7
+        x: 32
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1159,10 +1159,10 @@ TextureImporter:
       name: Cavern_31
       rect:
         serializedVersion: 2
-        x: 228
-        y: 225
-        width: 7
-        height: 7
+        x: 32
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1181,10 +1181,10 @@ TextureImporter:
       name: Cavern_32
       rect:
         serializedVersion: 2
-        x: 234
-        y: 225
-        width: 7
-        height: 7
+        x: 32
+        y: 368
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1203,10 +1203,10 @@ TextureImporter:
       name: Cavern_33
       rect:
         serializedVersion: 2
-        x: 244
-        y: 225
-        width: 7
-        height: 7
+        x: 32
+        y: 352
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1225,10 +1225,10 @@ TextureImporter:
       name: Cavern_34
       rect:
         serializedVersion: 2
-        x: 254
-        y: 225
-        width: 7
-        height: 7
+        x: 48
+        y: 432
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1247,10 +1247,10 @@ TextureImporter:
       name: Cavern_35
       rect:
         serializedVersion: 2
-        x: 260
-        y: 225
-        width: 7
-        height: 7
+        x: 48
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1269,10 +1269,10 @@ TextureImporter:
       name: Cavern_36
       rect:
         serializedVersion: 2
-        x: 266
-        y: 225
-        width: 7
-        height: 7
+        x: 48
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1291,19 +1291,19 @@ TextureImporter:
       name: Cavern_37
       rect:
         serializedVersion: 2
-        x: 272
-        y: 225
-        width: 7
-        height: 7
+        x: 48
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d9aab6fcda61f7e10800000000000000
+      spriteID: fb0508829e44d6843b3d88057cbbcddc
       internalID: 2197500078945184413
       vertices: []
       indices: 
@@ -1313,19 +1313,19 @@ TextureImporter:
       name: Cavern_38
       rect:
         serializedVersion: 2
-        x: 278
-        y: 225
-        width: 7
-        height: 7
+        x: 64
+        y: 432
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a0d001a5fb5fb65b0800000000000000
+      spriteID: dd25eea78703be44695704e65c928cc5
       internalID: -5373931528137994998
       vertices: []
       indices: 
@@ -1335,19 +1335,19 @@ TextureImporter:
       name: Cavern_39
       rect:
         serializedVersion: 2
-        x: 284
-        y: 225
-        width: 7
-        height: 7
+        x: 80
+        y: 432
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: acac4ecbdb62ad850800000000000000
+      spriteID: f68f7e9245a33fb4c9db325f6de42c49
       internalID: 6402472416620366538
       vertices: []
       indices: 
@@ -1357,19 +1357,19 @@ TextureImporter:
       name: Cavern_40
       rect:
         serializedVersion: 2
-        x: 290
-        y: 225
-        width: 7
-        height: 7
+        x: 96
+        y: 432
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c2afb895c3901d750800000000000000
+      spriteID: 758f483c3bf6c3e418f38b807754030a
       internalID: 6327849106237291052
       vertices: []
       indices: 
@@ -1379,19 +1379,19 @@ TextureImporter:
       name: Cavern_41
       rect:
         serializedVersion: 2
-        x: 13
-        y: 102
-        width: 230
-        height: 109
+        x: 64
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7bb794a5c8bc77330800000000000000
+      spriteID: 1a8bb78619b6e4548bb095b67f274db4
       internalID: 3708656621833518007
       vertices: []
       indices: 
@@ -1401,19 +1401,19 @@ TextureImporter:
       name: Cavern_42
       rect:
         serializedVersion: 2
-        x: 247
-        y: 179
-        width: 7
-        height: 7
+        x: 80
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4a5ea9a6095e45a80800000000000000
+      spriteID: b37675547ea86fa47957172efca4567d
       internalID: -8478899790005213788
       vertices: []
       indices: 
@@ -1423,19 +1423,19 @@ TextureImporter:
       name: Cavern_43
       rect:
         serializedVersion: 2
-        x: 253
-        y: 185
-        width: 70
-        height: 26
+        x: 96
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 63d8b99e5da020000800000000000000
+      spriteID: 1d3809f7634e918419eb5bdc2896ade6
       internalID: 574863817018678
       vertices: []
       indices: 
@@ -1445,19 +1445,19 @@ TextureImporter:
       name: Cavern_44
       rect:
         serializedVersion: 2
-        x: 253
-        y: 179
-        width: 7
-        height: 7
+        x: 112
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4422832c83d36b5e0800000000000000
+      spriteID: e86b971c8bdde494a8c3054128a0c7b0
       internalID: -1894259279276793276
       vertices: []
       indices: 
@@ -1467,19 +1467,19 @@ TextureImporter:
       name: Cavern_45
       rect:
         serializedVersion: 2
-        x: 259
-        y: 179
-        width: 7
-        height: 7
+        x: 64
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 16ddff01e50765900800000000000000
+      spriteID: 4d454d5f6effa704eb48826b30a6089f
       internalID: 672848743652908385
       vertices: []
       indices: 
@@ -1489,19 +1489,19 @@ TextureImporter:
       name: Cavern_46
       rect:
         serializedVersion: 2
-        x: 265
-        y: 179
-        width: 7
-        height: 7
+        x: 80
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d7d0e7a820db015d0800000000000000
+      spriteID: 9dabd8f062194314da6cf84f06c2db21
       internalID: -3093765125392429699
       vertices: []
       indices: 
@@ -1511,19 +1511,19 @@ TextureImporter:
       name: Cavern_47
       rect:
         serializedVersion: 2
-        x: 275
-        y: 179
-        width: 7
-        height: 7
+        x: 96
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0ac24498382a48b00800000000000000
+      spriteID: ee227fc1f9c129547bfc9ecb1bee00ec
       internalID: 829966917170375840
       vertices: []
       indices: 
@@ -1533,19 +1533,19 @@ TextureImporter:
       name: Cavern_48
       rect:
         serializedVersion: 2
-        x: 281
-        y: 179
-        width: 7
-        height: 7
+        x: 112
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 35890bdf68a7413e0800000000000000
+      spriteID: caadc72fa12b4f94a93776fc5ad481bc
       internalID: -2083906007365281709
       vertices: []
       indices: 
@@ -1555,19 +1555,19 @@ TextureImporter:
       name: Cavern_49
       rect:
         serializedVersion: 2
-        x: 287
-        y: 179
-        width: 7
-        height: 7
+        x: 128
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6b00f6d3c0c7c4500800000000000000
+      spriteID: beb58b3fc5e50a742a33db3339b07459
       internalID: 381816460431786166
       vertices: []
       indices: 
@@ -1577,19 +1577,19 @@ TextureImporter:
       name: Cavern_50
       rect:
         serializedVersion: 2
-        x: 293
-        y: 179
-        width: 7
-        height: 7
+        x: 144
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ea68ef8869fc646f0800000000000000
+      spriteID: 9155e49602ff1254dbe4f3e3d31cdd08
       internalID: -700644446559107410
       vertices: []
       indices: 
@@ -1599,19 +1599,19 @@ TextureImporter:
       name: Cavern_51
       rect:
         serializedVersion: 2
-        x: 299
-        y: 179
-        width: 7
-        height: 7
+        x: 64
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 403e3175ff1bc37d0800000000000000
+      spriteID: b165efbee3c410a4182ab74192f83c9f
       internalID: -2937277146716708092
       vertices: []
       indices: 
@@ -1621,19 +1621,19 @@ TextureImporter:
       name: Cavern_52
       rect:
         serializedVersion: 2
-        x: 305
-        y: 179
-        width: 7
-        height: 7
+        x: 80
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a009bb2de008b7210800000000000000
+      spriteID: 9a931ba7e9e5b084d806da5e25dfc4f0
       internalID: 1331798915971518474
       vertices: []
       indices: 
@@ -1643,19 +1643,19 @@ TextureImporter:
       name: Cavern_53
       rect:
         serializedVersion: 2
-        x: 311
-        y: 179
-        width: 7
-        height: 7
+        x: 96
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 73a850842c59162d0800000000000000
+      spriteID: 55d37611963e7f54cb4941d0174a5e50
       internalID: -3287181591339234761
       vertices: []
       indices: 
@@ -1665,19 +1665,19 @@ TextureImporter:
       name: Cavern_54
       rect:
         serializedVersion: 2
-        x: 317
-        y: 179
-        width: 7
-        height: 7
+        x: 48
+        y: 368
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f099b7fe84fa50dc0800000000000000
+      spriteID: de47aafb016d9a343a887b464a221156
       internalID: -3673337193260410609
       vertices: []
       indices: 
@@ -1687,19 +1687,19 @@ TextureImporter:
       name: Cavern_55
       rect:
         serializedVersion: 2
-        x: 323
-        y: 179
-        width: 7
-        height: 7
+        x: 48
+        y: 352
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a399a6091a13f5e40800000000000000
+      spriteID: 07a1c0c85af8df6468eaa102d064ae05
       internalID: 5647287027728292154
       vertices: []
       indices: 
@@ -1709,19 +1709,19 @@ TextureImporter:
       name: Cavern_56
       rect:
         serializedVersion: 2
-        x: 251
-        y: 172
-        width: 7
-        height: 7
+        x: 64
+        y: 368
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d2a1dad54efee4180800000000000000
+      spriteID: 037d8a50ab71cdc488f9dcd0d59a7140
       internalID: -9129095630530209235
       vertices: []
       indices: 
@@ -1731,19 +1731,19 @@ TextureImporter:
       name: Cavern_57
       rect:
         serializedVersion: 2
-        x: 257
-        y: 172
-        width: 7
-        height: 7
+        x: 64
+        y: 352
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7af8eb7ca5e399b80800000000000000
+      spriteID: c7410ac15a841494ab450aedca0f86e6
       internalID: -8387604271381704793
       vertices: []
       indices: 
@@ -1753,19 +1753,19 @@ TextureImporter:
       name: Cavern_58
       rect:
         serializedVersion: 2
-        x: 263
-        y: 172
-        width: 7
-        height: 7
+        x: 80
+        y: 368
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4c5ce3b53cce35fc0800000000000000
+      spriteID: 5b7834fd239390c44bb82be0569caf8e
       internalID: -3507199360997866044
       vertices: []
       indices: 
@@ -1775,19 +1775,19 @@ TextureImporter:
       name: Cavern_59
       rect:
         serializedVersion: 2
-        x: 269
-        y: 172
-        width: 7
-        height: 7
+        x: 80
+        y: 352
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d3c3f43739ec79f00800000000000000
+      spriteID: f7cb71d2a6bd56e4781f407f7d0f95b8
       internalID: 1123593764742315069
       vertices: []
       indices: 
@@ -1797,19 +1797,19 @@ TextureImporter:
       name: Cavern_60
       rect:
         serializedVersion: 2
-        x: 279
-        y: 172
-        width: 7
-        height: 7
+        x: 96
+        y: 368
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 54a9848a984b98120800000000000000
+      spriteID: fb0250fd0d3967f4788f5eafe8812d48
       internalID: 2416661178387831365
       vertices: []
       indices: 
@@ -1819,19 +1819,19 @@ TextureImporter:
       name: Cavern_61
       rect:
         serializedVersion: 2
-        x: 285
-        y: 172
-        width: 7
-        height: 7
+        x: 112
+        y: 368
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1f96cd6f5401050b0800000000000000
+      spriteID: e95d1065011b13e4db0c6e3a70a1af54
       internalID: -5742071632216954383
       vertices: []
       indices: 
@@ -1841,19 +1841,19 @@ TextureImporter:
       name: Cavern_62
       rect:
         serializedVersion: 2
-        x: 295
-        y: 172
-        width: 7
-        height: 7
+        x: 96
+        y: 352
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5e439ef824947fc20800000000000000
+      spriteID: 2140d382747751c428b3b47d9b81d00c
       internalID: 3240139007147455717
       vertices: []
       indices: 
@@ -1863,19 +1863,19 @@ TextureImporter:
       name: Cavern_63
       rect:
         serializedVersion: 2
-        x: 301
-        y: 172
-        width: 7
-        height: 7
+        x: 112
+        y: 352
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4eb46455493161c10800000000000000
+      spriteID: 8b46ade7a7d309d40b9fefefa4a9c16d
       internalID: 2023826610356374500
       vertices: []
       indices: 
@@ -1885,19 +1885,19 @@ TextureImporter:
       name: Cavern_64
       rect:
         serializedVersion: 2
-        x: 307
-        y: 172
-        width: 7
-        height: 7
+        x: 128
+        y: 352
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fb466bd035dfe4950800000000000000
+      spriteID: 1e8a2899aacdbaf4d8dbeae4aad7b3b2
       internalID: 6435359450713187519
       vertices: []
       indices: 
@@ -1907,19 +1907,19 @@ TextureImporter:
       name: Cavern_65
       rect:
         serializedVersion: 2
-        x: 313
-        y: 172
-        width: 7
-        height: 7
+        x: 144
+        y: 352
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0dc4aedf7fc58cc10800000000000000
+      spriteID: 0f96baf3ecc88e64cadf892099c68746
       internalID: 2074009848590781648
       vertices: []
       indices: 
@@ -1929,19 +1929,19 @@ TextureImporter:
       name: Cavern_66
       rect:
         serializedVersion: 2
-        x: 319
-        y: 172
-        width: 7
-        height: 7
+        x: 192
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9df2fbbe071074190800000000000000
+      spriteID: 05329ffa2dd976040b28210dfb2b313e
       internalID: -7978406630360404007
       vertices: []
       indices: 
@@ -1951,19 +1951,19 @@ TextureImporter:
       name: Cavern_67
       rect:
         serializedVersion: 2
-        x: 253
-        y: 121
-        width: 70
-        height: 42
+        x: 208
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2fa54180bc7bab0d0800000000000000
+      spriteID: a69eae9df66518f409fe306aa2113d0c
       internalID: -3406208085510563086
       vertices: []
       indices: 
@@ -1973,19 +1973,19 @@ TextureImporter:
       name: Cavern_68
       rect:
         serializedVersion: 2
-        x: 253
-        y: 115
-        width: 7
-        height: 7
+        x: 192
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8ec92576e7b9d0590800000000000000
+      spriteID: 9994d9f1679f818409f83afbcd883cdc
       internalID: -7706332420159398680
       vertices: []
       indices: 
@@ -1995,19 +1995,19 @@ TextureImporter:
       name: Cavern_69
       rect:
         serializedVersion: 2
-        x: 259
-        y: 115
-        width: 7
-        height: 7
+        x: 192
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 676096af79f1e28e0800000000000000
+      spriteID: 507a5ea29645c3b4489b3de6d22737b8
       internalID: -1716399670379870602
       vertices: []
       indices: 
@@ -2017,19 +2017,19 @@ TextureImporter:
       name: Cavern_70
       rect:
         serializedVersion: 2
-        x: 265
-        y: 115
-        width: 7
-        height: 7
+        x: 192
+        y: 432
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cd5633650c82fdc90800000000000000
+      spriteID: 45dbe55f43c8baf4a83131376f2c830c
       internalID: -7142945677441276452
       vertices: []
       indices: 
@@ -2039,19 +2039,19 @@ TextureImporter:
       name: Cavern_71
       rect:
         serializedVersion: 2
-        x: 271
-        y: 115
-        width: 7
-        height: 7
+        x: 192
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 82122f5ce5e6ba260800000000000000
+      spriteID: f2f51163dd1a92b4a82e52f4dd80aadb
       internalID: 7109897790061420840
       vertices: []
       indices: 
@@ -2061,19 +2061,19 @@ TextureImporter:
       name: Cavern_72
       rect:
         serializedVersion: 2
-        x: 281
-        y: 115
-        width: 7
-        height: 7
+        x: 192
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a280879f307aeedf0800000000000000
+      spriteID: b578c4df614aecb4b94245dd106ff5ae
       internalID: -148998102144514006
       vertices: []
       indices: 
@@ -2083,19 +2083,19 @@ TextureImporter:
       name: Cavern_73
       rect:
         serializedVersion: 2
-        x: 287
-        y: 115
-        width: 7
-        height: 7
+        x: 192
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 082a8b427e8f1f260800000000000000
+      spriteID: 51a32808a7d55be49a717d5d34a73bd7
       internalID: 7129753356741419648
       vertices: []
       indices: 
@@ -2105,19 +2105,19 @@ TextureImporter:
       name: Cavern_74
       rect:
         serializedVersion: 2
-        x: 293
-        y: 115
-        width: 7
-        height: 7
+        x: 192
+        y: 368
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e3ced048786462c20800000000000000
+      spriteID: 9712bb0d110c66641ab1dd228f1d58a7
       internalID: 3181307734633868350
       vertices: []
       indices: 
@@ -2127,19 +2127,19 @@ TextureImporter:
       name: Cavern_75
       rect:
         serializedVersion: 2
-        x: 299
-        y: 115
-        width: 7
-        height: 7
+        x: 192
+        y: 352
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2fcd15844b467fd50800000000000000
+      spriteID: bf980e6ca2dfa7547ae724e01b226afe
       internalID: 6770991290245045490
       vertices: []
       indices: 
@@ -2149,19 +2149,19 @@ TextureImporter:
       name: Cavern_76
       rect:
         serializedVersion: 2
-        x: 305
-        y: 115
-        width: 7
-        height: 7
+        x: 192
+        y: 336
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fc3ae596e9d33b0e0800000000000000
+      spriteID: dbef6e369fe7d5b42b138aef1e748cf5
       internalID: -2255391237800549425
       vertices: []
       indices: 
@@ -2171,19 +2171,19 @@ TextureImporter:
       name: Cavern_77
       rect:
         serializedVersion: 2
-        x: 311
-        y: 115
-        width: 7
-        height: 7
+        x: 192
+        y: 320
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b22b74620dbf03300800000000000000
+      spriteID: 1d6f019a7dbfe374ea75f62280e2364a
       internalID: 229960452409897515
       vertices: []
       indices: 
@@ -2193,19 +2193,19 @@ TextureImporter:
       name: Cavern_78
       rect:
         serializedVersion: 2
-        x: 317
-        y: 115
-        width: 7
-        height: 7
+        x: 192
+        y: 304
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 940ca1157ef7df100800000000000000
+      spriteID: 7df0086c937ce5a4994853e5bf058a78
       internalID: 143411394620604489
       vertices: []
       indices: 
@@ -2215,19 +2215,19 @@ TextureImporter:
       name: Cavern_79
       rect:
         serializedVersion: 2
-        x: 90
-        y: 96
-        width: 7
-        height: 7
+        x: 208
+        y: 304
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: df342417aeeadd540800000000000000
+      spriteID: 0bb78f63e849c6e4ba55cb3bd72cce81
       internalID: 5034372280415831037
       vertices: []
       indices: 
@@ -2237,19 +2237,19 @@ TextureImporter:
       name: Cavern_80
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
-        width: 7
-        height: 7
+        x: 208
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3513d0b4c27ecc980800000000000000
+      spriteID: 13b41a9b7dd7c5448aa797a0bb76e959
       internalID: -8517178617840717485
       vertices: []
       indices: 
@@ -2259,19 +2259,19 @@ TextureImporter:
       name: Cavern_81
       rect:
         serializedVersion: 2
-        x: 102
-        y: 96
-        width: 7
-        height: 7
+        x: 208
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 08dca3228640e4e10800000000000000
+      spriteID: f2192cf067a306a48805c09e043faac3
       internalID: 2183687714618658176
       vertices: []
       indices: 
@@ -2281,19 +2281,19 @@ TextureImporter:
       name: Cavern_82
       rect:
         serializedVersion: 2
-        x: 108
-        y: 96
-        width: 7
-        height: 7
+        x: 208
+        y: 432
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8265d367158b19310800000000000000
+      spriteID: f153a128979e156459faa17e61fbe6b4
       internalID: 1410110818359268904
       vertices: []
       indices: 
@@ -2303,19 +2303,19 @@ TextureImporter:
       name: Cavern_83
       rect:
         serializedVersion: 2
-        x: 114
-        y: 96
-        width: 7
-        height: 7
+        x: 208
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d579e1a42be4a2480800000000000000
+      spriteID: ddebe31473129db46a23f408cbb9313e
       internalID: -8923233184026552483
       vertices: []
       indices: 
@@ -2325,19 +2325,19 @@ TextureImporter:
       name: Cavern_84
       rect:
         serializedVersion: 2
-        x: 120
-        y: 96
-        width: 7
-        height: 7
+        x: 208
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dabb5549f9ffd4d80800000000000000
+      spriteID: a570b30eb9f4fc7478992b4b86317a53
       internalID: -8264668680301462611
       vertices: []
       indices: 
@@ -2347,19 +2347,19 @@ TextureImporter:
       name: Cavern_85
       rect:
         serializedVersion: 2
-        x: 126
-        y: 96
-        width: 7
-        height: 7
+        x: 208
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 60093fe8f9d6d2b50800000000000000
+      spriteID: 3c2097fd626e1dc4fa661ad4f360eaa7
       internalID: 6570027963468976134
       vertices: []
       indices: 
@@ -2369,19 +2369,19 @@ TextureImporter:
       name: Cavern_86
       rect:
         serializedVersion: 2
-        x: 132
-        y: 96
-        width: 7
-        height: 7
+        x: 208
+        y: 368
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 99dfe0928755d7710800000000000000
+      spriteID: 50b1da1639ed5924a923c2b80e905c91
       internalID: 1692603009534459289
       vertices: []
       indices: 
@@ -2391,19 +2391,19 @@ TextureImporter:
       name: Cavern_87
       rect:
         serializedVersion: 2
-        x: 138
-        y: 96
-        width: 7
-        height: 7
+        x: 208
+        y: 352
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a9ba316e4668dcc50800000000000000
+      spriteID: f1e6d1a51c26b2d4bbdd063f3fb67300
       internalID: 6687148789629954970
       vertices: []
       indices: 
@@ -2413,19 +2413,19 @@ TextureImporter:
       name: Cavern_88
       rect:
         serializedVersion: 2
-        x: 144
-        y: 96
-        width: 7
-        height: 7
+        x: 208
+        y: 336
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e48d2dfb6e8b8a250800000000000000
+      spriteID: 97cdbd6e160bec44ba6eeeb5af65333a
       internalID: 5956213808397736014
       vertices: []
       indices: 
@@ -2435,42 +2435,20 @@ TextureImporter:
       name: Cavern_89
       rect:
         serializedVersion: 2
-        x: 150
-        y: 96
-        width: 7
-        height: 7
+        x: 208
+        y: 320
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c87373ce5f010bf90800000000000000
+      spriteID: 0261cc2bcb002a24c921c99d0a46d5eb
       internalID: -6940028377361860724
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cavern_90
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 23
-        width: 150
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e62cae2a13da4230800000000000000
-      internalID: 3623940959578629858
       vertices: []
       indices: 
       edges: []
@@ -2479,19 +2457,19 @@ TextureImporter:
       name: Cavern_91
       rect:
         serializedVersion: 2
-        x: 56
-        y: 17
-        width: 7
-        height: 7
+        x: 16
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2e9b15a0f72443a90800000000000000
+      spriteID: 6153d008ef570cb49be465e128b48661
       internalID: -7335164779678287390
       vertices: []
       indices: 
@@ -2501,64 +2479,20 @@ TextureImporter:
       name: Cavern_92
       rect:
         serializedVersion: 2
-        x: 62
-        y: 17
-        width: 7
-        height: 7
+        x: 16
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 520d42d9de81eaf60800000000000000
+      spriteID: ac1a589e381d92d44a689cc80eecbdef
       internalID: 8047396992980406309
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cavern_93
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 17
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79eb6e3398beb4f80800000000000000
-      internalID: -8121138528518750569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cavern_94
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 17
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d654e792d63c24fd0800000000000000
-      internalID: -2359108381173725843
       vertices: []
       indices: 
       edges: []
@@ -2567,19 +2501,19 @@ TextureImporter:
       name: Cavern_95
       rect:
         serializedVersion: 2
-        x: 80
-        y: 17
-        width: 7
-        height: 7
+        x: 32
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9d24a0d5441f50a90800000000000000
+      spriteID: bcf953d5fb0b2824f8ddfdb225d10a36
       internalID: -7348201941064072487
       vertices: []
       indices: 
@@ -2589,19 +2523,19 @@ TextureImporter:
       name: Cavern_96
       rect:
         serializedVersion: 2
-        x: 91
-        y: 17
-        width: 7
-        height: 7
+        x: 48
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f5c64ad65bcab3d70800000000000000
+      spriteID: e48e72ce451c21e4482156b7a4d7e4e8
       internalID: 9023996173595470943
       vertices: []
       indices: 
@@ -2611,20 +2545,86 @@ TextureImporter:
       name: Cavern_97
       rect:
         serializedVersion: 2
-        x: 101
-        y: 17
-        width: 7
-        height: 7
+        x: 64
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f31c6ac1b81da4830800000000000000
+      spriteID: 1dd2673a86607ef48ae2077d96459f9a
       internalID: 4056284809811902783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd9ee34364523a4c9c3c3964f8b4a60
+      internalID: 3623940959578629858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bb3c23b27493e44b9d9eb0c4ba166f
+      internalID: -8121138528518750569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e33cc9373ca4246b143be3f8d0d6ff
+      internalID: -2359108381173725843
       vertices: []
       indices: 
       edges: []
@@ -2633,19 +2633,19 @@ TextureImporter:
       name: Cavern_98
       rect:
         serializedVersion: 2
-        x: 107
-        y: 17
-        width: 7
-        height: 7
+        x: 32
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d1c4242ec5c99bfe0800000000000000
+      spriteID: 896a9b24b3b53a946b1271bfbb546841
       internalID: -1172734305206383587
       vertices: []
       indices: 
@@ -2655,19 +2655,19 @@ TextureImporter:
       name: Cavern_99
       rect:
         serializedVersion: 2
-        x: 113
-        y: 17
-        width: 7
-        height: 7
+        x: 48
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 81cc021a8769e4f10800000000000000
+      spriteID: 9da4c7cf1ab61c54d9c9dc14680094b4
       internalID: 2255905908202720280
       vertices: []
       indices: 
@@ -2677,19 +2677,19 @@ TextureImporter:
       name: Cavern_100
       rect:
         serializedVersion: 2
-        x: 173
-        y: 8
-        width: 102
-        height: 75
+        x: 64
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b0516c75774839190800000000000000
+      spriteID: 1bf9806248e9ffb44b53be0a88fbc429
       internalID: -7956870468524960501
       vertices: []
       indices: 
@@ -2699,19 +2699,19 @@ TextureImporter:
       name: Cavern_101
       rect:
         serializedVersion: 2
-        x: 174
-        y: 1
-        width: 7
-        height: 7
+        x: 80
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 03367d509f20dec30800000000000000
+      spriteID: 6a015e9e6ff390d458ac17cbe9cbe8ad
       internalID: 4390168480324215600
       vertices: []
       indices: 
@@ -2721,19 +2721,19 @@ TextureImporter:
       name: Cavern_102
       rect:
         serializedVersion: 2
-        x: 180
-        y: 1
-        width: 7
-        height: 7
+        x: 96
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 56f87abf378397ba0800000000000000
+      spriteID: 3c5af1ca434dfed4babe199548629dbd
       internalID: -6090774950247428251
       vertices: []
       indices: 
@@ -2743,19 +2743,19 @@ TextureImporter:
       name: Cavern_103
       rect:
         serializedVersion: 2
-        x: 186
-        y: 1
-        width: 7
-        height: 7
+        x: 112
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6d1f145b200f95d60800000000000000
+      spriteID: af5b081f43a97eb4abc7101953ebd29e
       internalID: 7879592917482992086
       vertices: []
       indices: 
@@ -2766,18 +2766,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 1
-        width: 7
-        height: 7
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 48fe5ef3665919900800000000000000
+      spriteID: 9c888d3012c648441b1d2183d2dcf83b
       internalID: 689496484355633028
       vertices: []
       indices: 
@@ -2787,19 +2787,19 @@ TextureImporter:
       name: Cavern_105
       rect:
         serializedVersion: 2
-        x: 198
-        y: 1
-        width: 7
-        height: 7
+        x: 208
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4f200bfef54b1ec80800000000000000
+      spriteID: 5a72416ba01366e4699876fe595fe4c0
       internalID: -8295150714503560460
       vertices: []
       indices: 
@@ -2809,19 +2809,19 @@ TextureImporter:
       name: Cavern_106
       rect:
         serializedVersion: 2
-        x: 207
-        y: 1
-        width: 7
-        height: 7
+        x: 224
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 10d573c62435aa730800000000000000
+      spriteID: d58e8005483602243a4364f2c0a53ebb
       internalID: 4011109962875362561
       vertices: []
       indices: 
@@ -2831,19 +2831,19 @@ TextureImporter:
       name: Cavern_107
       rect:
         serializedVersion: 2
-        x: 213
-        y: 1
-        width: 7
-        height: 7
+        x: 240
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e8f5a8f587b9aa250800000000000000
+      spriteID: ee58a888b09efbc4fa2d0eabb9cad2ab
       internalID: 5956744398452187022
       vertices: []
       indices: 
@@ -2853,19 +2853,19 @@ TextureImporter:
       name: Cavern_108
       rect:
         serializedVersion: 2
-        x: 219
-        y: 1
-        width: 7
-        height: 7
+        x: 256
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b5ec0945ed10dda90800000000000000
+      spriteID: 39196fad17e41a549b8707bb7ee8dd29
       internalID: -7287666567602450853
       vertices: []
       indices: 
@@ -2875,19 +2875,19 @@ TextureImporter:
       name: Cavern_109
       rect:
         serializedVersion: 2
-        x: 225
-        y: 1
-        width: 7
-        height: 7
+        x: 272
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 194682610079e2e80800000000000000
+      spriteID: c891f42650aed3b4a90ef38a79ab76f0
       internalID: -8201451844767554415
       vertices: []
       indices: 
@@ -2897,19 +2897,19 @@ TextureImporter:
       name: Cavern_110
       rect:
         serializedVersion: 2
-        x: 231
-        y: 1
-        width: 7
-        height: 7
+        x: 288
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 813a5536f0b0c0dc0800000000000000
+      spriteID: 09c15119f589ee1499e10d62a47d3100
       internalID: -3671547435494825192
       vertices: []
       indices: 
@@ -2919,19 +2919,19 @@ TextureImporter:
       name: Cavern_111
       rect:
         serializedVersion: 2
-        x: 237
-        y: 1
-        width: 7
-        height: 7
+        x: 304
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b12afc255858c62e0800000000000000
+      spriteID: a19a1b0b0c669734dada29e7e765f826
       internalID: -2131181715986603493
       vertices: []
       indices: 
@@ -2941,19 +2941,19 @@ TextureImporter:
       name: Cavern_112
       rect:
         serializedVersion: 2
-        x: 243
-        y: 1
-        width: 7
-        height: 7
+        x: 192
+        y: 240
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a9015ddf26fd21700800000000000000
+      spriteID: 6b30bc4aa46cca94383c67b919d503c0
       internalID: 509715324104675482
       vertices: []
       indices: 
@@ -2963,19 +2963,19 @@ TextureImporter:
       name: Cavern_113
       rect:
         serializedVersion: 2
-        x: 249
-        y: 1
-        width: 7
-        height: 7
+        x: 208
+        y: 240
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 895ba80c18277ca80800000000000000
+      spriteID: 02f582f56f93c9b41bb994b7a4fc65b0
       internalID: -8446656674503412328
       vertices: []
       indices: 
@@ -2985,19 +2985,19 @@ TextureImporter:
       name: Cavern_114
       rect:
         serializedVersion: 2
-        x: 255
-        y: 1
-        width: 7
-        height: 7
+        x: 224
+        y: 240
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 15c62fc33031e78f0800000000000000
+      spriteID: 480a339b18ef94c4093cd156a012f26d
       internalID: -540974000609530799
       vertices: []
       indices: 
@@ -3007,19 +3007,19 @@ TextureImporter:
       name: Cavern_115
       rect:
         serializedVersion: 2
-        x: 261
-        y: 1
-        width: 7
-        height: 7
+        x: 240
+        y: 240
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 25c6b136a49cc9240800000000000000
+      spriteID: 56a6134f7e7d4cd41b45dc492960b45d
       internalID: 4799932624197610578
       vertices: []
       indices: 
@@ -3029,20 +3029,900 @@ TextureImporter:
       name: Cavern_116
       rect:
         serializedVersion: 2
-        x: 267
-        y: 1
-        width: 7
-        height: 7
+        x: 256
+        y: 192
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 74b7d5cc90311a7e0800000000000000
+      spriteID: 4f52a535b273e224faf783bd604b1e61
       internalID: -1756101446893470905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_117
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce8273a8ea10ef459f619b2f074a391
+      internalID: -408528784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9559aca2be218f74fa6f02fe6411a52c
+      internalID: 1671036835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_119
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663bfcc706c69764f90bbd8422caafdc
+      internalID: -918476809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e763bc867dd247f4ab7b0c5daf4b000f
+      internalID: -495293087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb45c6efca6aaea4da133a1f36a189c7
+      internalID: 1993232197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22375ebc63d94074e86d5fa0947e4e58
+      internalID: 1537796131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_123
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f6ce1bd2891c043a77b736cf5300d3
+      internalID: 1750684553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3515d4e8985f5d740aee7d798870a932
+      internalID: 370072134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_125
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c145a2e97a27ac49b6bc1af5bd76596
+      internalID: 730605337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_126
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096104a04c06349459358a6289808661
+      internalID: -1528738875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda3f7aef176ab84b9f79d7932cb9945
+      internalID: -536507099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf6ce9d732ec9047876d9802f166b34
+      internalID: -1322235361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171e71870e7e4c246871977e2009bd03
+      internalID: 931130289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_130
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce14d326cdc81dd458f06f8931e92bb7
+      internalID: -422475918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e5611db5e7b4f44b44e45950df13f5
+      internalID: 893096607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0304b077347a431479d958e6d75321ba
+      internalID: 1719546621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_133
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cdbcd3a9827074a91b1b7310b27b62
+      internalID: 1440898532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_134
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486123e190dd34549b4495e3b4339e85
+      internalID: 379105131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf766100b49e19c428194798c4172990
+      internalID: 536924770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_136
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf06ed952e3a03a45be0cf350312c54b
+      internalID: -837988553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_137
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8412e1541a7a186478e05fb311c27732
+      internalID: -38836517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea786423a3a11b43abb0730d9a8ede6
+      internalID: -1840267444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_139
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca7c23d383695f4996962abb91e8f94
+      internalID: -911500845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349ffb7f805ad5e409b1c65db5ef6909
+      internalID: -1889909428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_141
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d666380f80d3a439db234f807ebdf0
+      internalID: 1099052835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ebf1d880ce1f043839f64a64ba2f7d
+      internalID: 943629846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_143
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5132d532613d9e4995f42cdbba969c2
+      internalID: 890572539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_144
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620842980053ef7419a7a11669dd9b75
+      internalID: -2106123571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9543406b799f65d49b9f464fe0b323ba
+      internalID: -1204334535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_146
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bd93ab1ba09a84587efd4f6fc37bcc
+      internalID: 354713816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_147
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd206c10557fc141952c216c0140fc5
+      internalID: 990855159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c84b3e6ab1b1649aacdaf51fff0e68
+      internalID: 385044682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7e01ebba8d74c4b9ae533e14477681
+      internalID: 2018562509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_150
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a8c0b39de74244b99acc1c56d0de50
+      internalID: 996998665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4260c1d5026704785676bdf1fb8da5
+      internalID: 1524093651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_152
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc7f66f87884c9488afc4da64879eb6
+      internalID: -136505177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_153
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d1f5ea26e1f2640876395e56667f88
+      internalID: -1423172002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_154
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df8445f832ccd441bdb4d58c982622f
+      internalID: 648028559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_155
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeec30c65874e24db8ee7d96384f2a1
+      internalID: -921223053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavern_156
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347153b58c59c4d44b6216db29002557
+      internalID: -1064581255
       vertices: []
       indices: 
       edges: []
@@ -3051,7 +3931,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 33f11ec6563805c409e1265e2cce6734
     internalID: 0
     vertices: []
     indices: 
@@ -3059,7 +3939,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Cavern_0: -2250608616197230316
       Cavern_1: 5379151341613937847
@@ -3082,10 +3964,50 @@ TextureImporter:
       Cavern_114: -540974000609530799
       Cavern_115: 4799932624197610578
       Cavern_116: -1756101446893470905
+      Cavern_117: -408528784
+      Cavern_118: 1671036835
+      Cavern_119: -918476809
       Cavern_12: -3882360911597902444
+      Cavern_120: -495293087
+      Cavern_121: 1993232197
+      Cavern_122: 1537796131
+      Cavern_123: 1750684553
+      Cavern_124: 370072134
+      Cavern_125: 730605337
+      Cavern_126: -1528738875
+      Cavern_127: -536507099
+      Cavern_128: -1322235361
+      Cavern_129: 931130289
       Cavern_13: -1497730374464620333
+      Cavern_130: -422475918
+      Cavern_131: 893096607
+      Cavern_132: 1719546621
+      Cavern_133: 1440898532
+      Cavern_134: 379105131
+      Cavern_135: 536924770
+      Cavern_136: -837988553
+      Cavern_137: -38836517
+      Cavern_138: -1840267444
+      Cavern_139: -911500845
       Cavern_14: -8563514635009337145
+      Cavern_140: -1889909428
+      Cavern_141: 1099052835
+      Cavern_142: 943629846
+      Cavern_143: 890572539
+      Cavern_144: -2106123571
+      Cavern_145: -1204334535
+      Cavern_146: 354713816
+      Cavern_147: 990855159
+      Cavern_148: 385044682
+      Cavern_149: 2018562509
       Cavern_15: -4188465966013398944
+      Cavern_150: 996998665
+      Cavern_151: 1524093651
+      Cavern_152: -136505177
+      Cavern_153: -1423172002
+      Cavern_154: 648028559
+      Cavern_155: -921223053
+      Cavern_156: -1064581255
       Cavern_16: 1531476891960433751
       Cavern_17: 4161540077658033939
       Cavern_18: 2603944539926130324

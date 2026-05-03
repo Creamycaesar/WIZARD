@@ -691,7 +691,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -705,7 +705,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -729,7 +729,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -783,12 +783,12 @@ TextureImporter:
       name: Cave-Obsidian_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 506
-        width: 7
-        height: 7
+        x: 16
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -805,12 +805,12 @@ TextureImporter:
       name: Cave-Obsidian_1
       rect:
         serializedVersion: 2
-        x: 21
-        y: 506
-        width: 7
-        height: 7
+        x: 32
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -827,12 +827,12 @@ TextureImporter:
       name: Cave-Obsidian_2
       rect:
         serializedVersion: 2
-        x: 31
-        y: 506
-        width: 7
-        height: 7
+        x: 48
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -849,12 +849,12 @@ TextureImporter:
       name: Cave-Obsidian_3
       rect:
         serializedVersion: 2
-        x: 37
-        y: 506
-        width: 7
-        height: 7
+        x: 64
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -871,12 +871,12 @@ TextureImporter:
       name: Cave-Obsidian_4
       rect:
         serializedVersion: 2
-        x: 43
-        y: 506
-        width: 7
-        height: 7
+        x: 80
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -893,12 +893,12 @@ TextureImporter:
       name: Cave-Obsidian_5
       rect:
         serializedVersion: 2
-        x: 49
-        y: 506
-        width: 7
-        height: 7
+        x: 96
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -915,12 +915,12 @@ TextureImporter:
       name: Cave-Obsidian_6
       rect:
         serializedVersion: 2
-        x: 55
-        y: 506
-        width: 7
-        height: 7
+        x: 16
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -937,12 +937,12 @@ TextureImporter:
       name: Cave-Obsidian_7
       rect:
         serializedVersion: 2
-        x: 61
-        y: 506
-        width: 7
-        height: 7
+        x: 16
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -959,12 +959,12 @@ TextureImporter:
       name: Cave-Obsidian_8
       rect:
         serializedVersion: 2
-        x: 67
-        y: 506
-        width: 7
-        height: 7
+        x: 32
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -981,12 +981,12 @@ TextureImporter:
       name: Cave-Obsidian_9
       rect:
         serializedVersion: 2
-        x: 73
-        y: 506
-        width: 7
-        height: 7
+        x: 32
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1003,12 +1003,12 @@ TextureImporter:
       name: Cave-Obsidian_10
       rect:
         serializedVersion: 2
-        x: 143
-        y: 506
-        width: 7
-        height: 7
+        x: 48
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1025,12 +1025,12 @@ TextureImporter:
       name: Cave-Obsidian_11
       rect:
         serializedVersion: 2
-        x: 149
-        y: 506
-        width: 7
-        height: 7
+        x: 48
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1047,12 +1047,12 @@ TextureImporter:
       name: Cave-Obsidian_12
       rect:
         serializedVersion: 2
-        x: 155
-        y: 506
-        width: 7
-        height: 7
+        x: 64
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1069,12 +1069,12 @@ TextureImporter:
       name: Cave-Obsidian_13
       rect:
         serializedVersion: 2
-        x: 161
-        y: 506
-        width: 7
-        height: 7
+        x: 80
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1091,12 +1091,12 @@ TextureImporter:
       name: Cave-Obsidian_14
       rect:
         serializedVersion: 2
-        x: 171
-        y: 506
-        width: 7
-        height: 7
+        x: 64
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1113,12 +1113,12 @@ TextureImporter:
       name: Cave-Obsidian_15
       rect:
         serializedVersion: 2
-        x: 177
-        y: 506
-        width: 7
-        height: 7
+        x: 80
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1135,12 +1135,12 @@ TextureImporter:
       name: Cave-Obsidian_16
       rect:
         serializedVersion: 2
-        x: 183
-        y: 506
-        width: 7
-        height: 7
+        x: 96
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1157,12 +1157,12 @@ TextureImporter:
       name: Cave-Obsidian_17
       rect:
         serializedVersion: 2
-        x: 189
-        y: 506
-        width: 7
-        height: 7
+        x: 112
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1179,12 +1179,12 @@ TextureImporter:
       name: Cave-Obsidian_18
       rect:
         serializedVersion: 2
-        x: 195
-        y: 506
-        width: 7
-        height: 7
+        x: 96
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1201,12 +1201,12 @@ TextureImporter:
       name: Cave-Obsidian_19
       rect:
         serializedVersion: 2
-        x: 201
-        y: 506
-        width: 7
-        height: 7
+        x: 112
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1223,12 +1223,12 @@ TextureImporter:
       name: Cave-Obsidian_20
       rect:
         serializedVersion: 2
-        x: 207
-        y: 506
-        width: 7
-        height: 7
+        x: 224
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1245,12 +1245,12 @@ TextureImporter:
       name: Cave-Obsidian_21
       rect:
         serializedVersion: 2
-        x: 213
-        y: 506
-        width: 7
-        height: 7
+        x: 224
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1267,12 +1267,12 @@ TextureImporter:
       name: Cave-Obsidian_22
       rect:
         serializedVersion: 2
-        x: 13
-        y: 445
-        width: 246
-        height: 54
+        x: 240
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1289,12 +1289,12 @@ TextureImporter:
       name: Cave-Obsidian_23
       rect:
         serializedVersion: 2
-        x: 272
-        y: 468
-        width: 7
-        height: 7
+        x: 240
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1311,12 +1311,12 @@ TextureImporter:
       name: Cave-Obsidian_24
       rect:
         serializedVersion: 2
-        x: 278
-        y: 468
-        width: 7
-        height: 7
+        x: 224
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1333,12 +1333,12 @@ TextureImporter:
       name: Cave-Obsidian_25
       rect:
         serializedVersion: 2
-        x: 284
-        y: 468
-        width: 7
-        height: 7
+        x: 208
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1355,12 +1355,12 @@ TextureImporter:
       name: Cave-Obsidian_26
       rect:
         serializedVersion: 2
-        x: 290
-        y: 468
-        width: 7
-        height: 7
+        x: 192
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1377,12 +1377,12 @@ TextureImporter:
       name: Cave-Obsidian_27
       rect:
         serializedVersion: 2
-        x: 296
-        y: 468
-        width: 7
-        height: 7
+        x: 176
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1399,12 +1399,12 @@ TextureImporter:
       name: Cave-Obsidian_28
       rect:
         serializedVersion: 2
-        x: 306
-        y: 468
-        width: 7
-        height: 7
+        x: 160
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1421,12 +1421,12 @@ TextureImporter:
       name: Cave-Obsidian_29
       rect:
         serializedVersion: 2
-        x: 316
-        y: 468
-        width: 7
-        height: 7
+        x: 144
+        y: 480
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1443,12 +1443,12 @@ TextureImporter:
       name: Cave-Obsidian_30
       rect:
         serializedVersion: 2
-        x: 322
-        y: 468
-        width: 7
-        height: 7
+        x: 144
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1465,12 +1465,12 @@ TextureImporter:
       name: Cave-Obsidian_31
       rect:
         serializedVersion: 2
-        x: 328
-        y: 468
-        width: 7
-        height: 7
+        x: 144
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1487,12 +1487,12 @@ TextureImporter:
       name: Cave-Obsidian_32
       rect:
         serializedVersion: 2
-        x: 334
-        y: 468
-        width: 7
-        height: 7
+        x: 160
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1509,12 +1509,12 @@ TextureImporter:
       name: Cave-Obsidian_33
       rect:
         serializedVersion: 2
-        x: 340
-        y: 468
-        width: 7
-        height: 7
+        x: 160
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1531,12 +1531,12 @@ TextureImporter:
       name: Cave-Obsidian_34
       rect:
         serializedVersion: 2
-        x: 13
-        y: 365
-        width: 214
-        height: 70
+        x: 176
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1553,12 +1553,12 @@ TextureImporter:
       name: Cave-Obsidian_35
       rect:
         serializedVersion: 2
-        x: 239
-        y: 396
-        width: 7
-        height: 8
+        x: 176
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1575,12 +1575,12 @@ TextureImporter:
       name: Cave-Obsidian_36
       rect:
         serializedVersion: 2
-        x: 245
-        y: 397
-        width: 7
-        height: 7
+        x: 192
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1597,12 +1597,12 @@ TextureImporter:
       name: Cave-Obsidian_37
       rect:
         serializedVersion: 2
-        x: 251
-        y: 397
-        width: 7
-        height: 7
+        x: 208
+        y: 464
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1619,12 +1619,12 @@ TextureImporter:
       name: Cave-Obsidian_38
       rect:
         serializedVersion: 2
-        x: 257
-        y: 396
-        width: 10
-        height: 8
+        x: 192
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1641,12 +1641,12 @@ TextureImporter:
       name: Cave-Obsidian_39
       rect:
         serializedVersion: 2
-        x: 270
-        y: 397
-        width: 7
-        height: 7
+        x: 208
+        y: 448
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1663,12 +1663,12 @@ TextureImporter:
       name: Cave-Obsidian_40
       rect:
         serializedVersion: 2
-        x: 276
-        y: 397
-        width: 7
-        height: 7
+        x: 16
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1685,12 +1685,12 @@ TextureImporter:
       name: Cave-Obsidian_41
       rect:
         serializedVersion: 2
-        x: 282
-        y: 397
-        width: 7
-        height: 7
+        x: 32
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1707,12 +1707,12 @@ TextureImporter:
       name: Cave-Obsidian_42
       rect:
         serializedVersion: 2
-        x: 288
-        y: 397
-        width: 7
-        height: 7
+        x: 48
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1729,12 +1729,12 @@ TextureImporter:
       name: Cave-Obsidian_43
       rect:
         serializedVersion: 2
-        x: 294
-        y: 397
-        width: 7
-        height: 7
+        x: 16
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1751,12 +1751,12 @@ TextureImporter:
       name: Cave-Obsidian_44
       rect:
         serializedVersion: 2
-        x: 300
-        y: 397
-        width: 7
-        height: 7
+        x: 32
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1773,12 +1773,12 @@ TextureImporter:
       name: Cave-Obsidian_45
       rect:
         serializedVersion: 2
-        x: 306
-        y: 397
-        width: 7
-        height: 7
+        x: 48
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1795,12 +1795,12 @@ TextureImporter:
       name: Cave-Obsidian_46
       rect:
         serializedVersion: 2
-        x: 316
-        y: 397
-        width: 7
-        height: 7
+        x: 16
+        y: 368
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1817,12 +1817,12 @@ TextureImporter:
       name: Cave-Obsidian_47
       rect:
         serializedVersion: 2
-        x: 326
-        y: 397
-        width: 7
-        height: 7
+        x: 32
+        y: 368
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1839,12 +1839,12 @@ TextureImporter:
       name: Cave-Obsidian_48
       rect:
         serializedVersion: 2
-        x: 332
-        y: 397
-        width: 7
-        height: 7
+        x: 144
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1861,12 +1861,12 @@ TextureImporter:
       name: Cave-Obsidian_49
       rect:
         serializedVersion: 2
-        x: 338
-        y: 397
-        width: 7
-        height: 7
+        x: 160
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1883,12 +1883,12 @@ TextureImporter:
       name: Cave-Obsidian_50
       rect:
         serializedVersion: 2
-        x: 344
-        y: 397
-        width: 7
-        height: 7
+        x: 176
+        y: 400
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1905,12 +1905,12 @@ TextureImporter:
       name: Cave-Obsidian_51
       rect:
         serializedVersion: 2
-        x: 350
-        y: 397
-        width: 7
-        height: 7
+        x: 144
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1927,12 +1927,12 @@ TextureImporter:
       name: Cave-Obsidian_52
       rect:
         serializedVersion: 2
-        x: 356
-        y: 397
-        width: 7
-        height: 7
+        x: 144
+        y: 368
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1949,12 +1949,12 @@ TextureImporter:
       name: Cave-Obsidian_53
       rect:
         serializedVersion: 2
-        x: 13
-        y: 301
-        width: 214
-        height: 54
+        x: 160
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1971,12 +1971,12 @@ TextureImporter:
       name: Cave-Obsidian_54
       rect:
         serializedVersion: 2
-        x: 239
-        y: 324
-        width: 7
-        height: 7
+        x: 160
+        y: 368
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1993,19 +1993,19 @@ TextureImporter:
       name: Cave-Obsidian_55
       rect:
         serializedVersion: 2
-        x: 245
-        y: 323
-        width: 7
-        height: 8
+        x: 176
+        y: 384
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a05663f38c88a6960800000000000000
+      spriteID: 6aeca323a1401104a9a978c47a2237e1
       internalID: 7596034115149128970
       vertices: []
       indices: 
@@ -2015,19 +2015,19 @@ TextureImporter:
       name: Cave-Obsidian_56
       rect:
         serializedVersion: 2
-        x: 251
-        y: 324
-        width: 7
-        height: 7
+        x: 16
+        y: 336
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 98de6712cd029e5b0800000000000000
+      spriteID: 99cc8dc3b468c354891d1f8213222044
       internalID: -5338699753444676215
       vertices: []
       indices: 
@@ -2037,19 +2037,19 @@ TextureImporter:
       name: Cave-Obsidian_57
       rect:
         serializedVersion: 2
-        x: 257
-        y: 324
-        width: 7
-        height: 7
+        x: 32
+        y: 336
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8f78bd088058486d0800000000000000
+      spriteID: ee34531548cde034d815dd2db3b75709
       internalID: -2989117981099063304
       vertices: []
       indices: 
@@ -2059,19 +2059,19 @@ TextureImporter:
       name: Cave-Obsidian_58
       rect:
         serializedVersion: 2
-        x: 263
-        y: 324
-        width: 7
-        height: 7
+        x: 160
+        y: 336
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d196e5af3e8daa7a0800000000000000
+      spriteID: e8e78dc07f40a7244afdcb108357cd80
       internalID: -6365036649665107683
       vertices: []
       indices: 
@@ -2081,19 +2081,19 @@ TextureImporter:
       name: Cave-Obsidian_59
       rect:
         serializedVersion: 2
-        x: 269
-        y: 324
-        width: 7
-        height: 7
+        x: 144
+        y: 336
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 95c46bc6f464dc7d0800000000000000
+      spriteID: b82100c66980ddb4eb6facc3bbe41200
       internalID: -2896581678389113767
       vertices: []
       indices: 
@@ -2103,19 +2103,19 @@ TextureImporter:
       name: Cave-Obsidian_60
       rect:
         serializedVersion: 2
-        x: 13
-        y: 253
-        width: 230
-        height: 38
+        x: 16
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a52e46b5360183bd0800000000000000
+      spriteID: 84d80b0ad5f9ca8489a187465af5f732
       internalID: -2650350361786391974
       vertices: []
       indices: 
@@ -2125,19 +2125,19 @@ TextureImporter:
       name: Cave-Obsidian_61
       rect:
         serializedVersion: 2
-        x: 255
-        y: 268
-        width: 7
-        height: 7
+        x: 32
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eb72f9b134c8cb8d0800000000000000
+      spriteID: 4e72dd8ca1736804bb4912f198ffcdf0
       internalID: -2829232246041401410
       vertices: []
       indices: 
@@ -2147,19 +2147,19 @@ TextureImporter:
       name: Cave-Obsidian_62
       rect:
         serializedVersion: 2
-        x: 261
-        y: 268
-        width: 7
-        height: 7
+        x: 48
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ad5f959d2491a0400800000000000000
+      spriteID: a2f37f14a4560de4e97dc842a1a1d9a3
       internalID: 291072900823905754
       vertices: []
       indices: 
@@ -2169,19 +2169,19 @@ TextureImporter:
       name: Cave-Obsidian_63
       rect:
         serializedVersion: 2
-        x: 267
-        y: 268
-        width: 7
-        height: 7
+        x: 64
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a476a2250a3efda90800000000000000
+      spriteID: f65ae093b6587704ea9f4a4aa807e728
       internalID: -7286855394349390006
       vertices: []
       indices: 
@@ -2191,19 +2191,19 @@ TextureImporter:
       name: Cave-Obsidian_64
       rect:
         serializedVersion: 2
-        x: 273
-        y: 268
-        width: 7
-        height: 7
+        x: 16
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 65a468d32953fb290800000000000000
+      spriteID: cb5159345293fae4fbc61e57864e1921
       internalID: -7872514721406629290
       vertices: []
       indices: 
@@ -2213,19 +2213,19 @@ TextureImporter:
       name: Cave-Obsidian_65
       rect:
         serializedVersion: 2
-        x: 279
-        y: 268
-        width: 7
-        height: 7
+        x: 32
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1f027d0c9865399e0800000000000000
+      spriteID: 4775f411f4ad08c41adaa27eea83510a
       internalID: -1615852691650043663
       vertices: []
       indices: 
@@ -2235,19 +2235,19 @@ TextureImporter:
       name: Cave-Obsidian_66
       rect:
         serializedVersion: 2
-        x: 13
-        y: 173
-        width: 166
-        height: 70
+        x: 48
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 002f3b6af433c4400800000000000000
+      spriteID: bf0ab024bdc56624fa83b8bcfa0f338f
       internalID: 309678891573965312
       vertices: []
       indices: 
@@ -2257,19 +2257,19 @@ TextureImporter:
       name: Cave-Obsidian_67
       rect:
         serializedVersion: 2
-        x: 191
-        y: 205
-        width: 7
-        height: 7
+        x: 64
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 826477c2f7465bc30800000000000000
+      spriteID: f466d63ffe8ffef4fb813ce498d55507
       internalID: 4374513110429943336
       vertices: []
       indices: 
@@ -2279,19 +2279,19 @@ TextureImporter:
       name: Cave-Obsidian_68
       rect:
         serializedVersion: 2
-        x: 197
-        y: 205
-        width: 7
-        height: 7
+        x: 80
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 24d7213da99d83410800000000000000
+      spriteID: 13a47392df6b3024b8c5320d3d866738
       internalID: 1457153738443750722
       vertices: []
       indices: 
@@ -2301,19 +2301,19 @@ TextureImporter:
       name: Cave-Obsidian_69
       rect:
         serializedVersion: 2
-        x: 203
-        y: 205
-        width: 7
-        height: 7
+        x: 80
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 980f6be8a99b38310800000000000000
+      spriteID: 321a142f9aab6004fbffe53cc3091fdb
       internalID: 1406171582140182665
       vertices: []
       indices: 
@@ -2323,19 +2323,19 @@ TextureImporter:
       name: Cave-Obsidian_70
       rect:
         serializedVersion: 2
-        x: 209
-        y: 205
-        width: 7
-        height: 7
+        x: 96
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ff3815c177b8e03e0800000000000000
+      spriteID: 567b1628da8e9d047a495e7c0b9d95d0
       internalID: -2085576233733487617
       vertices: []
       indices: 
@@ -2345,19 +2345,19 @@ TextureImporter:
       name: Cave-Obsidian_71
       rect:
         serializedVersion: 2
-        x: 215
-        y: 205
-        width: 7
-        height: 7
+        x: 96
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0cfeb1db3b89fc340800000000000000
+      spriteID: abf82d5e6a2495b4981fb2c251c711ac
       internalID: 4886292018459570112
       vertices: []
       indices: 
@@ -2367,19 +2367,19 @@ TextureImporter:
       name: Cave-Obsidian_72
       rect:
         serializedVersion: 2
-        x: 225
-        y: 205
-        width: 7
-        height: 7
+        x: 224
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e5c387c57c2550ae0800000000000000
+      spriteID: 50a38af402f8ee9428cdcd5b47e43161
       internalID: -1583768677747508130
       vertices: []
       indices: 
@@ -2389,19 +2389,19 @@ TextureImporter:
       name: Cave-Obsidian_73
       rect:
         serializedVersion: 2
-        x: 231
-        y: 205
-        width: 7
-        height: 7
+        x: 208
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: edacad4321b6061f0800000000000000
+      spriteID: 5b7a00f9b974de14abd464241966dd69
       internalID: -1053724586864358690
       vertices: []
       indices: 
@@ -2411,19 +2411,19 @@ TextureImporter:
       name: Cave-Obsidian_74
       rect:
         serializedVersion: 2
-        x: 237
-        y: 205
-        width: 7
-        height: 7
+        x: 192
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cf803b3058500e850800000000000000
+      spriteID: 2a913ec649c29a245a4a0322730e5cc0
       internalID: 6404124738971699452
       vertices: []
       indices: 
@@ -2433,19 +2433,19 @@ TextureImporter:
       name: Cave-Obsidian_75
       rect:
         serializedVersion: 2
-        x: 243
-        y: 205
-        width: 7
-        height: 7
+        x: 176
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a652409933f114820800000000000000
+      spriteID: b60cbef957e2aae43a586ea547ba8379
       internalID: 2900633941474289002
       vertices: []
       indices: 
@@ -2455,19 +2455,19 @@ TextureImporter:
       name: Cave-Obsidian_76
       rect:
         serializedVersion: 2
-        x: 249
-        y: 205
-        width: 7
-        height: 7
+        x: 160
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 902756b1407807490800000000000000
+      spriteID: 45604f056adac03438e4afcf6ef3e3ec
       internalID: -7750546506995371511
       vertices: []
       indices: 
@@ -2477,19 +2477,19 @@ TextureImporter:
       name: Cave-Obsidian_77
       rect:
         serializedVersion: 2
-        x: 16
-        y: 153
-        width: 7
-        height: 7
+        x: 144
+        y: 272
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e99f320e9a0842df0800000000000000
+      spriteID: 76c976909671a74428798ad9156dc00c
       internalID: -205898215853917794
       vertices: []
       indices: 
@@ -2499,19 +2499,19 @@ TextureImporter:
       name: Cave-Obsidian_78
       rect:
         serializedVersion: 2
-        x: 22
-        y: 153
-        width: 7
-        height: 7
+        x: 144
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1e9a7e4ffb47ddff0800000000000000
+      spriteID: bcd83fb029fa3db4398b2c234eb3f666
       internalID: -9723256388474399
       vertices: []
       indices: 
@@ -2521,19 +2521,19 @@ TextureImporter:
       name: Cave-Obsidian_79
       rect:
         serializedVersion: 2
-        x: 28
-        y: 153
-        width: 7
-        height: 7
+        x: 160
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3f5852d72005fe6c0800000000000000
+      spriteID: a20fe4211d83a4c49a417787f4f44453
       internalID: -4111979963146205709
       vertices: []
       indices: 
@@ -2543,19 +2543,19 @@ TextureImporter:
       name: Cave-Obsidian_80
       rect:
         serializedVersion: 2
-        x: 34
-        y: 153
-        width: 7
-        height: 7
+        x: 176
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c8267bb9a9aa967a0800000000000000
+      spriteID: 2cb5fe5c8b2f18647a9ba234b4da4e6f
       internalID: -6383383415806795124
       vertices: []
       indices: 
@@ -2565,19 +2565,19 @@ TextureImporter:
       name: Cave-Obsidian_81
       rect:
         serializedVersion: 2
-        x: 40
-        y: 153
-        width: 7
-        height: 7
+        x: 192
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 342b332efcacf1180800000000000000
+      spriteID: 8b57868044527bd4c81a26e77f9be90a
       internalID: -9142365724336737725
       vertices: []
       indices: 
@@ -2587,19 +2587,19 @@ TextureImporter:
       name: Cave-Obsidian_82
       rect:
         serializedVersion: 2
-        x: 50
-        y: 153
-        width: 7
-        height: 7
+        x: 208
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8dee24e1031462160800000000000000
+      spriteID: d08da604304049c4d9eb53a8e5b2ee07
       internalID: 7000354345715953368
       vertices: []
       indices: 
@@ -2609,19 +2609,19 @@ TextureImporter:
       name: Cave-Obsidian_83
       rect:
         serializedVersion: 2
-        x: 56
-        y: 153
-        width: 7
-        height: 7
+        x: 224
+        y: 256
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: af1c72bb38f439b80800000000000000
+      spriteID: fad42a1d469b0a64f930ac6858d89eb6
       internalID: -8389274253661847046
       vertices: []
       indices: 
@@ -2631,19 +2631,19 @@ TextureImporter:
       name: Cave-Obsidian_84
       rect:
         serializedVersion: 2
-        x: 62
-        y: 153
-        width: 7
-        height: 7
+        x: 16
+        y: 208
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 23369ec8921ef54b0800000000000000
+      spriteID: 8569d07e72665c64e95a7bb83537c6b5
       internalID: -5449389455520996558
       vertices: []
       indices: 
@@ -2653,19 +2653,19 @@ TextureImporter:
       name: Cave-Obsidian_85
       rect:
         serializedVersion: 2
-        x: 68
-        y: 153
-        width: 7
-        height: 7
+        x: 16
+        y: 176
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7dc2a5e69f3fa12b0800000000000000
+      spriteID: d07646b923ca617489f76f66441f5639
       internalID: -5612905732940092201
       vertices: []
       indices: 
@@ -2675,19 +2675,19 @@ TextureImporter:
       name: Cave-Obsidian_86
       rect:
         serializedVersion: 2
-        x: 74
-        y: 153
-        width: 7
-        height: 7
+        x: 144
+        y: 208
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ddc2be6af532d2ed0800000000000000
+      spriteID: 799c0d3f331b02843be63f7a66b5b194
       internalID: -2437252929608274723
       vertices: []
       indices: 
@@ -2697,19 +2697,19 @@ TextureImporter:
       name: Cave-Obsidian_87
       rect:
         serializedVersion: 2
-        x: 80
-        y: 153
-        width: 7
-        height: 7
+        x: 144
+        y: 176
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6e671f4823fd56a60800000000000000
+      spriteID: 0c2254287c999884c9bf3489ce45e720
       internalID: 7666779348739913446
       vertices: []
       indices: 
@@ -2719,20 +2719,20 @@ TextureImporter:
       name: Cave-Obsidian_88
       rect:
         serializedVersion: 2
-        x: 86
-        y: 153
-        width: 7
-        height: 7
+        x: 16
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 819944ebbca7704e0800000000000000
-      internalID: -2015507292735891176
+      spriteID: 758259afd1397cb428480a67a297b0a4
+      internalID: 1623042534
       vertices: []
       indices: 
       edges: []
@@ -2741,20 +2741,20 @@ TextureImporter:
       name: Cave-Obsidian_89
       rect:
         serializedVersion: 2
-        x: 92
-        y: 153
-        width: 7
-        height: 7
+        x: 32
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ae2b4a201063d4d70800000000000000
-      internalID: 9028932205914927850
+      spriteID: 21eb04d41561f5546b6174aea532558f
+      internalID: 1376149615
       vertices: []
       indices: 
       edges: []
@@ -2763,20 +2763,20 @@ TextureImporter:
       name: Cave-Obsidian_90
       rect:
         serializedVersion: 2
-        x: 144
-        y: 153
-        width: 7
-        height: 7
+        x: 48
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3d3192f8897535770800000000000000
-      internalID: 8598312426328888275
+      spriteID: fd389640b039ee542b378f9850064cce
+      internalID: 2027671751
       vertices: []
       indices: 
       edges: []
@@ -2785,20 +2785,20 @@ TextureImporter:
       name: Cave-Obsidian_91
       rect:
         serializedVersion: 2
-        x: 150
-        y: 153
-        width: 7
-        height: 7
+        x: 64
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bf297feccbcc018e0800000000000000
-      internalID: -1724653545984650501
+      spriteID: 6e9b009cc879d6e4284eb0dabf8667d1
+      internalID: 1312896035
       vertices: []
       indices: 
       edges: []
@@ -2807,20 +2807,20 @@ TextureImporter:
       name: Cave-Obsidian_92
       rect:
         serializedVersion: 2
-        x: 156
-        y: 153
-        width: 7
-        height: 7
+        x: 80
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9ff01c6019e5664b0800000000000000
-      internalID: -5447562722281451527
+      spriteID: b412f3704c2fbe54992b26a74649dd85
+      internalID: -984040838
       vertices: []
       indices: 
       edges: []
@@ -2829,20 +2829,20 @@ TextureImporter:
       name: Cave-Obsidian_93
       rect:
         serializedVersion: 2
-        x: 162
-        y: 153
-        width: 7
-        height: 7
+        x: 144
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d5b7d09c545676f30800000000000000
-      internalID: 4568731697390910301
+      spriteID: 7e54399351018c643b7919de2738b536
+      internalID: 120710995
       vertices: []
       indices: 
       edges: []
@@ -2851,20 +2851,20 @@ TextureImporter:
       name: Cave-Obsidian_94
       rect:
         serializedVersion: 2
-        x: 172
-        y: 153
-        width: 7
-        height: 7
+        x: 160
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 68f6b28d0d5ca02f0800000000000000
-      internalID: -1005774065993289850
+      spriteID: b8b36f09dad8c1546a4c9fd11ce9bac5
+      internalID: 611338413
       vertices: []
       indices: 
       edges: []
@@ -2873,20 +2873,20 @@ TextureImporter:
       name: Cave-Obsidian_95
       rect:
         serializedVersion: 2
-        x: 178
-        y: 153
-        width: 7
-        height: 7
+        x: 176
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 67c1ba23fb2f8ba20800000000000000
-      internalID: 3078477248310484086
+      spriteID: a6a781538d6843e46b639a3826bef7a4
+      internalID: -1276209514
       vertices: []
       indices: 
       edges: []
@@ -2895,20 +2895,20 @@ TextureImporter:
       name: Cave-Obsidian_96
       rect:
         serializedVersion: 2
-        x: 184
-        y: 153
-        width: 7
-        height: 7
+        x: 192
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d308d94ef836a5dc0800000000000000
-      internalID: -3649495078363365315
+      spriteID: 98ec98419f4839845bdcdf63769aea60
+      internalID: 766445938
       vertices: []
       indices: 
       edges: []
@@ -2917,2682 +2917,20 @@ TextureImporter:
       name: Cave-Obsidian_97
       rect:
         serializedVersion: 2
-        x: 190
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 095930c8b9a377b50800000000000000
-      internalID: 6590801019423397264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_98
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 86cd3598ec5085e90800000000000000
-      internalID: -7036868033141023640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_99
-      rect:
-        serializedVersion: 2
-        x: 202
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ee88eb09863d2450800000000000000
-      internalID: 6065564235376135906
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_100
-      rect:
-        serializedVersion: 2
         x: 208
-        y: 153
-        width: 7
-        height: 7
+        y: 416
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4e42854276b209440800000000000000
-      internalID: 4940496513216816356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_101
-      rect:
-        serializedVersion: 2
-        x: 214
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d86f8b41bc3a65c10800000000000000
-      internalID: 2041999573680453261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_102
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f3845029df876490800000000000000
-      internalID: -7753070070781934600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_103
-      rect:
-        serializedVersion: 2
-        x: 278
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 22a84b1d0763fa5b0800000000000000
-      internalID: -5355001573737723358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_104
-      rect:
-        serializedVersion: 2
-        x: 284
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 28af58aea217cde30800000000000000
-      internalID: 4529619754365090434
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_105
-      rect:
-        serializedVersion: 2
-        x: 290
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46066c8c526bf86a0800000000000000
-      internalID: -6444732268345401244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_106
-      rect:
-        serializedVersion: 2
-        x: 296
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0d0243b5099486f0800000000000000
-      internalID: -683252993692136178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_107
-      rect:
-        serializedVersion: 2
-        x: 306
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6789496f34ff314b0800000000000000
-      internalID: -5470748454960195466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_108
-      rect:
-        serializedVersion: 2
-        x: 312
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a2d9035bc11bc520800000000000000
-      internalID: 2723289964644782758
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_109
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 636bae4fb9a91a240800000000000000
-      internalID: 4801288672373290550
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_110
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e8d4f057ddff54750800000000000000
-      internalID: 6288713781309558158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_111
-      rect:
-        serializedVersion: 2
-        x: 330
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f1361f0b543a9230800000000000000
-      internalID: 3646284414009618932
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_112
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b8944d8b048b92b70800000000000000
-      internalID: 8874827128828610955
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_113
-      rect:
-        serializedVersion: 2
-        x: 342
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f71bda24d0b41afd0800000000000000
-      internalID: -2332500611675868801
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_114
-      rect:
-        serializedVersion: 2
-        x: 348
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e499a6036f648a370800000000000000
-      internalID: 8333989133637294414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_115
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bbbb489769ee1a9d0800000000000000
-      internalID: -2764666366177526853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_116
-      rect:
-        serializedVersion: 2
-        x: 406
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f8ad0ed0702f5f280800000000000000
-      internalID: -9010029367373276529
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_117
-      rect:
-        serializedVersion: 2
-        x: 412
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7652aa8138a12a9b0800000000000000
-      internalID: -5070461080108915353
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_118
-      rect:
-        serializedVersion: 2
-        x: 418
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97b479c9e148e5fc0800000000000000
-      internalID: -3504218193036620935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_119
-      rect:
-        serializedVersion: 2
-        x: 428
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c809fcfe2d2de90e0800000000000000
-      internalID: -2261138159485087604
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_120
-      rect:
-        serializedVersion: 2
-        x: 434
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f87039d018f55df0800000000000000
-      internalID: -191974657846380297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_121
-      rect:
-        serializedVersion: 2
-        x: 440
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3580ce17635717990800000000000000
-      internalID: -7389996636838295469
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_122
-      rect:
-        serializedVersion: 2
-        x: 446
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d324f39d1cba9d9a0800000000000000
-      internalID: -6207741762291678659
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_123
-      rect:
-        serializedVersion: 2
-        x: 452
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 05ec10c3a5cd4b4a0800000000000000
-      internalID: -6578390875569533360
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_124
-      rect:
-        serializedVersion: 2
-        x: 458
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4d7875fa010c61cf0800000000000000
-      internalID: -281826748770318380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_125
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c04727872dd932b40800000000000000
-      internalID: 5414344704318927884
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_126
-      rect:
-        serializedVersion: 2
-        x: 470
-        y: 153
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7600dbc756c931370800000000000000
-      internalID: 8292143298617606247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_127
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 93
-        width: 502
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8ab895462754ae080800000000000000
-      internalID: -9157430534692303960
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_128
-      rect:
-        serializedVersion: 2
-        x: 528
-        y: 117
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e94a41253e6e3750800000000000000
-      internalID: 6286583304326629861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_129
-      rect:
-        serializedVersion: 2
-        x: 534
-        y: 117
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f2c77d2d50e09b6e0800000000000000
-      internalID: -1821409156119692241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_130
-      rect:
-        serializedVersion: 2
-        x: 540
-        y: 117
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fbfa52f22fc23ee90800000000000000
-      internalID: -6997699977318912065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_131
-      rect:
-        serializedVersion: 2
-        x: 546
-        y: 117
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df1bbf0c530043470800000000000000
-      internalID: 8373317838059581949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_132
-      rect:
-        serializedVersion: 2
-        x: 552
-        y: 117
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 42c850163910188f0800000000000000
-      internalID: -540148747808175068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_133
-      rect:
-        serializedVersion: 2
-        x: 562
-        y: 117
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3e31f18c968386950800000000000000
-      internalID: 6442461293933695971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_134
-      rect:
-        serializedVersion: 2
-        x: 572
-        y: 117
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 682ee4bc3e6914630800000000000000
-      internalID: 3909571856646988422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_135
-      rect:
-        serializedVersion: 2
-        x: 578
-        y: 117
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3184d8be86ab5b70800000000000000
-      internalID: 8888881421462307134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_136
-      rect:
-        serializedVersion: 2
-        x: 584
-        y: 117
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8ad8c88b506f2e510800000000000000
-      internalID: 1577093323964583336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_137
-      rect:
-        serializedVersion: 2
-        x: 590
-        y: 117
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09c1747a286731cc0800000000000000
-      internalID: -3741516561890468720
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_138
-      rect:
-        serializedVersion: 2
-        x: 596
-        y: 117
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5a82c3ca012c82d20800000000000000
-      internalID: 3254064107640072357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_139
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46d3d61187c359d50800000000000000
-      internalID: 6743362503443299684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_140
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac558a2f99ac092a0800000000000000
-      internalID: -6732658680368966198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_141
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2fe92e3f9b2c86c80800000000000000
-      internalID: -8329193406905278734
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_142
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81ea59bf7bfe727d0800000000000000
-      internalID: -2943120257984385512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_143
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 66e4bb0edb6e23a00800000000000000
-      internalID: 734903392408391270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_144
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b93ff586cb4165d0800000000000000
-      internalID: -3071090154866263629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_145
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aed2b92f0b6a33af0800000000000000
-      internalID: -417807061500613142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_146
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ba6d7f4e3d54f460800000000000000
-      internalID: 7274541820313168562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_147
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4dbc728768406e180800000000000000
-      internalID: -9086570222585394220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_148
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4e629a4cc7293f3c0800000000000000
-      internalID: -4326953752399894812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_149
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5e5492f2bf4e25b0800000000000000
-      internalID: -5391284073923322273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_150
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 48d0b86c370019f50800000000000000
-      internalID: 6886285802478439812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_151
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6edc12c3b46769760800000000000000
-      internalID: 7464283497916648934
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_152
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: afec3b59ca4fb4310800000000000000
-      internalID: 1390473932057071354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_153
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f4c081e776607630800000000000000
-      internalID: 3922747940510156025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_154
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 07b8656bd12a69760800000000000000
-      internalID: 7464331680910052208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_155
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f73cdf54dd5274970800000000000000
-      internalID: 8738995234227995519
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_156
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47091724a5c968f60800000000000000
-      internalID: 8036282496564957300
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_157
-      rect:
-        serializedVersion: 2
-        x: 151
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b058d89c5bf69af10800000000000000
-      internalID: 2281477512801125643
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_158
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76d8bd09fa894eaf0800000000000000
-      internalID: -368001389720531609
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_159
-      rect:
-        serializedVersion: 2
-        x: 163
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ca33668382addd10800000000000000
-      internalID: 2152054882732030662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_160
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 810f420bed3c06930800000000000000
-      internalID: 4134519819131482136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_161
-      rect:
-        serializedVersion: 2
-        x: 179
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8547e1fe3ece09f80800000000000000
-      internalID: -8101715265926040488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_162
-      rect:
-        serializedVersion: 2
-        x: 185
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e07784b129844e640800000000000000
-      internalID: 5108287669705144078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_163
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 63125baa4d7ddbb80800000000000000
-      internalID: -8377302423442218698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_164
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35d2c552686769d80800000000000000
-      internalID: -8244271749330621101
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_165
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eed61c51d67d0c670800000000000000
-      internalID: 8557076155520347630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_166
-      rect:
-        serializedVersion: 2
-        x: 213
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4685d7fc6500ed120800000000000000
-      internalID: 2440388420929673316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_167
-      rect:
-        serializedVersion: 2
-        x: 219
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3aac3e6f1eda72200800000000000000
-      internalID: 155283898188941987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_168
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b53d4d41f66c5e8f0800000000000000
-      internalID: -511784802243521701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_169
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 646f5bf3483694db0800000000000000
-      internalID: -4807201707585571258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_170
-      rect:
-        serializedVersion: 2
-        x: 237
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6bffd6760a9d5b9d0800000000000000
-      internalID: -2759059913741303882
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_171
-      rect:
-        serializedVersion: 2
-        x: 243
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb3bcf6a619023330800000000000000
-      internalID: 3689021037665366972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_172
-      rect:
-        serializedVersion: 2
-        x: 249
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1e8a35a298e851820800000000000000
-      internalID: 2888371455799830753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_173
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a355baba6a96a5ee0800000000000000
-      internalID: -1271587780213123782
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_174
-      rect:
-        serializedVersion: 2
-        x: 279
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 621e81f59537fa510800000000000000
-      internalID: 1562594423405601062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_175
-      rect:
-        serializedVersion: 2
-        x: 285
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3a21c6ba1bd28c40800000000000000
-      internalID: 5513209801636653628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_176
-      rect:
-        serializedVersion: 2
-        x: 291
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c4063a608cc853e0800000000000000
-      internalID: -2064675577239567167
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_177
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6aba0e90bf5171bd0800000000000000
-      internalID: -2659632886992295002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_178
-      rect:
-        serializedVersion: 2
-        x: 307
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ef0f9331e73415400800000000000000
-      internalID: 311104058032779518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_179
-      rect:
-        serializedVersion: 2
-        x: 313
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e9d17de5ec36f18f0800000000000000
-      internalID: -567625290019824226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_180
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1fbb06724348315e0800000000000000
-      internalID: -1940061654932734991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_181
-      rect:
-        serializedVersion: 2
-        x: 325
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4db95b54f2f0aad10800000000000000
-      internalID: 2137537668848131028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_182
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff2c1a70aa1bd63d0800000000000000
-      internalID: -3211715615414697217
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_183
-      rect:
-        serializedVersion: 2
-        x: 341
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 03bc212b6d28d13a0800000000000000
-      internalID: -6693049612580500688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_184
-      rect:
-        serializedVersion: 2
-        x: 347
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ec8b50de6069c430800000000000000
-      internalID: 3803677389349424355
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_185
-      rect:
-        serializedVersion: 2
-        x: 353
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 05d839ba39d2ce1a0800000000000000
-      internalID: -6778993226837422768
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_186
-      rect:
-        serializedVersion: 2
-        x: 359
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1cf6d3020faad7870800000000000000
-      internalID: 8682283604949954497
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_187
-      rect:
-        serializedVersion: 2
-        x: 365
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 006e8ea487115a0b0800000000000000
-      internalID: -5718144943526451712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_188
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3021444f368b8f2d0800000000000000
-      internalID: -3244640792081067517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_189
-      rect:
-        serializedVersion: 2
-        x: 377
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a10ac4327391bb00800000000000000
-      internalID: 842616724016202153
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_190
-      rect:
-        serializedVersion: 2
-        x: 401
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5a5eeeb66fba1c840800000000000000
-      internalID: 5242660516097090981
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_191
-      rect:
-        serializedVersion: 2
-        x: 407
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b923d1962a5324d0800000000000000
-      internalID: -3160583391782164039
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_192
-      rect:
-        serializedVersion: 2
-        x: 413
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd085d6634cbce810800000000000000
-      internalID: 1796017349088084187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_193
-      rect:
-        serializedVersion: 2
-        x: 419
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e480820e2ee376fc0800000000000000
-      internalID: -3501761041113020338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_194
-      rect:
-        serializedVersion: 2
-        x: 425
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 198860ab92ba81700800000000000000
-      internalID: 511346753409550481
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_195
-      rect:
-        serializedVersion: 2
-        x: 435
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cd65d1715b59ff5f0800000000000000
-      internalID: -720692810346572068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_196
-      rect:
-        serializedVersion: 2
-        x: 441
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 673b0fecdc5ae0750800000000000000
-      internalID: 6273133634332439414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_197
-      rect:
-        serializedVersion: 2
-        x: 447
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: efa6f755ff6354b10800000000000000
-      internalID: 1965037282696063742
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_198
-      rect:
-        serializedVersion: 2
-        x: 453
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aac1220c0a5ab39f0800000000000000
-      internalID: -487614024802755414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_199
-      rect:
-        serializedVersion: 2
-        x: 463
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90d2cae526d7393e0800000000000000
-      internalID: -2048155544074834679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_200
-      rect:
-        serializedVersion: 2
-        x: 469
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 53196c2feae336a90800000000000000
-      internalID: -7321939648055963339
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_201
-      rect:
-        serializedVersion: 2
-        x: 475
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18a7bfae19f34d9b0800000000000000
-      internalID: -5056346585685067135
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_202
-      rect:
-        serializedVersion: 2
-        x: 481
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f381b9a9f2a41dc60800000000000000
-      internalID: 7841129994546518079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_203
-      rect:
-        serializedVersion: 2
-        x: 487
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6adfa505fa2ddd8f0800000000000000
-      internalID: -514023132041118298
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_204
-      rect:
-        serializedVersion: 2
-        x: 493
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 000352e747c1b0c60800000000000000
-      internalID: 7785347667498184704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_205
-      rect:
-        serializedVersion: 2
-        x: 499
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc31b3f9f3ecd0ba0800000000000000
-      internalID: -6121009545876925492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_206
-      rect:
-        serializedVersion: 2
-        x: 505
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e56de94cb1c86aff0800000000000000
-      internalID: -25178697013209506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_207
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 13
-        width: 502
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e2714b31ed94f030800000000000000
-      internalID: 3527617998825288422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_208
-      rect:
-        serializedVersion: 2
-        x: 528
-        y: 37
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b0ea6e4a103f7850800000000000000
-      internalID: 6376868486922821817
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_209
-      rect:
-        serializedVersion: 2
-        x: 534
-        y: 37
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7183b2afdbaf6ead0800000000000000
-      internalID: -2673173634944911337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_210
-      rect:
-        serializedVersion: 2
-        x: 540
-        y: 37
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9876e8012b3ed020800000000000000
-      internalID: 2368395467112741019
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_211
-      rect:
-        serializedVersion: 2
-        x: 546
-        y: 37
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f013c782f4472e990800000000000000
-      internalID: -7358190957839503089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_212
-      rect:
-        serializedVersion: 2
-        x: 552
-        y: 37
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55066727bd8a55520800000000000000
-      internalID: 2690242012895404117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_213
-      rect:
-        serializedVersion: 2
-        x: 562
-        y: 37
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b978e8bee772dd320800000000000000
-      internalID: 2584265187251881883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_214
-      rect:
-        serializedVersion: 2
-        x: 572
-        y: 37
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c5c50e9272ea4b0f0800000000000000
-      internalID: -1102064525569401764
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_215
-      rect:
-        serializedVersion: 2
-        x: 578
-        y: 37
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a5c623b6add0829f0800000000000000
-      internalID: -493128927444571046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_216
-      rect:
-        serializedVersion: 2
-        x: 584
-        y: 37
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 866d9dd16929219c0800000000000000
-      internalID: -3957939949061679512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_217
-      rect:
-        serializedVersion: 2
-        x: 590
-        y: 37
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c4de67bbe3e7d6bb0800000000000000
-      internalID: -4941154408257360564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cave-Obsidian_218
-      rect:
-        serializedVersion: 2
-        x: 596
-        y: 37
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b419bd022a78d3220800000000000000
-      internalID: 2467277301274612043
+      spriteID: 62622d02a56a78a43b026ca459252cd6
+      internalID: -171662914
       vertices: []
       indices: 
       edges: []
@@ -5601,7 +2939,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5bc1bfa2e8e68644b8e201c56533209b
     internalID: 0
     vertices: []
     indices: 
@@ -5609,142 +2947,25 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Cave-Obsidian_0: 8714908718420996608
       Cave-Obsidian_1: 2636348321199672311
       Cave-Obsidian_10: 6690470899243529109
-      Cave-Obsidian_100: 4940496513216816356
-      Cave-Obsidian_101: 2041999573680453261
-      Cave-Obsidian_102: -7753070070781934600
-      Cave-Obsidian_103: -5355001573737723358
-      Cave-Obsidian_104: 4529619754365090434
-      Cave-Obsidian_105: -6444732268345401244
-      Cave-Obsidian_106: -683252993692136178
-      Cave-Obsidian_107: -5470748454960195466
-      Cave-Obsidian_108: 2723289964644782758
-      Cave-Obsidian_109: 4801288672373290550
       Cave-Obsidian_11: -2442879161492535484
-      Cave-Obsidian_110: 6288713781309558158
-      Cave-Obsidian_111: 3646284414009618932
-      Cave-Obsidian_112: 8874827128828610955
-      Cave-Obsidian_113: -2332500611675868801
-      Cave-Obsidian_114: 8333989133637294414
-      Cave-Obsidian_115: -2764666366177526853
-      Cave-Obsidian_116: -9010029367373276529
-      Cave-Obsidian_117: -5070461080108915353
-      Cave-Obsidian_118: -3504218193036620935
-      Cave-Obsidian_119: -2261138159485087604
       Cave-Obsidian_12: 5736513070218438877
-      Cave-Obsidian_120: -191974657846380297
-      Cave-Obsidian_121: -7389996636838295469
-      Cave-Obsidian_122: -6207741762291678659
-      Cave-Obsidian_123: -6578390875569533360
-      Cave-Obsidian_124: -281826748770318380
-      Cave-Obsidian_125: 5414344704318927884
-      Cave-Obsidian_126: 8292143298617606247
-      Cave-Obsidian_127: -9157430534692303960
-      Cave-Obsidian_128: 6286583304326629861
-      Cave-Obsidian_129: -1821409156119692241
       Cave-Obsidian_13: 2668467040239574169
-      Cave-Obsidian_130: -6997699977318912065
-      Cave-Obsidian_131: 8373317838059581949
-      Cave-Obsidian_132: -540148747808175068
-      Cave-Obsidian_133: 6442461293933695971
-      Cave-Obsidian_134: 3909571856646988422
-      Cave-Obsidian_135: 8888881421462307134
-      Cave-Obsidian_136: 1577093323964583336
-      Cave-Obsidian_137: -3741516561890468720
-      Cave-Obsidian_138: 3254064107640072357
-      Cave-Obsidian_139: 6743362503443299684
       Cave-Obsidian_14: -2559056948651977447
-      Cave-Obsidian_140: -6732658680368966198
-      Cave-Obsidian_141: -8329193406905278734
-      Cave-Obsidian_142: -2943120257984385512
-      Cave-Obsidian_143: 734903392408391270
-      Cave-Obsidian_144: -3071090154866263629
-      Cave-Obsidian_145: -417807061500613142
-      Cave-Obsidian_146: 7274541820313168562
-      Cave-Obsidian_147: -9086570222585394220
-      Cave-Obsidian_148: -4326953752399894812
-      Cave-Obsidian_149: -5391284073923322273
       Cave-Obsidian_15: -449462951212074381
-      Cave-Obsidian_150: 6886285802478439812
-      Cave-Obsidian_151: 7464283497916648934
-      Cave-Obsidian_152: 1390473932057071354
-      Cave-Obsidian_153: 3922747940510156025
-      Cave-Obsidian_154: 7464331680910052208
-      Cave-Obsidian_155: 8738995234227995519
-      Cave-Obsidian_156: 8036282496564957300
-      Cave-Obsidian_157: 2281477512801125643
-      Cave-Obsidian_158: -368001389720531609
-      Cave-Obsidian_159: 2152054882732030662
       Cave-Obsidian_16: 2253827931381472313
-      Cave-Obsidian_160: 4134519819131482136
-      Cave-Obsidian_161: -8101715265926040488
-      Cave-Obsidian_162: 5108287669705144078
-      Cave-Obsidian_163: -8377302423442218698
-      Cave-Obsidian_164: -8244271749330621101
-      Cave-Obsidian_165: 8557076155520347630
-      Cave-Obsidian_166: 2440388420929673316
-      Cave-Obsidian_167: 155283898188941987
-      Cave-Obsidian_168: -511784802243521701
-      Cave-Obsidian_169: -4807201707585571258
       Cave-Obsidian_17: -8452134311360785120
-      Cave-Obsidian_170: -2759059913741303882
-      Cave-Obsidian_171: 3689021037665366972
-      Cave-Obsidian_172: 2888371455799830753
-      Cave-Obsidian_173: -1271587780213123782
-      Cave-Obsidian_174: 1562594423405601062
-      Cave-Obsidian_175: 5513209801636653628
-      Cave-Obsidian_176: -2064675577239567167
-      Cave-Obsidian_177: -2659632886992295002
-      Cave-Obsidian_178: 311104058032779518
-      Cave-Obsidian_179: -567625290019824226
       Cave-Obsidian_18: 8902632218116985791
-      Cave-Obsidian_180: -1940061654932734991
-      Cave-Obsidian_181: 2137537668848131028
-      Cave-Obsidian_182: -3211715615414697217
-      Cave-Obsidian_183: -6693049612580500688
-      Cave-Obsidian_184: 3803677389349424355
-      Cave-Obsidian_185: -6778993226837422768
-      Cave-Obsidian_186: 8682283604949954497
-      Cave-Obsidian_187: -5718144943526451712
-      Cave-Obsidian_188: -3244640792081067517
-      Cave-Obsidian_189: 842616724016202153
       Cave-Obsidian_19: 4366174546593601506
-      Cave-Obsidian_190: 5242660516097090981
-      Cave-Obsidian_191: -3160583391782164039
-      Cave-Obsidian_192: 1796017349088084187
-      Cave-Obsidian_193: -3501761041113020338
-      Cave-Obsidian_194: 511346753409550481
-      Cave-Obsidian_195: -720692810346572068
-      Cave-Obsidian_196: 6273133634332439414
-      Cave-Obsidian_197: 1965037282696063742
-      Cave-Obsidian_198: -487614024802755414
-      Cave-Obsidian_199: -2048155544074834679
       Cave-Obsidian_2: 6561843279828535849
       Cave-Obsidian_20: 312180457464706348
-      Cave-Obsidian_200: -7321939648055963339
-      Cave-Obsidian_201: -5056346585685067135
-      Cave-Obsidian_202: 7841129994546518079
-      Cave-Obsidian_203: -514023132041118298
-      Cave-Obsidian_204: 7785347667498184704
-      Cave-Obsidian_205: -6121009545876925492
-      Cave-Obsidian_206: -25178697013209506
-      Cave-Obsidian_207: 3527617998825288422
-      Cave-Obsidian_208: 6376868486922821817
-      Cave-Obsidian_209: -2673173634944911337
       Cave-Obsidian_21: -6822198442752451101
-      Cave-Obsidian_210: 2368395467112741019
-      Cave-Obsidian_211: -7358190957839503089
-      Cave-Obsidian_212: 2690242012895404117
-      Cave-Obsidian_213: 2584265187251881883
-      Cave-Obsidian_214: -1102064525569401764
-      Cave-Obsidian_215: -493128927444571046
-      Cave-Obsidian_216: -3957939949061679512
-      Cave-Obsidian_217: -4941154408257360564
-      Cave-Obsidian_218: 2467277301274612043
       Cave-Obsidian_22: 8191947504761185996
       Cave-Obsidian_23: -5382259464943128570
       Cave-Obsidian_24: 2090898902046930581
@@ -5817,19 +3038,17 @@ TextureImporter:
       Cave-Obsidian_85: -5612905732940092201
       Cave-Obsidian_86: -2437252929608274723
       Cave-Obsidian_87: 7666779348739913446
-      Cave-Obsidian_88: -2015507292735891176
-      Cave-Obsidian_89: 9028932205914927850
+      Cave-Obsidian_88: 1623042534
+      Cave-Obsidian_89: 1376149615
       Cave-Obsidian_9: 7040733595599441178
-      Cave-Obsidian_90: 8598312426328888275
-      Cave-Obsidian_91: -1724653545984650501
-      Cave-Obsidian_92: -5447562722281451527
-      Cave-Obsidian_93: 4568731697390910301
-      Cave-Obsidian_94: -1005774065993289850
-      Cave-Obsidian_95: 3078477248310484086
-      Cave-Obsidian_96: -3649495078363365315
-      Cave-Obsidian_97: 6590801019423397264
-      Cave-Obsidian_98: -7036868033141023640
-      Cave-Obsidian_99: 6065564235376135906
+      Cave-Obsidian_90: 2027671751
+      Cave-Obsidian_91: 1312896035
+      Cave-Obsidian_92: -984040838
+      Cave-Obsidian_93: 120710995
+      Cave-Obsidian_94: 611338413
+      Cave-Obsidian_95: -1276209514
+      Cave-Obsidian_96: 766445938
+      Cave-Obsidian_97: -171662914
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

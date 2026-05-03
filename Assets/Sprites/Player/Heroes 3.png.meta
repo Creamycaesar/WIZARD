@@ -94,7 +94,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,7 +108,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -132,7 +132,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -183,13 +183,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Heroes 3_0
+      name: RedWizardStave_01
       rect:
         serializedVersion: 2
-        x: 13
-        y: 22
-        width: 54
-        height: 77
+        x: 16
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,13 +205,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Heroes 3_1
+      name: RedWizardStave_02
       rect:
         serializedVersion: 2
-        x: 15
-        y: 16
-        width: 7
-        height: 7
+        x: 32
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,13 +227,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Heroes 3_2
+      name: RedWizardStave_03
       rect:
         serializedVersion: 2
-        x: 21
-        y: 16
-        width: 7
-        height: 7
+        x: 48
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,13 +249,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Heroes 3_3
+      name: PurpleWizardStave_01
       rect:
         serializedVersion: 2
-        x: 27
-        y: 16
-        width: 7
-        height: 7
+        x: 16
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,13 +271,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Heroes 3_4
+      name: GreenWizardStave_01
       rect:
         serializedVersion: 2
-        x: 33
-        y: 16
-        width: 7
-        height: 7
+        x: 16
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,13 +293,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Heroes 3_5
+      name: GreyWizardStave_01
       rect:
         serializedVersion: 2
-        x: 39
-        y: 16
-        width: 7
-        height: 7
+        x: 16
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,13 +315,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Heroes 3_6
+      name: PurpleWizardStave_02
       rect:
         serializedVersion: 2
-        x: 45
-        y: 16
-        width: 7
-        height: 7
+        x: 32
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -337,13 +337,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Heroes 3_7
+      name: GreenWizardStave_02
       rect:
         serializedVersion: 2
-        x: 51
-        y: 16
-        width: 7
-        height: 7
+        x: 32
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,13 +359,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Heroes 3_8
+      name: GreyWizardStave_02
       rect:
         serializedVersion: 2
-        x: 57
-        y: 16
-        width: 7
-        height: 7
+        x: 32
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -381,13 +381,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Heroes 3_9
+      name: PurpleWizardStave_03
       rect:
         serializedVersion: 2
-        x: 3
-        y: 8
-        width: 7
-        height: 7
+        x: 48
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -403,13 +403,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Heroes 3_10
+      name: GreenWizardStave_03
       rect:
         serializedVersion: 2
-        x: 9
-        y: 8
-        width: 7
-        height: 7
+        x: 48
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -425,13 +425,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Heroes 3_11
+      name: GreyWizardStave_03
       rect:
         serializedVersion: 2
-        x: 15
-        y: 8
-        width: 7
-        height: 7
+        x: 48
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,187 +446,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Heroes 3_12
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 8
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 676ba9776decfecf0800000000000000
-      internalID: -220730436192913802
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Heroes 3_13
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 8
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 14bd81f9524bf7d30800000000000000
-      internalID: 4431458632031853377
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Heroes 3_14
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 8
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 569baedbd20291450800000000000000
-      internalID: 6059910154435606885
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Heroes 3_15
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 8
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3482d159f3b19c780800000000000000
-      internalID: -8662362448371832765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Heroes 3_16
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 8
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b518460f8a0ac160800000000000000
-      internalID: 7046456176376550837
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Heroes 3_17
-      rect:
-        serializedVersion: 2
-        x: 59
-        y: 8
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 946980f1d1440b320800000000000000
-      internalID: 2571630279093950025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Heroes 3_18
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 8
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6d3db89fececcdd0800000000000000
-      internalID: -2464334382274626195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Heroes 3_19
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 8
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b48ad58a70f1f3df0800000000000000
-      internalID: -198405740831070133
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1a82cda085a83af40b6df4f92af2f100
     internalID: 0
     vertices: []
     indices: 
@@ -636,10 +460,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Heroes 3_0: 8004805353925064256
-      Heroes 3_1: -5093839977398084142
-      Heroes 3_10: 229035178798447049
-      Heroes 3_11: -2893128340824995522
+      GreenWizardStave_01: -1679343611516048542
+      GreenWizardStave_02: -3886561974949720154
+      GreenWizardStave_03: 229035178798447049
+      GreyWizardStave_01: -6820239857030397182
+      GreyWizardStave_02: -8209601173629749356
+      GreyWizardStave_03: -2893128340824995522
       Heroes 3_12: -220730436192913802
       Heroes 3_13: 4431458632031853377
       Heroes 3_14: 6059910154435606885
@@ -648,14 +474,12 @@ TextureImporter:
       Heroes 3_17: 2571630279093950025
       Heroes 3_18: -2464334382274626195
       Heroes 3_19: -198405740831070133
-      Heroes 3_2: 2076340726803773285
-      Heroes 3_3: 1636511298391915724
-      Heroes 3_4: -1679343611516048542
-      Heroes 3_5: -6820239857030397182
-      Heroes 3_6: -5001290085021344112
-      Heroes 3_7: -3886561974949720154
-      Heroes 3_8: -8209601173629749356
-      Heroes 3_9: -1388306167920176662
+      PurpleWizardStave_01: 1636511298391915724
+      PurpleWizardStave_02: -5001290085021344112
+      PurpleWizardStave_03: -1388306167920176662
+      RedWizardStave_01: 8004805353925064256
+      RedWizardStave_02: -5093839977398084142
+      RedWizardStave_03: 2076340726803773285
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
