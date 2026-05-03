@@ -793,10 +793,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54619f3234aa1d24bb406c7f1c1eb2ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TurnManager
-  playerController: {fileID: 0}
-  verboseLogging: 1
-  <CurrentState>k__BackingField: 0
-  <RoundNumber>k__BackingField: 1
 --- !u!4 &1792501583
 Transform:
   m_ObjectHideFlags: 0
@@ -887,17 +883,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d1111f86cdd2ca45ac293ad03bfccaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GridManager
-  gridWidth: 20
-  gridHeight: 20
-  grid: {fileID: 1859288677}
-  floorTilemap: {fileID: 1064213455}
-  wallTilemap: {fileID: 160647494}
-  floorTile: {fileID: 0}
-  wallTile: {fileID: 0}
-  destructibleWallTile: {fileID: 0}
-  stairsDownTile: {fileID: 0}
-  doorTile: {fileID: 0}
-  waterTile: {fileID: 0}
 --- !u!4 &1967165163
 Transform:
   m_ObjectHideFlags: 0
