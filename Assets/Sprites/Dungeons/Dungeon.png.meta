@@ -300,7 +300,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dungeon_0
+      name: Walls_Dungeon_Blue_01
       rect:
         serializedVersion: 2
         x: 16
@@ -308,7 +308,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -322,7 +322,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_1
+      name: Walls_Dungeon_Blue_02
       rect:
         serializedVersion: 2
         x: 32
@@ -330,7 +330,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -344,7 +344,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_2
+      name: Walls_Dungeon_Blue_03
       rect:
         serializedVersion: 2
         x: 48
@@ -352,7 +352,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -366,7 +366,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_3
+      name: Walls_Dungeon_Blue_04
       rect:
         serializedVersion: 2
         x: 64
@@ -374,7 +374,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -388,7 +388,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_4
+      name: Walls_Dungeon_Blue_05
       rect:
         serializedVersion: 2
         x: 80
@@ -396,7 +396,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -410,7 +410,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_5
+      name: Walls_Dungeon_Blue_06
       rect:
         serializedVersion: 2
         x: 96
@@ -418,7 +418,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -432,7 +432,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_6
+      name: Walls_Dungeon_Blue_07
       rect:
         serializedVersion: 2
         x: 16
@@ -440,7 +440,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -454,7 +454,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_7
+      name: Walls_Dungeon_Blue_08
       rect:
         serializedVersion: 2
         x: 32
@@ -462,7 +462,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -476,7 +476,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_8
+      name: Walls_Dungeon_Blue_09
       rect:
         serializedVersion: 2
         x: 48
@@ -484,7 +484,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -498,7 +498,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_9
+      name: Walls_Dungeon_Blue_10
       rect:
         serializedVersion: 2
         x: 64
@@ -506,7 +506,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -520,7 +520,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_10
+      name: Walls_Dungeon_Blue_11
       rect:
         serializedVersion: 2
         x: 80
@@ -528,7 +528,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -542,7 +542,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_11
+      name: Walls_Dungeon_Blue_12
       rect:
         serializedVersion: 2
         x: 16
@@ -550,7 +550,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -564,7 +564,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_12
+      name: Walls_Dungeon_Blue_13
       rect:
         serializedVersion: 2
         x: 32
@@ -572,7 +572,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -586,7 +586,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_13
+      name: Walls_Dungeon_Blue_14
       rect:
         serializedVersion: 2
         x: 48
@@ -594,7 +594,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -608,7 +608,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_14
+      name: Walls_Dungeon_Blue_15
       rect:
         serializedVersion: 2
         x: 64
@@ -616,7 +616,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -630,7 +630,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_15
+      name: Walls_Dungeon_Blue_16
       rect:
         serializedVersion: 2
         x: 80
@@ -638,7 +638,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -652,7 +652,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_16
+      name: Walls_Dungeon_Blue_Doorway_01
       rect:
         serializedVersion: 2
         x: 96
@@ -660,7 +660,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -674,7 +674,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_17
+      name: Walls_Dungeon_Blue_ClosedDoorway_01
       rect:
         serializedVersion: 2
         x: 112
@@ -682,7 +682,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -696,7 +696,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_18
+      name: Walls_Dungeon_Blue_ClosedDoorway_02
       rect:
         serializedVersion: 2
         x: 128
@@ -704,7 +704,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -718,7 +718,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_19
+      name: Walls_Dungeon_Red_01
       rect:
         serializedVersion: 2
         x: 16
@@ -726,7 +726,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -740,7 +740,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_20
+      name: Walls_Dungeon_Red_02
       rect:
         serializedVersion: 2
         x: 32
@@ -748,7 +748,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -762,7 +762,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_21
+      name: Walls_Dungeon_Red_03
       rect:
         serializedVersion: 2
         x: 48
@@ -770,7 +770,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -784,7 +784,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_22
+      name: Walls_Dungeon_Red_04
       rect:
         serializedVersion: 2
         x: 64
@@ -792,7 +792,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -806,7 +806,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_23
+      name: Walls_Dungeon_Red_05
       rect:
         serializedVersion: 2
         x: 80
@@ -814,7 +814,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -828,7 +828,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_24
+      name: Walls_Dungeon_Red_06
       rect:
         serializedVersion: 2
         x: 96
@@ -836,7 +836,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -850,7 +850,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_25
+      name: Walls_Dungeon_Red_07
       rect:
         serializedVersion: 2
         x: 16
@@ -858,7 +858,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -872,7 +872,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_26
+      name: Walls_Dungeon_Red_12
       rect:
         serializedVersion: 2
         x: 16
@@ -880,7 +880,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -894,7 +894,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_27
+      name: Walls_Dungeon_Red_08
       rect:
         serializedVersion: 2
         x: 32
@@ -902,7 +902,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -916,7 +916,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_28
+      name: Walls_Dungeon_Red_13
       rect:
         serializedVersion: 2
         x: 32
@@ -924,7 +924,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -938,7 +938,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_29
+      name: Walls_Dungeon_Red_09
       rect:
         serializedVersion: 2
         x: 48
@@ -946,7 +946,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -960,7 +960,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_30
+      name: Walls_Dungeon_Red_10
       rect:
         serializedVersion: 2
         x: 64
@@ -968,7 +968,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -982,7 +982,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_31
+      name: Walls_Dungeon_Red_11
       rect:
         serializedVersion: 2
         x: 80
@@ -990,7 +990,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1004,7 +1004,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_32
+      name: Walls_Dungeon_Red_14
       rect:
         serializedVersion: 2
         x: 48
@@ -1012,7 +1012,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1026,7 +1026,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_33
+      name: Walls_Dungeon_Red_15
       rect:
         serializedVersion: 2
         x: 64
@@ -1034,7 +1034,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1048,7 +1048,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_34
+      name: Walls_Dungeon_Red_16
       rect:
         serializedVersion: 2
         x: 80
@@ -1056,7 +1056,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1070,7 +1070,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_35
+      name: Walls_Dungeon_Red_Doorway_01
       rect:
         serializedVersion: 2
         x: 96
@@ -1078,7 +1078,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1092,7 +1092,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_36
+      name: Walls_Dungeon_Red_ClosedDoorway_01
       rect:
         serializedVersion: 2
         x: 112
@@ -1100,7 +1100,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1114,7 +1114,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_37
+      name: Walls_Dungeon_Red_ClosedDoorway_02
       rect:
         serializedVersion: 2
         x: 128
@@ -1122,7 +1122,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1136,7 +1136,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_38
+      name: Floor_Dungeon_01
       rect:
         serializedVersion: 2
         x: 160
@@ -1144,7 +1144,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1158,7 +1158,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_39
+      name: Floor_Dungeon_02
       rect:
         serializedVersion: 2
         x: 176
@@ -1166,7 +1166,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1180,7 +1180,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_40
+      name: Floor_Dungeon_03
       rect:
         serializedVersion: 2
         x: 192
@@ -1188,7 +1188,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1202,7 +1202,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_41
+      name: Floor_Dungeon_04
       rect:
         serializedVersion: 2
         x: 160
@@ -1210,7 +1210,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1224,7 +1224,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_42
+      name: Floor_Dungeon_05
       rect:
         serializedVersion: 2
         x: 176
@@ -1232,7 +1232,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1246,7 +1246,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_43
+      name: Floor_Dungeon_06
       rect:
         serializedVersion: 2
         x: 192
@@ -1254,7 +1254,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1268,7 +1268,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_44
+      name: Floor_Dungeon_07
       rect:
         serializedVersion: 2
         x: 160
@@ -1276,7 +1276,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1290,7 +1290,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_45
+      name: Floor_Dungeon_08
       rect:
         serializedVersion: 2
         x: 176
@@ -1298,7 +1298,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1312,7 +1312,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_46
+      name: Floor_Dungeon_09
       rect:
         serializedVersion: 2
         x: 192
@@ -1320,7 +1320,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1334,7 +1334,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_47
+      name: Floor_Dungeon_10
       rect:
         serializedVersion: 2
         x: 160
@@ -1342,7 +1342,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1356,7 +1356,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_48
+      name: Floor_Dungeon_11
       rect:
         serializedVersion: 2
         x: 176
@@ -1364,7 +1364,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1378,7 +1378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_49
+      name: Floor_Dungeon_12
       rect:
         serializedVersion: 2
         x: 192
@@ -1386,7 +1386,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1400,7 +1400,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_50
+      name: Floor_Dungeon_13
       rect:
         serializedVersion: 2
         x: 160
@@ -1408,7 +1408,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1422,7 +1422,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_51
+      name: Floor_Dungeon_14
       rect:
         serializedVersion: 2
         x: 176
@@ -1430,7 +1430,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1444,7 +1444,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_52
+      name: Floor_Dungeon_15
       rect:
         serializedVersion: 2
         x: 192
@@ -1452,7 +1452,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1466,7 +1466,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_53
+      name: Floor_Dungeon_16
       rect:
         serializedVersion: 2
         x: 160
@@ -1474,7 +1474,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1488,7 +1488,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_54
+      name: Floor_Dungeon_17
       rect:
         serializedVersion: 2
         x: 176
@@ -1496,7 +1496,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1510,7 +1510,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_55
+      name: Floor_Dungeon_18
       rect:
         serializedVersion: 2
         x: 192
@@ -1518,7 +1518,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1532,7 +1532,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_56
+      name: Floor_Dungeon_19
       rect:
         serializedVersion: 2
         x: 160
@@ -1540,7 +1540,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1554,7 +1554,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_57
+      name: Floor_Dungeon_20
       rect:
         serializedVersion: 2
         x: 176
@@ -1562,7 +1562,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1576,7 +1576,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_58
+      name: Floor_Dungeon_21
       rect:
         serializedVersion: 2
         x: 192
@@ -1584,7 +1584,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1598,7 +1598,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_59
+      name: Floor_Dungeon_22
       rect:
         serializedVersion: 2
         x: 160
@@ -1606,7 +1606,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1620,7 +1620,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_60
+      name: Floor_Dungeon_23
       rect:
         serializedVersion: 2
         x: 176
@@ -1628,7 +1628,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1642,7 +1642,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_61
+      name: Floor_Dungeon_24
       rect:
         serializedVersion: 2
         x: 192
@@ -1650,7 +1650,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1664,7 +1664,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_62
+      name: Floor_Dungeon_25
       rect:
         serializedVersion: 2
         x: 160
@@ -1672,7 +1672,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1686,7 +1686,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_63
+      name: Floor_Dungeon_26
       rect:
         serializedVersion: 2
         x: 176
@@ -1694,7 +1694,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1708,7 +1708,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_64
+      name: Floor_Dungeon_27
       rect:
         serializedVersion: 2
         x: 192
@@ -1716,7 +1716,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1730,7 +1730,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_65
+      name: Floor_Dungeon_28
       rect:
         serializedVersion: 2
         x: 160
@@ -1738,7 +1738,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1752,7 +1752,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_66
+      name: Floor_Dungeon_29
       rect:
         serializedVersion: 2
         x: 176
@@ -1760,7 +1760,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1774,7 +1774,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_67
+      name: Floor_Dungeon_30
       rect:
         serializedVersion: 2
         x: 192
@@ -1782,7 +1782,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1796,7 +1796,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_68
+      name: Trap_Spikes_Dungeon_01
       rect:
         serializedVersion: 2
         x: 16
@@ -1804,7 +1804,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1818,7 +1818,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_69
+      name: Trap_Spikes_Dungeon_02
       rect:
         serializedVersion: 2
         x: 32
@@ -1826,7 +1826,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1840,7 +1840,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_70
+      name: Trap_Spikes_Dungeon_03
       rect:
         serializedVersion: 2
         x: 48
@@ -1848,7 +1848,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1862,7 +1862,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_71
+      name: Trap_Spikes_Dungeon_04
       rect:
         serializedVersion: 2
         x: 64
@@ -1870,7 +1870,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1884,7 +1884,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_72
+      name: Trap_Spikes_Dungeon_05
       rect:
         serializedVersion: 2
         x: 80
@@ -1892,7 +1892,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1906,7 +1906,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_73
+      name: Trap_Spikes_Dungeon_06
       rect:
         serializedVersion: 2
         x: 96
@@ -1914,7 +1914,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1928,7 +1928,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_74
+      name: Obj_StairsDown_Dungeon_01
       rect:
         serializedVersion: 2
         x: 16
@@ -1936,7 +1936,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1950,7 +1950,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_75
+      name: Obj_StairsUp_Dungeon_01
       rect:
         serializedVersion: 2
         x: 32
@@ -1958,7 +1958,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1972,7 +1972,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_76
+      name: Obj_StairsDown_Dungeon_02
       rect:
         serializedVersion: 2
         x: 48
@@ -1980,7 +1980,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1994,7 +1994,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_77
+      name: Obj_StairsUp_Dungeon_02
       rect:
         serializedVersion: 2
         x: 64
@@ -2002,7 +2002,7 @@ TextureImporter:
         width: 15
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2016,7 +2016,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_78
+      name: Obj_Dresser_Dungeon_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2024,7 +2024,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2038,7 +2038,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_79
+      name: Obj_Bookcase_Dungeon_01
       rect:
         serializedVersion: 2
         x: 32
@@ -2046,7 +2046,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2060,7 +2060,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_80
+      name: Obj_Bookcase_Dungeon_02
       rect:
         serializedVersion: 2
         x: 48
@@ -2068,7 +2068,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2082,7 +2082,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_81
+      name: Obj_Bookcase_Dungeon_03
       rect:
         serializedVersion: 2
         x: 64
@@ -2090,7 +2090,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2104,7 +2104,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_82
+      name: Obj_Bookcase_Dungeon_04
       rect:
         serializedVersion: 2
         x: 80
@@ -2112,7 +2112,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2126,7 +2126,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_83
+      name: Obj_Bookcase_Dungeon_05
       rect:
         serializedVersion: 2
         x: 96
@@ -2134,7 +2134,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2148,7 +2148,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_84
+      name: Obj_Bookcase_Dungeon_06
       rect:
         serializedVersion: 2
         x: 112
@@ -2156,7 +2156,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2170,7 +2170,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_85
+      name: Obj_Chest_Dungeon_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2178,7 +2178,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2192,7 +2192,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_86
+      name: Obj_HorizTable_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2200,7 +2200,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2214,73 +2214,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_87
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 272
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e9ea6be22fd2c84b8e3d6c7407f902d
-      internalID: -674016559
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_88
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 272
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e04383d110ac2e945a6c331366b69064
-      internalID: 1898751472
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_89
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 272
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5928a2a05bb0ff4408141d1a92034278
-      internalID: 1776100845
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon_90
+      name: Obj_HorizTable_02
       rect:
         serializedVersion: 2
         x: 32
@@ -2288,7 +2222,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2302,7 +2236,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_91
+      name: Obj_HorizTable_03
       rect:
         serializedVersion: 2
         x: 48
@@ -2310,7 +2244,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2324,7 +2258,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_92
+      name: Obj_BigTable_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2332,7 +2266,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2346,7 +2280,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_93
+      name: Obj_BigTable_04
       rect:
         serializedVersion: 2
         x: 16
@@ -2354,7 +2288,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2368,7 +2302,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_94
+      name: Obj_BigTable_07
       rect:
         serializedVersion: 2
         x: 16
@@ -2376,7 +2310,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2390,7 +2324,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_95
+      name: Obj_Chair_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2398,7 +2332,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2412,7 +2346,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_96
+      name: Obj_BigTable_02
       rect:
         serializedVersion: 2
         x: 32
@@ -2420,7 +2354,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2434,7 +2368,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_97
+      name: Obj_BigTable_03
       rect:
         serializedVersion: 2
         x: 48
@@ -2442,7 +2376,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2456,7 +2390,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_98
+      name: Obj_VertTable_01
       rect:
         serializedVersion: 2
         x: 64
@@ -2464,7 +2398,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2478,7 +2412,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_99
+      name: Obj_BigTable_05
       rect:
         serializedVersion: 2
         x: 32
@@ -2486,7 +2420,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2500,7 +2434,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_100
+      name: Obj_BigTable_08
       rect:
         serializedVersion: 2
         x: 32
@@ -2508,7 +2442,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2522,7 +2456,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_101
+      name: Obj_BigTable_06
       rect:
         serializedVersion: 2
         x: 48
@@ -2530,7 +2464,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2544,7 +2478,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_102
+      name: Obj_BigTable_09
       rect:
         serializedVersion: 2
         x: 48
@@ -2552,7 +2486,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2566,7 +2500,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_103
+      name: Obj_VertTable_02
       rect:
         serializedVersion: 2
         x: 64
@@ -2574,7 +2508,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2588,7 +2522,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_104
+      name: Obj_VertTable_03
       rect:
         serializedVersion: 2
         x: 64
@@ -2596,7 +2530,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2610,7 +2544,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_105
+      name: Obj_Chair_02
       rect:
         serializedVersion: 2
         x: 32
@@ -2618,7 +2552,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2632,7 +2566,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_106
+      name: Obj_Chair_03
       rect:
         serializedVersion: 2
         x: 48
@@ -2640,7 +2574,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2654,7 +2588,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_107
+      name: Obj_Chair_04
       rect:
         serializedVersion: 2
         x: 64
@@ -2662,7 +2596,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2676,7 +2610,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_110
+      name: Obj_Candle_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2684,7 +2618,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2698,7 +2632,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_108
+      name: Obj_LitCandle_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2706,7 +2640,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2720,7 +2654,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_109
+      name: Obj_BlueBook_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2728,7 +2662,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2742,7 +2676,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_111
+      name: Obj_BlueBook_07
       rect:
         serializedVersion: 2
         x: 16
@@ -2750,7 +2684,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2764,7 +2698,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_112
+      name: Obj_RedBook_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2772,7 +2706,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2786,7 +2720,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_113
+      name: Obj_RedBook_07
       rect:
         serializedVersion: 2
         x: 16
@@ -2794,7 +2728,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2808,7 +2742,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_114
+      name: Obj_GreenBook_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2816,7 +2750,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2830,7 +2764,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_115
+      name: Obj_GreenBook_07
       rect:
         serializedVersion: 2
         x: 16
@@ -2838,7 +2772,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2852,7 +2786,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_116
+      name: Obj_LitCandle_02
       rect:
         serializedVersion: 2
         x: 32
@@ -2860,7 +2794,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2874,7 +2808,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_117
+      name: Obj_LitCandle_03
       rect:
         serializedVersion: 2
         x: 48
@@ -2882,7 +2816,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2896,7 +2830,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_118
+      name: Obj_LitCandle_04
       rect:
         serializedVersion: 2
         x: 64
@@ -2904,7 +2838,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2918,7 +2852,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_119
+      name: Obj_BlueBook_02
       rect:
         serializedVersion: 2
         x: 32
@@ -2926,7 +2860,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2940,7 +2874,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_120
+      name: Obj_BlueBook_03
       rect:
         serializedVersion: 2
         x: 48
@@ -2948,7 +2882,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2962,7 +2896,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_121
+      name: Obj_BlueBook_04
       rect:
         serializedVersion: 2
         x: 64
@@ -2970,7 +2904,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2984,7 +2918,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_122
+      name: Obj_BlueBook_05
       rect:
         serializedVersion: 2
         x: 80
@@ -2992,7 +2926,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3006,7 +2940,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_123
+      name: Obj_BlueBook_06
       rect:
         serializedVersion: 2
         x: 96
@@ -3014,7 +2948,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3028,7 +2962,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_124
+      name: Obj_BlueBook_08
       rect:
         serializedVersion: 2
         x: 32
@@ -3036,7 +2970,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3050,7 +2984,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_125
+      name: Obj_BlueBook_09
       rect:
         serializedVersion: 2
         x: 48
@@ -3058,7 +2992,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3072,7 +3006,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_126
+      name: Obj_BlueBook_10
       rect:
         serializedVersion: 2
         x: 64
@@ -3080,7 +3014,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3094,7 +3028,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_127
+      name: Obj_BlueBook_11
       rect:
         serializedVersion: 2
         x: 80
@@ -3102,7 +3036,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3116,7 +3050,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_128
+      name: Obj_BlueBook_12
       rect:
         serializedVersion: 2
         x: 96
@@ -3124,7 +3058,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3138,7 +3072,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_129
+      name: Obj_RedBook_02
       rect:
         serializedVersion: 2
         x: 32
@@ -3146,7 +3080,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3160,7 +3094,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_130
+      name: Obj_RedBook_03
       rect:
         serializedVersion: 2
         x: 48
@@ -3168,7 +3102,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3182,7 +3116,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_131
+      name: Obj_RedBook_04
       rect:
         serializedVersion: 2
         x: 64
@@ -3190,7 +3124,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3204,7 +3138,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_132
+      name: Obj_RedBook_05
       rect:
         serializedVersion: 2
         x: 80
@@ -3212,7 +3146,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3226,7 +3160,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_133
+      name: Obj_RedBook_06
       rect:
         serializedVersion: 2
         x: 96
@@ -3234,7 +3168,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3248,7 +3182,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_134
+      name: Obj_RedBook_08
       rect:
         serializedVersion: 2
         x: 32
@@ -3256,7 +3190,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3270,7 +3204,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_135
+      name: Obj_RedBook_09
       rect:
         serializedVersion: 2
         x: 48
@@ -3278,7 +3212,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3292,7 +3226,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_136
+      name: Obj_RedBook_10
       rect:
         serializedVersion: 2
         x: 64
@@ -3300,7 +3234,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3314,7 +3248,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_137
+      name: Obj_RedBook_11
       rect:
         serializedVersion: 2
         x: 80
@@ -3322,7 +3256,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3336,7 +3270,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_138
+      name: Obj_RedBook_12
       rect:
         serializedVersion: 2
         x: 96
@@ -3344,7 +3278,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3358,7 +3292,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_139
+      name: Obj_GreenBook_02
       rect:
         serializedVersion: 2
         x: 32
@@ -3366,7 +3300,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3380,7 +3314,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_140
+      name: Obj_GreenBook_08
       rect:
         serializedVersion: 2
         x: 32
@@ -3388,7 +3322,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3402,7 +3336,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_141
+      name: Obj_GreenBook_03
       rect:
         serializedVersion: 2
         x: 48
@@ -3410,7 +3344,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3424,7 +3358,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_142
+      name: Obj_GreenBook_09
       rect:
         serializedVersion: 2
         x: 48
@@ -3432,7 +3366,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3446,7 +3380,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_143
+      name: Obj_GreenBook_04
       rect:
         serializedVersion: 2
         x: 64
@@ -3454,7 +3388,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3468,7 +3402,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_144
+      name: Obj_GreenBook_10
       rect:
         serializedVersion: 2
         x: 64
@@ -3476,7 +3410,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3490,7 +3424,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_145
+      name: Obj_GreenBook_05
       rect:
         serializedVersion: 2
         x: 80
@@ -3498,7 +3432,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3512,7 +3446,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_146
+      name: Obj_GreenBook_06
       rect:
         serializedVersion: 2
         x: 96
@@ -3520,7 +3454,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3534,7 +3468,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_147
+      name: Obj_GreenBook_11
       rect:
         serializedVersion: 2
         x: 80
@@ -3542,7 +3476,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3556,7 +3490,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon_148
+      name: Obj_GreenBook_12
       rect:
         serializedVersion: 2
         x: 96
@@ -3564,7 +3498,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3593,155 +3527,155 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Dungeon_0: 5718469909854450143
-      Dungeon_1: -7048581465117660784
-      Dungeon_10: 8241026149576720579
-      Dungeon_100: 585460775
-      Dungeon_101: 1424295223
-      Dungeon_102: -1761426719
-      Dungeon_103: -1827044690
-      Dungeon_104: -136557418
-      Dungeon_105: -1918417330
-      Dungeon_106: 437189448
-      Dungeon_107: -1741477086
-      Dungeon_108: 1827355655
-      Dungeon_109: -2124299919
-      Dungeon_11: -7107195022900573981
-      Dungeon_110: -407024896
-      Dungeon_111: -1581227739
-      Dungeon_112: 2111976947
-      Dungeon_113: -677327781
-      Dungeon_114: -1761524830
-      Dungeon_115: 298165420
-      Dungeon_116: 989067651
-      Dungeon_117: -1962738996
-      Dungeon_118: -2127450028
-      Dungeon_119: -1195342085
-      Dungeon_12: 8237061683751424216
-      Dungeon_120: -1752337272
-      Dungeon_121: 1857420906
-      Dungeon_122: 898279550
-      Dungeon_123: -70101420
-      Dungeon_124: -2136753302
-      Dungeon_125: -340645789
-      Dungeon_126: 1284989803
-      Dungeon_127: -410472824
-      Dungeon_128: 582638305
-      Dungeon_129: 1765521819
-      Dungeon_13: -4233890063712905844
-      Dungeon_130: -617807045
-      Dungeon_131: 2128316951
-      Dungeon_132: -799507839
-      Dungeon_133: -422563255
-      Dungeon_134: 1973207227
-      Dungeon_135: 626263105
-      Dungeon_136: 936804189
-      Dungeon_137: -1066546455
-      Dungeon_138: -970616854
-      Dungeon_139: -309146767
-      Dungeon_14: 8960765015654168026
-      Dungeon_140: 1690330924
-      Dungeon_141: -636144186
-      Dungeon_142: 275299921
-      Dungeon_143: 2100590163
-      Dungeon_144: -1382460542
-      Dungeon_145: -253975195
-      Dungeon_146: 1525133963
-      Dungeon_147: 1405289259
-      Dungeon_148: -477337727
-      Dungeon_15: -2049639243831268160
-      Dungeon_16: -2456403029347504819
-      Dungeon_17: 1032927243894644294
-      Dungeon_18: 8814648156130059003
-      Dungeon_19: 6770974209378706146
-      Dungeon_2: 2741894310953368383
-      Dungeon_20: 6088269635357880315
-      Dungeon_21: -5692618148363123961
-      Dungeon_22: -6975476911924486349
-      Dungeon_23: 1373970748780253702
-      Dungeon_24: -921874206113959638
-      Dungeon_25: 2711691180648414528
-      Dungeon_26: -1270674123078836628
-      Dungeon_27: 7419011909564878716
-      Dungeon_28: 6119508627223213796
-      Dungeon_29: -3411548807712558045
-      Dungeon_3: 6984513114953419391
-      Dungeon_30: 2328961427196231413
-      Dungeon_31: -38836230159333514
-      Dungeon_32: 1189804643199775622
-      Dungeon_33: 7752677908800734808
-      Dungeon_34: 7600306571821145345
-      Dungeon_35: -3469498660860347695
-      Dungeon_36: -3335613823627329918
-      Dungeon_37: 2716853023472055476
-      Dungeon_38: -9078247778258130857
-      Dungeon_39: 7902581591051518725
-      Dungeon_4: -7385175419658825098
-      Dungeon_40: -2027180980304279994
-      Dungeon_41: 7920404743664205531
-      Dungeon_42: -8753320101615389148
-      Dungeon_43: 3084604627931351016
-      Dungeon_44: -2164789337223182612
-      Dungeon_45: 2491934583593399942
-      Dungeon_46: -1747544985102681446
-      Dungeon_47: 7586468571552972138
-      Dungeon_48: 2654041437171306703
-      Dungeon_49: -7514007152789262621
-      Dungeon_5: 9119227501592392301
-      Dungeon_50: -9136049625318058205
-      Dungeon_51: 2495816777284716111
-      Dungeon_52: 3975987996803956281
-      Dungeon_53: -4110059370805265076
-      Dungeon_54: -7511716096936156644
-      Dungeon_55: 4722596036596710324
-      Dungeon_56: -8344350563383619666
-      Dungeon_57: -400320634049755324
-      Dungeon_58: 1207457643159502628
-      Dungeon_59: 1178183817
-      Dungeon_6: 6104463937874508726
-      Dungeon_60: -981250662
-      Dungeon_61: 362388914
-      Dungeon_62: -909749641
-      Dungeon_63: 1809491900
-      Dungeon_64: 314164153
-      Dungeon_65: 216769931
-      Dungeon_66: -16496181
-      Dungeon_67: 1204208695
-      Dungeon_68: -113243395
-      Dungeon_69: 1288581409
-      Dungeon_7: 6098089514873771090
-      Dungeon_70: -720319466
-      Dungeon_71: 568741399
-      Dungeon_72: -1092160881
-      Dungeon_73: 329368375
-      Dungeon_74: 219805568
-      Dungeon_75: -350156361
-      Dungeon_76: 1242842955
-      Dungeon_77: 222547089
-      Dungeon_78: -666705154
-      Dungeon_79: 792248490
-      Dungeon_8: 6643711269398968355
-      Dungeon_80: 1058479101
-      Dungeon_81: -1769036015
-      Dungeon_82: -68969337
-      Dungeon_83: 1857338141
-      Dungeon_84: -801306459
-      Dungeon_85: -120272821
-      Dungeon_86: 1798964128
       Dungeon_87: -674016559
       Dungeon_88: 1898751472
       Dungeon_89: 1776100845
-      Dungeon_9: 4654243933662768636
-      Dungeon_90: -942512340
-      Dungeon_91: 1443792001
-      Dungeon_92: 584802328
-      Dungeon_93: 457761556
-      Dungeon_94: -116553670
-      Dungeon_95: -1345501213
-      Dungeon_96: 1265896984
-      Dungeon_97: -994552872
-      Dungeon_98: 158413776
-      Dungeon_99: -849791977
+      Floor_Dungeon_01: -9078247778258130857
+      Floor_Dungeon_02: 7902581591051518725
+      Floor_Dungeon_03: -2027180980304279994
+      Floor_Dungeon_04: 7920404743664205531
+      Floor_Dungeon_05: -8753320101615389148
+      Floor_Dungeon_06: 3084604627931351016
+      Floor_Dungeon_07: -2164789337223182612
+      Floor_Dungeon_08: 2491934583593399942
+      Floor_Dungeon_09: -1747544985102681446
+      Floor_Dungeon_10: 7586468571552972138
+      Floor_Dungeon_11: 2654041437171306703
+      Floor_Dungeon_12: -7514007152789262621
+      Floor_Dungeon_13: -9136049625318058205
+      Floor_Dungeon_14: 2495816777284716111
+      Floor_Dungeon_15: 3975987996803956281
+      Floor_Dungeon_16: -4110059370805265076
+      Floor_Dungeon_17: -7511716096936156644
+      Floor_Dungeon_18: 4722596036596710324
+      Floor_Dungeon_19: -8344350563383619666
+      Floor_Dungeon_20: -400320634049755324
+      Floor_Dungeon_21: 1207457643159502628
+      Floor_Dungeon_22: 1178183817
+      Floor_Dungeon_23: -981250662
+      Floor_Dungeon_24: 362388914
+      Floor_Dungeon_25: -909749641
+      Floor_Dungeon_26: 1809491900
+      Floor_Dungeon_27: 314164153
+      Floor_Dungeon_28: 216769931
+      Floor_Dungeon_29: -16496181
+      Floor_Dungeon_30: 1204208695
+      Obj_BigTable_01: 584802328
+      Obj_BigTable_02: 1265896984
+      Obj_BigTable_03: -994552872
+      Obj_BigTable_04: 457761556
+      Obj_BigTable_05: -849791977
+      Obj_BigTable_06: 1424295223
+      Obj_BigTable_07: -116553670
+      Obj_BigTable_08: 585460775
+      Obj_BigTable_09: -1761426719
+      Obj_BlueBook_01: -2124299919
+      Obj_BlueBook_02: -1195342085
+      Obj_BlueBook_03: -1752337272
+      Obj_BlueBook_04: 1857420906
+      Obj_BlueBook_05: 898279550
+      Obj_BlueBook_06: -70101420
+      Obj_BlueBook_07: -1581227739
+      Obj_BlueBook_08: -2136753302
+      Obj_BlueBook_09: -340645789
+      Obj_BlueBook_10: 1284989803
+      Obj_BlueBook_11: -410472824
+      Obj_BlueBook_12: 582638305
+      Obj_Bookcase_Dungeon_01: 792248490
+      Obj_Bookcase_Dungeon_02: 1058479101
+      Obj_Bookcase_Dungeon_03: -1769036015
+      Obj_Bookcase_Dungeon_04: -68969337
+      Obj_Bookcase_Dungeon_05: 1857338141
+      Obj_Bookcase_Dungeon_06: -801306459
+      Obj_Candle_01: -407024896
+      Obj_Chair_01: -1345501213
+      Obj_Chair_02: -1918417330
+      Obj_Chair_03: 437189448
+      Obj_Chair_04: -1741477086
+      Obj_Chest_Dungeon_01: -120272821
+      Obj_Dresser_Dungeon_01: -666705154
+      Obj_GreenBook_01: -1761524830
+      Obj_GreenBook_02: -309146767
+      Obj_GreenBook_03: -636144186
+      Obj_GreenBook_04: 2100590163
+      Obj_GreenBook_05: -253975195
+      Obj_GreenBook_06: 1525133963
+      Obj_GreenBook_07: 298165420
+      Obj_GreenBook_08: 1690330924
+      Obj_GreenBook_09: 275299921
+      Obj_GreenBook_10: -1382460542
+      Obj_GreenBook_11: 1405289259
+      Obj_GreenBook_12: -477337727
+      Obj_HorizTable_01: 1798964128
+      Obj_HorizTable_02: -942512340
+      Obj_HorizTable_03: 1443792001
+      Obj_LitCandle_01: 1827355655
+      Obj_LitCandle_02: 989067651
+      Obj_LitCandle_03: -1962738996
+      Obj_LitCandle_04: -2127450028
+      Obj_RedBook_01: 2111976947
+      Obj_RedBook_02: 1765521819
+      Obj_RedBook_03: -617807045
+      Obj_RedBook_04: 2128316951
+      Obj_RedBook_05: -799507839
+      Obj_RedBook_06: -422563255
+      Obj_RedBook_07: -677327781
+      Obj_RedBook_08: 1973207227
+      Obj_RedBook_09: 626263105
+      Obj_RedBook_10: 936804189
+      Obj_RedBook_11: -1066546455
+      Obj_RedBook_12: -970616854
+      Obj_StairsDown_Dungeon_01: 219805568
+      Obj_StairsDown_Dungeon_02: 1242842955
+      Obj_StairsUp_Dungeon_01: -350156361
+      Obj_StairsUp_Dungeon_02: 222547089
+      Obj_VertTable_01: 158413776
+      Obj_VertTable_02: -1827044690
+      Obj_VertTable_03: -136557418
+      Trap_Spikes_Dungeon_01: -113243395
+      Trap_Spikes_Dungeon_02: 1288581409
+      Trap_Spikes_Dungeon_03: -720319466
+      Trap_Spikes_Dungeon_04: 568741399
+      Trap_Spikes_Dungeon_05: -1092160881
+      Trap_Spikes_Dungeon_06: 329368375
+      Walls_Dungeon_Blue_01: 5718469909854450143
+      Walls_Dungeon_Blue_02: -7048581465117660784
+      Walls_Dungeon_Blue_03: 2741894310953368383
+      Walls_Dungeon_Blue_04: 6984513114953419391
+      Walls_Dungeon_Blue_05: -7385175419658825098
+      Walls_Dungeon_Blue_06: 9119227501592392301
+      Walls_Dungeon_Blue_07: 6104463937874508726
+      Walls_Dungeon_Blue_08: 6098089514873771090
+      Walls_Dungeon_Blue_09: 6643711269398968355
+      Walls_Dungeon_Blue_10: 4654243933662768636
+      Walls_Dungeon_Blue_11: 8241026149576720579
+      Walls_Dungeon_Blue_12: -7107195022900573981
+      Walls_Dungeon_Blue_13: 8237061683751424216
+      Walls_Dungeon_Blue_14: -4233890063712905844
+      Walls_Dungeon_Blue_15: 8960765015654168026
+      Walls_Dungeon_Blue_16: -2049639243831268160
+      Walls_Dungeon_Blue_ClosedDoorway_01: 1032927243894644294
+      Walls_Dungeon_Blue_ClosedDoorway_02: 8814648156130059003
+      Walls_Dungeon_Blue_Doorway_01: -2456403029347504819
+      Walls_Dungeon_Red_01: 6770974209378706146
+      Walls_Dungeon_Red_02: 6088269635357880315
+      Walls_Dungeon_Red_03: -5692618148363123961
+      Walls_Dungeon_Red_04: -6975476911924486349
+      Walls_Dungeon_Red_05: 1373970748780253702
+      Walls_Dungeon_Red_06: -921874206113959638
+      Walls_Dungeon_Red_07: 2711691180648414528
+      Walls_Dungeon_Red_08: 7419011909564878716
+      Walls_Dungeon_Red_09: -3411548807712558045
+      Walls_Dungeon_Red_10: 2328961427196231413
+      Walls_Dungeon_Red_11: -38836230159333514
+      Walls_Dungeon_Red_12: -1270674123078836628
+      Walls_Dungeon_Red_13: 6119508627223213796
+      Walls_Dungeon_Red_14: 1189804643199775622
+      Walls_Dungeon_Red_15: 7752677908800734808
+      Walls_Dungeon_Red_16: 7600306571821145345
+      Walls_Dungeon_Red_ClosedDoorway_01: -3335613823627329918
+      Walls_Dungeon_Red_ClosedDoorway_02: 2716853023472055476
+      Walls_Dungeon_Red_Doorway_01: -3469498660860347695
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1320,7 +1320,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cave-Magma_0
+      name: Wall_Magma_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -1328,7 +1328,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1342,7 +1342,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_1
+      name: Wall_Magma_Dark_02
       rect:
         serializedVersion: 2
         x: 32
@@ -1350,7 +1350,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1364,7 +1364,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_2
+      name: Wall_Magma_Dark_03
       rect:
         serializedVersion: 2
         x: 48
@@ -1372,7 +1372,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1386,7 +1386,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_3
+      name: Wall_Magma_Dark_04
       rect:
         serializedVersion: 2
         x: 64
@@ -1394,7 +1394,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1408,7 +1408,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_4
+      name: Wall_Magma_Dark_05
       rect:
         serializedVersion: 2
         x: 80
@@ -1416,7 +1416,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1430,7 +1430,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_5
+      name: Wall_Magma_Dark_06
       rect:
         serializedVersion: 2
         x: 96
@@ -1438,7 +1438,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1452,7 +1452,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_6
+      name: Wall_Magma_Dark_07
       rect:
         serializedVersion: 2
         x: 16
@@ -1460,7 +1460,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1474,7 +1474,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_7
+      name: Wall_Magma_Dark_12
       rect:
         serializedVersion: 2
         x: 16
@@ -1482,7 +1482,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1496,7 +1496,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_8
+      name: Wall_Magma_Dark_08
       rect:
         serializedVersion: 2
         x: 32
@@ -1504,7 +1504,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1518,7 +1518,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_9
+      name: Wall_Magma_Dark_13
       rect:
         serializedVersion: 2
         x: 32
@@ -1526,7 +1526,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1540,7 +1540,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_10
+      name: Wall_Magma_Dark_09
       rect:
         serializedVersion: 2
         x: 48
@@ -1548,7 +1548,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1562,7 +1562,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_11
+      name: Wall_Magma_Dark_10
       rect:
         serializedVersion: 2
         x: 64
@@ -1570,7 +1570,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1584,7 +1584,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_12
+      name: Wall_Magma_Dark_11
       rect:
         serializedVersion: 2
         x: 80
@@ -1592,7 +1592,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1606,7 +1606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_13
+      name: Wall_Magma_Dark_14
       rect:
         serializedVersion: 2
         x: 48
@@ -1614,7 +1614,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1628,7 +1628,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_14
+      name: Wall_Magma_Dark_15
       rect:
         serializedVersion: 2
         x: 64
@@ -1636,7 +1636,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1650,7 +1650,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_15
+      name: Wall_Magma_Dark_16
       rect:
         serializedVersion: 2
         x: 80
@@ -1658,7 +1658,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1672,7 +1672,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_16
+      name: Obj_Rocks_Magma_Dark_01
       rect:
         serializedVersion: 2
         x: 96
@@ -1680,7 +1680,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1694,7 +1694,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_17
+      name: Obj_Rocks_Magma_Dark_02
       rect:
         serializedVersion: 2
         x: 112
@@ -1702,7 +1702,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1716,7 +1716,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_18
+      name: Wall_Magma_Dark_Doorway_01
       rect:
         serializedVersion: 2
         x: 96
@@ -1724,7 +1724,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1738,7 +1738,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_19
+      name: Wall_Magma_Dark_ClosedDoorway_01
       rect:
         serializedVersion: 2
         x: 112
@@ -1746,7 +1746,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1760,7 +1760,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_20
+      name: Wall_Magma_Dark_RuinedDoorway_01
       rect:
         serializedVersion: 2
         x: 128
@@ -1768,7 +1768,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1782,7 +1782,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_21
+      name: Wall_Magma_Light_01
       rect:
         serializedVersion: 2
         x: 160
@@ -1790,7 +1790,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1804,7 +1804,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_22
+      name: Wall_Magma_Light_02
       rect:
         serializedVersion: 2
         x: 176
@@ -1812,7 +1812,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1826,7 +1826,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_23
+      name: Wall_Magma_Light_03
       rect:
         serializedVersion: 2
         x: 192
@@ -1834,7 +1834,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1848,7 +1848,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_24
+      name: Wall_Magma_Light_04
       rect:
         serializedVersion: 2
         x: 208
@@ -1856,7 +1856,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1870,7 +1870,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_25
+      name: Wall_Magma_Light_05
       rect:
         serializedVersion: 2
         x: 224
@@ -1878,7 +1878,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1892,7 +1892,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_26
+      name: Wall_Magma_Light_06
       rect:
         serializedVersion: 2
         x: 240
@@ -1900,7 +1900,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1914,7 +1914,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_27
+      name: Wall_Magma_Light_07
       rect:
         serializedVersion: 2
         x: 160
@@ -1922,7 +1922,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1936,7 +1936,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_28
+      name: Wall_Magma_Light_12
       rect:
         serializedVersion: 2
         x: 160
@@ -1944,7 +1944,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1958,7 +1958,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_29
+      name: Wall_Magma_Light_08
       rect:
         serializedVersion: 2
         x: 176
@@ -1966,7 +1966,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1980,7 +1980,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_30
+      name: Wall_Magma_Light_13
       rect:
         serializedVersion: 2
         x: 176
@@ -1988,7 +1988,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2002,7 +2002,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_31
+      name: Wall_Magma_Light_09
       rect:
         serializedVersion: 2
         x: 192
@@ -2010,7 +2010,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2024,7 +2024,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_32
+      name: Wall_Magma_Light_14
       rect:
         serializedVersion: 2
         x: 192
@@ -2032,7 +2032,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2046,7 +2046,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_33
+      name: Wall_Magma_Light_10
       rect:
         serializedVersion: 2
         x: 208
@@ -2054,7 +2054,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2068,7 +2068,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_34
+      name: Wall_Magma_Light_11
       rect:
         serializedVersion: 2
         x: 224
@@ -2076,7 +2076,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2090,7 +2090,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_35
+      name: Obj_Rocks_Magma_Light_01
       rect:
         serializedVersion: 2
         x: 240
@@ -2098,7 +2098,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2112,7 +2112,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_36
+      name: Wall_Magma_Light_15
       rect:
         serializedVersion: 2
         x: 208
@@ -2120,7 +2120,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2134,7 +2134,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_37
+      name: Wall_Magma_Light_16
       rect:
         serializedVersion: 2
         x: 224
@@ -2142,7 +2142,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2156,7 +2156,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_38
+      name: Wall_Magma_Light_Doorway_01
       rect:
         serializedVersion: 2
         x: 240
@@ -2164,7 +2164,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2178,7 +2178,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_39
+      name: Obj_Rocks_Magma_Light_02
       rect:
         serializedVersion: 2
         x: 256
@@ -2186,7 +2186,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2200,7 +2200,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_40
+      name: Wall_Magma_Light_ClosedDoorway_01
       rect:
         serializedVersion: 2
         x: 256
@@ -2208,7 +2208,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2222,7 +2222,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_41
+      name: Wall_Magma_Light_RuinedDoorway_01
       rect:
         serializedVersion: 2
         x: 272
@@ -2230,7 +2230,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2244,7 +2244,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_42
+      name: Obj_Pit_Magma_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2252,7 +2252,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2266,7 +2266,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_43
+      name: Obj_Pit_Magma_Dark_02
       rect:
         serializedVersion: 2
         x: 32
@@ -2274,7 +2274,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2288,7 +2288,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_44
+      name: Obj_Pit_Magma_Dark_03
       rect:
         serializedVersion: 2
         x: 48
@@ -2296,7 +2296,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2310,7 +2310,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_45
+      name: Obj_Grate_Magma_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2318,7 +2318,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2332,7 +2332,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_46
+      name: Obj_Grate_Magma_Dark_02
       rect:
         serializedVersion: 2
         x: 32
@@ -2340,7 +2340,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2354,7 +2354,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_47
+      name: Obj_Grate_Magma_Dark_03
       rect:
         serializedVersion: 2
         x: 48
@@ -2362,7 +2362,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2376,7 +2376,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_48
+      name: Obj_BoardedPit_Magma_Dark_01
       rect:
         serializedVersion: 2
         x: 64
@@ -2384,7 +2384,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2398,7 +2398,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_49
+      name: Obj_BoardedPit_Magma_Dark_02
       rect:
         serializedVersion: 2
         x: 80
@@ -2406,7 +2406,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2420,7 +2420,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_50
+      name: Obj_BoardedPit_Magma_Dark_03
       rect:
         serializedVersion: 2
         x: 96
@@ -2428,7 +2428,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2442,7 +2442,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_51
+      name: Obj_StairsDown_Magma_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2450,7 +2450,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2464,7 +2464,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_52
+      name: Obj_StairsUp_Magma_Dark_01
       rect:
         serializedVersion: 2
         x: 32
@@ -2472,7 +2472,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2486,7 +2486,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_53
+      name: Obj_Pit_Magma_Light_01
       rect:
         serializedVersion: 2
         x: 160
@@ -2494,7 +2494,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2508,7 +2508,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_54
+      name: Obj_Pit_Magma_Light_02
       rect:
         serializedVersion: 2
         x: 176
@@ -2516,7 +2516,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2530,7 +2530,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_55
+      name: Obj_Pit_Magma_Light_03
       rect:
         serializedVersion: 2
         x: 192
@@ -2538,7 +2538,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2552,7 +2552,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_56
+      name: Obj_Grate_Magma_Light_01
       rect:
         serializedVersion: 2
         x: 160
@@ -2560,7 +2560,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2574,7 +2574,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_57
+      name: Obj_Grate_Magma_Light_02
       rect:
         serializedVersion: 2
         x: 176
@@ -2582,7 +2582,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2596,7 +2596,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_58
+      name: Obj_BoardedPit_Magma_Light_01
       rect:
         serializedVersion: 2
         x: 192
@@ -2604,7 +2604,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2618,7 +2618,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_59
+      name: Obj_BoardedPit_Magma_Light_02
       rect:
         serializedVersion: 2
         x: 208
@@ -2626,7 +2626,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2640,7 +2640,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_60
+      name: Obj_BoardedPit_Magma_Light_03
       rect:
         serializedVersion: 2
         x: 224
@@ -2648,7 +2648,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2662,7 +2662,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_61
+      name: Obj_StairsDown_Magma_Light_01
       rect:
         serializedVersion: 2
         x: 160
@@ -2670,7 +2670,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2684,7 +2684,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_62
+      name: Obj_StairsDown_Magma_Light_02
       rect:
         serializedVersion: 2
         x: 176
@@ -2692,7 +2692,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2706,7 +2706,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_63
+      name: Obj_Spike_Magma_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2714,7 +2714,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2728,7 +2728,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_64
+      name: Obj_Spike_Magma_Dark_02
       rect:
         serializedVersion: 2
         x: 32
@@ -2736,7 +2736,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2750,7 +2750,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_65
+      name: Obj_Spike_Magma_Light_01
       rect:
         serializedVersion: 2
         x: 160
@@ -2758,7 +2758,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2772,7 +2772,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_66
+      name: Obj_Spike_Magma_Light_02
       rect:
         serializedVersion: 2
         x: 176
@@ -2780,7 +2780,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2794,7 +2794,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_67
+      name: Obj_Bones_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2802,7 +2802,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2816,7 +2816,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_68
+      name: Obj_Bones_Dark_02
       rect:
         serializedVersion: 2
         x: 32
@@ -2824,7 +2824,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2838,7 +2838,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_69
+      name: Obj_Bones_Dark_03
       rect:
         serializedVersion: 2
         x: 48
@@ -2846,7 +2846,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2860,7 +2860,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_70
+      name: Obj_Bones_Dark_04
       rect:
         serializedVersion: 2
         x: 64
@@ -2868,7 +2868,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2882,7 +2882,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_71
+      name: Obj_Bones_Dark_05
       rect:
         serializedVersion: 2
         x: 80
@@ -2890,7 +2890,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2904,7 +2904,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_72
+      name: Obj_Bones_Dark_06
       rect:
         serializedVersion: 2
         x: 96
@@ -2912,7 +2912,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2926,7 +2926,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_73
+      name: Obj_Bones_Dark_07
       rect:
         serializedVersion: 2
         x: 16
@@ -2934,7 +2934,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2948,7 +2948,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_74
+      name: Obj_Bones_Dark_08
       rect:
         serializedVersion: 2
         x: 32
@@ -2956,7 +2956,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2970,7 +2970,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_75
+      name: Obj_Bones_Dark_09
       rect:
         serializedVersion: 2
         x: 48
@@ -2978,7 +2978,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2992,7 +2992,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_76
+      name: Obj_Bones_Dark_10
       rect:
         serializedVersion: 2
         x: 64
@@ -3000,7 +3000,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3014,7 +3014,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_77
+      name: Obj_Bones_Dark_11
       rect:
         serializedVersion: 2
         x: 80
@@ -3022,7 +3022,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3036,7 +3036,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_78
+      name: Obj_Bones_Dark_12
       rect:
         serializedVersion: 2
         x: 96
@@ -3044,7 +3044,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3058,7 +3058,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_79
+      name: Wall_Magma_Dark_Bones_01
       rect:
         serializedVersion: 2
         x: 16
@@ -3066,7 +3066,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3080,7 +3080,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_80
+      name: Wall_Magma_Dark_Bones_02
       rect:
         serializedVersion: 2
         x: 32
@@ -3088,7 +3088,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3102,7 +3102,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_81
+      name: Wall_Magma_Dark_Bones_03
       rect:
         serializedVersion: 2
         x: 48
@@ -3110,7 +3110,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3124,7 +3124,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_82
+      name: Obj_Bones_Light_06
       rect:
         serializedVersion: 2
         x: 240
@@ -3132,7 +3132,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3146,7 +3146,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_83
+      name: Obj_Bones_Light_05
       rect:
         serializedVersion: 2
         x: 224
@@ -3154,7 +3154,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3168,7 +3168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_84
+      name: Obj_Bones_Light_04
       rect:
         serializedVersion: 2
         x: 208
@@ -3176,7 +3176,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3190,7 +3190,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_85
+      name: Obj_Bones_Light_03
       rect:
         serializedVersion: 2
         x: 192
@@ -3198,7 +3198,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3212,7 +3212,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_86
+      name: Obj_Bones_Light_02
       rect:
         serializedVersion: 2
         x: 176
@@ -3220,7 +3220,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3234,7 +3234,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_87
+      name: Obj_Bones_Light_01
       rect:
         serializedVersion: 2
         x: 160
@@ -3242,7 +3242,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3256,7 +3256,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_88
+      name: Obj_Bones_Light_07
       rect:
         serializedVersion: 2
         x: 160
@@ -3264,7 +3264,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3278,7 +3278,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_89
+      name: Wall_Magma_Light_Bones_01
       rect:
         serializedVersion: 2
         x: 160
@@ -3286,7 +3286,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3300,7 +3300,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_90
+      name: Obj_Bones_Light_08
       rect:
         serializedVersion: 2
         x: 176
@@ -3308,7 +3308,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3322,7 +3322,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_91
+      name: Wall_Magma_Light_Bones_02
       rect:
         serializedVersion: 2
         x: 176
@@ -3330,7 +3330,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3344,7 +3344,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_92
+      name: Obj_Bones_Light_09
       rect:
         serializedVersion: 2
         x: 192
@@ -3352,7 +3352,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3366,7 +3366,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_93
+      name: Wall_Magma_Light_Bones_03
       rect:
         serializedVersion: 2
         x: 192
@@ -3374,7 +3374,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3388,7 +3388,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_94
+      name: Obj_Bones_Light_10
       rect:
         serializedVersion: 2
         x: 208
@@ -3396,7 +3396,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3410,7 +3410,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_95
+      name: Obj_Bones_Light_11
       rect:
         serializedVersion: 2
         x: 224
@@ -3418,7 +3418,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3432,7 +3432,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_96
+      name: Obj_Bones_Light_12
       rect:
         serializedVersion: 2
         x: 240
@@ -3440,7 +3440,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3454,7 +3454,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_97
+      name: Obj_Rocks_Magma_Dark_03
       rect:
         serializedVersion: 2
         x: 16
@@ -3462,7 +3462,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3476,7 +3476,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_98
+      name: Obj_Rocks_Magma_Dark_04
       rect:
         serializedVersion: 2
         x: 32
@@ -3484,7 +3484,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3498,7 +3498,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_99
+      name: Obj_Rocks_Magma_Dark_05
       rect:
         serializedVersion: 2
         x: 48
@@ -3506,7 +3506,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3520,7 +3520,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_100
+      name: Obj_Rocks_Magma_Dark_06
       rect:
         serializedVersion: 2
         x: 64
@@ -3528,7 +3528,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3542,7 +3542,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_101
+      name: Obj_Rocks_Magma_Dark_07
       rect:
         serializedVersion: 2
         x: 80
@@ -3550,7 +3550,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3564,7 +3564,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_102
+      name: Obj_Rocks_Magma_Dark_08
       rect:
         serializedVersion: 2
         x: 96
@@ -3572,7 +3572,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3586,7 +3586,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_103
+      name: Obj_Rocks_Magma_Dark_09
       rect:
         serializedVersion: 2
         x: 16
@@ -3594,7 +3594,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3608,7 +3608,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_104
+      name: Obj_Rocks_Magma_Dark_10
       rect:
         serializedVersion: 2
         x: 32
@@ -3616,7 +3616,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3630,7 +3630,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_105
+      name: Obj_Rocks_Magma_Dark_11
       rect:
         serializedVersion: 2
         x: 48
@@ -3638,7 +3638,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3652,7 +3652,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_106
+      name: Obj_Rocks_Magma_Dark_12
       rect:
         serializedVersion: 2
         x: 64
@@ -3660,7 +3660,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3674,7 +3674,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_107
+      name: Obj_Rocks_Magma_Dark_13
       rect:
         serializedVersion: 2
         x: 80
@@ -3682,7 +3682,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3696,7 +3696,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_108
+      name: Obj_Rocks_Magma_Dark_14
       rect:
         serializedVersion: 2
         x: 96
@@ -3704,7 +3704,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3718,7 +3718,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_109
+      name: Obj_Rocks_Magma_Light_07
       rect:
         serializedVersion: 2
         x: 224
@@ -3726,7 +3726,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3740,7 +3740,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_110
+      name: Obj_Rocks_Magma_Light_06
       rect:
         serializedVersion: 2
         x: 208
@@ -3748,7 +3748,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3762,7 +3762,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_111
+      name: Obj_Rocks_Magma_Light_05
       rect:
         serializedVersion: 2
         x: 192
@@ -3770,7 +3770,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3784,7 +3784,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_112
+      name: Obj_Rocks_Magma_Light_04
       rect:
         serializedVersion: 2
         x: 176
@@ -3792,7 +3792,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3806,7 +3806,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_113
+      name: Obj_Rocks_Magma_Light_03
       rect:
         serializedVersion: 2
         x: 160
@@ -3814,7 +3814,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3828,7 +3828,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_114
+      name: Obj_Rocks_Magma_Light_08
       rect:
         serializedVersion: 2
         x: 160
@@ -3836,7 +3836,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3850,7 +3850,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_115
+      name: Obj_Rocks_Magma_Light_09
       rect:
         serializedVersion: 2
         x: 176
@@ -3858,7 +3858,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3872,7 +3872,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_116
+      name: Obj_Rocks_Magma_Light_10
       rect:
         serializedVersion: 2
         x: 192
@@ -3880,7 +3880,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3894,7 +3894,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_117
+      name: Obj_Rocks_Magma_Light_11
       rect:
         serializedVersion: 2
         x: 208
@@ -3902,7 +3902,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3916,7 +3916,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_118
+      name: Obj_Rocks_Magma_Light_12
       rect:
         serializedVersion: 2
         x: 224
@@ -3924,7 +3924,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3938,7 +3938,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_119
+      name: Obj_BigRocks_Magma_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -3946,7 +3946,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3960,7 +3960,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_120
+      name: Obj_BigRocks_Magma_Dark_02
       rect:
         serializedVersion: 2
         x: 16
@@ -3968,7 +3968,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3982,7 +3982,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_121
+      name: Obj_BigRocks_Magma_Light_01
       rect:
         serializedVersion: 2
         x: 144
@@ -3990,7 +3990,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4004,7 +4004,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_122
+      name: Obj_BigRocks_Magma_Light_02
       rect:
         serializedVersion: 2
         x: 144
@@ -4012,7 +4012,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4026,7 +4026,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_123
+      name: Obj_BrownOres_Magma_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -4034,7 +4034,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4048,7 +4048,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_124
+      name: Obj_BrownOres_Magma_Dark_02
       rect:
         serializedVersion: 2
         x: 32
@@ -4056,7 +4056,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4070,7 +4070,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_125
+      name: Obj_BrownOres_Magma_Dark_03
       rect:
         serializedVersion: 2
         x: 48
@@ -4078,7 +4078,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4092,7 +4092,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_126
+      name: Obj_GreyOres_Magma_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -4100,7 +4100,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4114,7 +4114,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_127
+      name: Obj_GoldOres_Magma_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -4122,7 +4122,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4136,7 +4136,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_128
+      name: Obj_GreyOres_Magma_Dark_02
       rect:
         serializedVersion: 2
         x: 32
@@ -4144,7 +4144,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4158,7 +4158,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_129
+      name: Obj_GoldOres_Magma_Dark_02
       rect:
         serializedVersion: 2
         x: 32
@@ -4166,7 +4166,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4180,7 +4180,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_130
+      name: Obj_GreyOres_Magma_Dark_03
       rect:
         serializedVersion: 2
         x: 48
@@ -4188,7 +4188,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4202,7 +4202,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_131
+      name: Obj_GoldOres_Magma_Dark_03
       rect:
         serializedVersion: 2
         x: 48
@@ -4210,7 +4210,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4224,7 +4224,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_132
+      name: Obj_BrownOres_Magma_Light_03
       rect:
         serializedVersion: 2
         x: 176
@@ -4232,7 +4232,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4246,7 +4246,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_133
+      name: Obj_BrownOres_Magma_Light_02
       rect:
         serializedVersion: 2
         x: 160
@@ -4254,7 +4254,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4268,7 +4268,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_134
+      name: Obj_BrownOres_Magma_Light_01
       rect:
         serializedVersion: 2
         x: 144
@@ -4276,7 +4276,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4290,7 +4290,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_135
+      name: Obj_GreyOres_Magma_Light_01
       rect:
         serializedVersion: 2
         x: 144
@@ -4298,7 +4298,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4312,7 +4312,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_136
+      name: Obj_GoldOres_Magma_Light_01
       rect:
         serializedVersion: 2
         x: 144
@@ -4320,7 +4320,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4334,7 +4334,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_137
+      name: Obj_GreyOres_Magma_Light_02
       rect:
         serializedVersion: 2
         x: 160
@@ -4342,7 +4342,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4356,7 +4356,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_138
+      name: Obj_GoldOres_Magma_Light_02
       rect:
         serializedVersion: 2
         x: 160
@@ -4364,7 +4364,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4378,7 +4378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_139
+      name: Obj_GreyOres_Magma_Light_03
       rect:
         serializedVersion: 2
         x: 176
@@ -4386,7 +4386,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4400,7 +4400,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_140
+      name: Obj_GoldOres_Magma_Light_03
       rect:
         serializedVersion: 2
         x: 176
@@ -4408,7 +4408,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4422,7 +4422,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_141
+      name: Obj_Vent_Magma_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -4430,7 +4430,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4444,11 +4444,253 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Magma_142
+      name: Obj_Vent_Magma_Light_01
       rect:
         serializedVersion: 2
         x: 160
         y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff13063739f8fb49b5934dcc116f926
+      internalID: -7937465908634835383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obj_LadderDown_Magma_Dark_01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a375f32810baf334db2f6c8db57343da
+      internalID: -1552626119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obj_LadderDown_Magma_Dark_02
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ec206b0c8630f4b9443fc9e4a5df47
+      internalID: -1969589906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obj_LadderDown_Magma_Dark_03
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e18d92035133704090eff5e4430af54
+      internalID: -345129600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obj_LadderUp_Magma_Dark_01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f98fbb246b2f4f40bd021fdfff1d061
+      internalID: -1218334200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obj_LadderUp_Magma_Dark_02
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6f9c3c070b0d94e975139576dac8aa
+      internalID: -252346679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obj_LadderDown_Magma_Light_01
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6fb74f2ad55544c8d62b201fbc9dfb
+      internalID: 1344653731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obj_LadderDown_Magma_Light_02
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee874f2a2dbbb94090a175f6422e987
+      internalID: 342671902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obj_LadderDown_Magma_Light_03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66df13078e575bb46b988a730106534c
+      internalID: 1289875784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obj_LadderUp_Magma_Light_01
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8cf0453948e1744851b075d39669d6
+      internalID: 1821771718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obj_LadderUp_Magma_Light_02
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc3833794f1a754fac2fd745b940f5a
+      internalID: 1696592937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Magma_Dark_01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 592
         width: 16
         height: 16
       alignment: 0
@@ -4459,8 +4701,162 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ff13063739f8fb49b5934dcc116f926
-      internalID: -7937465908634835383
+      spriteID: 557540891c8d26846b60654b9b96b020
+      internalID: -180697193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Magma_Dark_02
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215a90e35ded73241a83680fcf87c5fd
+      internalID: -1949033962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Magma_Dark_03
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd9ed52fa5534041ab09f38f9ff1627
+      internalID: 1241297742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Magma_Dark_04
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de54833ac3d9744428198781fe961207
+      internalID: 1548539640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Magma_Light_01
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850e0f336a1e0e740be7bf0a06b11b78
+      internalID: 1268813598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Magma_Light_02
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a53d72c03224546b5ba7857f1fa1c7
+      internalID: 1905668137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Magma_Light_03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa65135aa9aa1f24290dfc596fc4543c
+      internalID: -1282561228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Magma_Light_04
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770443f611653054facf873ae030f09b
+      internalID: -330917161
       vertices: []
       indices: 
       edges: []
@@ -4481,149 +4877,167 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Cave-Magma_0: 8315824189437471542
-      Cave-Magma_1: -1677755250403676986
-      Cave-Magma_10: 5538711243717888856
-      Cave-Magma_100: -3983895746227443236
-      Cave-Magma_101: 5916576780193656035
-      Cave-Magma_102: 7648215969941732419
-      Cave-Magma_103: 8701845352714475446
-      Cave-Magma_104: 8994576790010689215
-      Cave-Magma_105: 4267634449481411526
-      Cave-Magma_106: -5764906528783670908
-      Cave-Magma_107: -9178254758420878995
-      Cave-Magma_108: 3213683901838634099
-      Cave-Magma_109: 4783522014683941665
-      Cave-Magma_11: -6662874837049374114
-      Cave-Magma_110: -7389645686737021445
-      Cave-Magma_111: -4627214221291944963
-      Cave-Magma_112: -2403451432879357631
-      Cave-Magma_113: 3860910121222694308
-      Cave-Magma_114: 809628666746154066
-      Cave-Magma_115: 413931115880227431
-      Cave-Magma_116: -4982743834649476806
-      Cave-Magma_117: 4457931154304923605
-      Cave-Magma_118: 7497738677725601545
-      Cave-Magma_119: 3181259939474596540
-      Cave-Magma_12: -4148467928135689890
-      Cave-Magma_120: 864113306443389907
-      Cave-Magma_121: 7436050801377729282
-      Cave-Magma_122: -3201145158052300568
-      Cave-Magma_123: -6956671653327678684
-      Cave-Magma_124: 7710131715278947638
-      Cave-Magma_125: 8736094875657750360
-      Cave-Magma_126: -2898137175354244849
-      Cave-Magma_127: 8935762753799710674
-      Cave-Magma_128: 1413009036880725258
-      Cave-Magma_129: 3606606081890006686
-      Cave-Magma_13: 4493200970142728110
-      Cave-Magma_130: -7592577410637183686
-      Cave-Magma_131: -236082855488665172
-      Cave-Magma_132: -5788945674428473699
-      Cave-Magma_133: 2911097991492628820
-      Cave-Magma_134: -1589840564672283712
-      Cave-Magma_135: -3440301188402586522
-      Cave-Magma_136: -7508032829047444190
-      Cave-Magma_137: -3022312670094638562
-      Cave-Magma_138: -3455426182414423884
-      Cave-Magma_139: 7487840431485591307
-      Cave-Magma_14: 183902388662492603
-      Cave-Magma_140: 8650927179069848166
-      Cave-Magma_141: 6120641791812725890
-      Cave-Magma_142: -7937465908634835383
-      Cave-Magma_15: 3605181781709111008
-      Cave-Magma_16: 874724794428334666
-      Cave-Magma_17: 4457328881553140089
-      Cave-Magma_18: -2679612444360829310
-      Cave-Magma_19: 568631374226419995
-      Cave-Magma_2: 7438645418093434352
-      Cave-Magma_20: -3696949991740131329
-      Cave-Magma_21: 8616246917304831639
-      Cave-Magma_22: 4236760684538166587
-      Cave-Magma_23: 7870200226020242787
-      Cave-Magma_24: -5561902218016391239
-      Cave-Magma_25: -7201757895046990832
-      Cave-Magma_26: 2964439394598673683
-      Cave-Magma_27: -4799681798655278398
-      Cave-Magma_28: -8983605293911432966
-      Cave-Magma_29: 3766676003746465004
-      Cave-Magma_3: -1490062608270900421
-      Cave-Magma_30: 8237958829054613675
-      Cave-Magma_31: -2063523200945151316
-      Cave-Magma_32: -218807552425278488
-      Cave-Magma_33: -4680829672823854543
-      Cave-Magma_34: -5302465633335008720
-      Cave-Magma_35: -6293485010683801947
-      Cave-Magma_36: 4854112801271957835
-      Cave-Magma_37: 1641237878262383055
-      Cave-Magma_38: 2631713568854122201
-      Cave-Magma_39: 9211782676209212966
-      Cave-Magma_4: -9178674458824601631
-      Cave-Magma_40: -1807662028593842529
-      Cave-Magma_41: -7922174253615997165
-      Cave-Magma_42: -3902259215786004715
-      Cave-Magma_43: -6121078933816103811
-      Cave-Magma_44: 3038348232491164583
-      Cave-Magma_45: 8251186531362791886
-      Cave-Magma_46: 463033111670152999
-      Cave-Magma_47: -7107751920548368584
-      Cave-Magma_48: 6133333514962927031
-      Cave-Magma_49: 5487350820748429576
-      Cave-Magma_5: 2984437050419210001
-      Cave-Magma_50: -6906511417243438330
-      Cave-Magma_51: -6339291728157506400
-      Cave-Magma_52: 3146934777613454878
-      Cave-Magma_53: -3626969228193664249
-      Cave-Magma_54: -8452894666437099258
-      Cave-Magma_55: -5022469822809653752
-      Cave-Magma_56: -7871728435377756042
-      Cave-Magma_57: -5860863109587768541
-      Cave-Magma_58: -6520592298142380026
-      Cave-Magma_59: 4907301853269225709
-      Cave-Magma_6: 6479459076276678897
-      Cave-Magma_60: 5481341629575223024
-      Cave-Magma_61: -2692998287903594087
-      Cave-Magma_62: -4703616315635052027
-      Cave-Magma_63: 3544395800251868484
-      Cave-Magma_64: 81579297733245931
-      Cave-Magma_65: -8031754352058604497
-      Cave-Magma_66: -8117819693161124717
-      Cave-Magma_67: 3834706034563978066
-      Cave-Magma_68: 1352418568390385728
-      Cave-Magma_69: -6253547231435904098
-      Cave-Magma_7: 9181966242815199568
-      Cave-Magma_70: 7184286796595239707
-      Cave-Magma_71: 5264602559239822623
-      Cave-Magma_72: 2608803954496901586
-      Cave-Magma_73: -837825770898968993
-      Cave-Magma_74: -4284188461327054319
-      Cave-Magma_75: 7852792482576984269
-      Cave-Magma_76: -5007023936279493690
-      Cave-Magma_77: 5735503510870276450
-      Cave-Magma_78: -4707357319662271471
-      Cave-Magma_79: -4670232291508552767
-      Cave-Magma_8: 2539645758510871558
-      Cave-Magma_80: 8717902074457745247
-      Cave-Magma_81: 4280552113660066775
-      Cave-Magma_82: -3408550570556144021
-      Cave-Magma_83: 7196935209964938235
-      Cave-Magma_84: -8562367585818340707
-      Cave-Magma_85: -1556842852731887795
-      Cave-Magma_86: -5371856720770077785
-      Cave-Magma_87: -1775955580492967040
-      Cave-Magma_88: 8473348056101096802
-      Cave-Magma_89: -825852677356757997
-      Cave-Magma_9: -6996173204940525425
-      Cave-Magma_90: 8677485618524554249
-      Cave-Magma_91: -5933997559371656582
-      Cave-Magma_92: 4869158036588268180
-      Cave-Magma_93: -735767775715563158
-      Cave-Magma_94: -6198026151715499956
-      Cave-Magma_95: -4947793161037091997
-      Cave-Magma_96: -1104774493760858950
-      Cave-Magma_97: 4072302003022308227
-      Cave-Magma_98: 4508675301384077705
-      Cave-Magma_99: 579208784112046333
+      Obj_BigRocks_Magma_Dark_01: 3181259939474596540
+      Obj_BigRocks_Magma_Dark_02: 864113306443389907
+      Obj_BigRocks_Magma_Light_01: 7436050801377729282
+      Obj_BigRocks_Magma_Light_02: -3201145158052300568
+      Obj_BoardedPit_Magma_Dark_01: 6133333514962927031
+      Obj_BoardedPit_Magma_Dark_02: 5487350820748429576
+      Obj_BoardedPit_Magma_Dark_03: -6906511417243438330
+      Obj_BoardedPit_Magma_Light_01: -6520592298142380026
+      Obj_BoardedPit_Magma_Light_02: 4907301853269225709
+      Obj_BoardedPit_Magma_Light_03: 5481341629575223024
+      Obj_Bones_Dark_01: 3834706034563978066
+      Obj_Bones_Dark_02: 1352418568390385728
+      Obj_Bones_Dark_03: -6253547231435904098
+      Obj_Bones_Dark_04: 7184286796595239707
+      Obj_Bones_Dark_05: 5264602559239822623
+      Obj_Bones_Dark_06: 2608803954496901586
+      Obj_Bones_Dark_07: -837825770898968993
+      Obj_Bones_Dark_08: -4284188461327054319
+      Obj_Bones_Dark_09: 7852792482576984269
+      Obj_Bones_Dark_10: -5007023936279493690
+      Obj_Bones_Dark_11: 5735503510870276450
+      Obj_Bones_Dark_12: -4707357319662271471
+      Obj_Bones_Light_01: -1775955580492967040
+      Obj_Bones_Light_02: -5371856720770077785
+      Obj_Bones_Light_03: -1556842852731887795
+      Obj_Bones_Light_04: -8562367585818340707
+      Obj_Bones_Light_05: 7196935209964938235
+      Obj_Bones_Light_06: -3408550570556144021
+      Obj_Bones_Light_07: 8473348056101096802
+      Obj_Bones_Light_08: 8677485618524554249
+      Obj_Bones_Light_09: 4869158036588268180
+      Obj_Bones_Light_10: -6198026151715499956
+      Obj_Bones_Light_11: -4947793161037091997
+      Obj_Bones_Light_12: -1104774493760858950
+      Obj_BrownOres_Magma_Dark_01: -6956671653327678684
+      Obj_BrownOres_Magma_Dark_02: 7710131715278947638
+      Obj_BrownOres_Magma_Dark_03: 8736094875657750360
+      Obj_BrownOres_Magma_Light_01: -1589840564672283712
+      Obj_BrownOres_Magma_Light_02: 2911097991492628820
+      Obj_BrownOres_Magma_Light_03: -5788945674428473699
+      Obj_GoldOres_Magma_Dark_01: 8935762753799710674
+      Obj_GoldOres_Magma_Dark_02: 3606606081890006686
+      Obj_GoldOres_Magma_Dark_03: -236082855488665172
+      Obj_GoldOres_Magma_Light_01: -7508032829047444190
+      Obj_GoldOres_Magma_Light_02: -3455426182414423884
+      Obj_GoldOres_Magma_Light_03: 8650927179069848166
+      Obj_Grate_Magma_Dark_01: 8251186531362791886
+      Obj_Grate_Magma_Dark_02: 463033111670152999
+      Obj_Grate_Magma_Dark_03: -7107751920548368584
+      Obj_Grate_Magma_Light_01: -7871728435377756042
+      Obj_Grate_Magma_Light_02: -5860863109587768541
+      Obj_GreyOres_Magma_Dark_01: -2898137175354244849
+      Obj_GreyOres_Magma_Dark_02: 1413009036880725258
+      Obj_GreyOres_Magma_Dark_03: -7592577410637183686
+      Obj_GreyOres_Magma_Light_01: -3440301188402586522
+      Obj_GreyOres_Magma_Light_02: -3022312670094638562
+      Obj_GreyOres_Magma_Light_03: 7487840431485591307
+      Obj_LadderDown_Magma_Dark_01: -1552626119
+      Obj_LadderDown_Magma_Dark_02: -1969589906
+      Obj_LadderDown_Magma_Dark_03: -345129600
+      Obj_LadderDown_Magma_Light_01: 1344653731
+      Obj_LadderDown_Magma_Light_02: 342671902
+      Obj_LadderDown_Magma_Light_03: 1289875784
+      Obj_LadderUp_Magma_Dark_01: -1218334200
+      Obj_LadderUp_Magma_Dark_02: -252346679
+      Obj_LadderUp_Magma_Light_01: 1821771718
+      Obj_LadderUp_Magma_Light_02: 1696592937
+      Obj_Pit_Magma_Dark_01: -3902259215786004715
+      Obj_Pit_Magma_Dark_02: -6121078933816103811
+      Obj_Pit_Magma_Dark_03: 3038348232491164583
+      Obj_Pit_Magma_Light_01: -3626969228193664249
+      Obj_Pit_Magma_Light_02: -8452894666437099258
+      Obj_Pit_Magma_Light_03: -5022469822809653752
+      Obj_Rocks_Magma_Dark_01: 874724794428334666
+      Obj_Rocks_Magma_Dark_02: 4457328881553140089
+      Obj_Rocks_Magma_Dark_03: 4072302003022308227
+      Obj_Rocks_Magma_Dark_04: 4508675301384077705
+      Obj_Rocks_Magma_Dark_05: 579208784112046333
+      Obj_Rocks_Magma_Dark_06: -3983895746227443236
+      Obj_Rocks_Magma_Dark_07: 5916576780193656035
+      Obj_Rocks_Magma_Dark_08: 7648215969941732419
+      Obj_Rocks_Magma_Dark_09: 8701845352714475446
+      Obj_Rocks_Magma_Dark_10: 8994576790010689215
+      Obj_Rocks_Magma_Dark_11: 4267634449481411526
+      Obj_Rocks_Magma_Dark_12: -5764906528783670908
+      Obj_Rocks_Magma_Dark_13: -9178254758420878995
+      Obj_Rocks_Magma_Dark_14: 3213683901838634099
+      Obj_Rocks_Magma_Light_01: -6293485010683801947
+      Obj_Rocks_Magma_Light_02: 9211782676209212966
+      Obj_Rocks_Magma_Light_03: 3860910121222694308
+      Obj_Rocks_Magma_Light_04: -2403451432879357631
+      Obj_Rocks_Magma_Light_05: -4627214221291944963
+      Obj_Rocks_Magma_Light_06: -7389645686737021445
+      Obj_Rocks_Magma_Light_07: 4783522014683941665
+      Obj_Rocks_Magma_Light_08: 809628666746154066
+      Obj_Rocks_Magma_Light_09: 413931115880227431
+      Obj_Rocks_Magma_Light_10: -4982743834649476806
+      Obj_Rocks_Magma_Light_11: 4457931154304923605
+      Obj_Rocks_Magma_Light_12: 7497738677725601545
+      Obj_Spike_Magma_Dark_01: 3544395800251868484
+      Obj_Spike_Magma_Dark_02: 81579297733245931
+      Obj_Spike_Magma_Light_01: -8031754352058604497
+      Obj_Spike_Magma_Light_02: -8117819693161124717
+      Obj_StairsDown_Magma_Dark_01: -6339291728157506400
+      Obj_StairsDown_Magma_Light_01: -2692998287903594087
+      Obj_StairsDown_Magma_Light_02: -4703616315635052027
+      Obj_StairsUp_Magma_Dark_01: 3146934777613454878
+      Obj_Vent_Magma_Dark_01: 6120641791812725890
+      Obj_Vent_Magma_Light_01: -7937465908634835383
+      Trap_Spikes_Magma_Dark_01: -180697193
+      Trap_Spikes_Magma_Dark_02: -1949033962
+      Trap_Spikes_Magma_Dark_03: 1241297742
+      Trap_Spikes_Magma_Dark_04: 1548539640
+      Trap_Spikes_Magma_Light_01: 1268813598
+      Trap_Spikes_Magma_Light_02: 1905668137
+      Trap_Spikes_Magma_Light_03: -1282561228
+      Trap_Spikes_Magma_Light_04: -330917161
+      Wall_Magma_Dark_01: 8315824189437471542
+      Wall_Magma_Dark_02: -1677755250403676986
+      Wall_Magma_Dark_03: 7438645418093434352
+      Wall_Magma_Dark_04: -1490062608270900421
+      Wall_Magma_Dark_05: -9178674458824601631
+      Wall_Magma_Dark_06: 2984437050419210001
+      Wall_Magma_Dark_07: 6479459076276678897
+      Wall_Magma_Dark_08: 2539645758510871558
+      Wall_Magma_Dark_09: 5538711243717888856
+      Wall_Magma_Dark_10: -6662874837049374114
+      Wall_Magma_Dark_11: -4148467928135689890
+      Wall_Magma_Dark_12: 9181966242815199568
+      Wall_Magma_Dark_13: -6996173204940525425
+      Wall_Magma_Dark_14: 4493200970142728110
+      Wall_Magma_Dark_15: 183902388662492603
+      Wall_Magma_Dark_16: 3605181781709111008
+      Wall_Magma_Dark_Bones_01: -4670232291508552767
+      Wall_Magma_Dark_Bones_02: 8717902074457745247
+      Wall_Magma_Dark_Bones_03: 4280552113660066775
+      Wall_Magma_Dark_ClosedDoorway_01: 568631374226419995
+      Wall_Magma_Dark_Doorway_01: -2679612444360829310
+      Wall_Magma_Dark_RuinedDoorway_01: -3696949991740131329
+      Wall_Magma_Light_01: 8616246917304831639
+      Wall_Magma_Light_02: 4236760684538166587
+      Wall_Magma_Light_03: 7870200226020242787
+      Wall_Magma_Light_04: -5561902218016391239
+      Wall_Magma_Light_05: -7201757895046990832
+      Wall_Magma_Light_06: 2964439394598673683
+      Wall_Magma_Light_07: -4799681798655278398
+      Wall_Magma_Light_08: 3766676003746465004
+      Wall_Magma_Light_09: -2063523200945151316
+      Wall_Magma_Light_10: -4680829672823854543
+      Wall_Magma_Light_11: -5302465633335008720
+      Wall_Magma_Light_12: -8983605293911432966
+      Wall_Magma_Light_13: 8237958829054613675
+      Wall_Magma_Light_14: -218807552425278488
+      Wall_Magma_Light_15: 4854112801271957835
+      Wall_Magma_Light_16: 1641237878262383055
+      Wall_Magma_Light_Bones_01: -825852677356757997
+      Wall_Magma_Light_Bones_02: -5933997559371656582
+      Wall_Magma_Light_Bones_03: -735767775715563158
+      Wall_Magma_Light_ClosedDoorway_01: -1807662028593842529
+      Wall_Magma_Light_Doorway_01: 2631713568854122201
+      Wall_Magma_Light_RuinedDoorway_01: -7922174253615997165
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

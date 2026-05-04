@@ -372,7 +372,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cave_0
+      name: Wall_Cave_Brown_01
       rect:
         serializedVersion: 2
         x: 16
@@ -380,7 +380,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -394,7 +394,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_1
+      name: Wall_Cave_Brown_02
       rect:
         serializedVersion: 2
         x: 32
@@ -402,7 +402,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -416,7 +416,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_2
+      name: Wall_Cave_Brown_03
       rect:
         serializedVersion: 2
         x: 48
@@ -424,7 +424,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -438,7 +438,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_3
+      name: Wall_Cave_Brown_04
       rect:
         serializedVersion: 2
         x: 64
@@ -446,7 +446,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -460,7 +460,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_4
+      name: Wall_Cave_Brown_05
       rect:
         serializedVersion: 2
         x: 80
@@ -468,7 +468,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -482,7 +482,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_5
+      name: Wall_Cave_Brown_06
       rect:
         serializedVersion: 2
         x: 96
@@ -490,7 +490,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -504,7 +504,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_6
+      name: Wall_Cave_Brown_07
       rect:
         serializedVersion: 2
         x: 16
@@ -512,7 +512,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -526,7 +526,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_7
+      name: Wall_Cave_Brown_12
       rect:
         serializedVersion: 2
         x: 16
@@ -534,7 +534,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -548,7 +548,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_8
+      name: Wall_Cave_Grey_01
       rect:
         serializedVersion: 2
         x: 16
@@ -556,7 +556,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -570,7 +570,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_9
+      name: Wall_Cave_Grey_07
       rect:
         serializedVersion: 2
         x: 16
@@ -578,7 +578,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -592,7 +592,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_10
+      name: Wall_Cave_Grey_12
       rect:
         serializedVersion: 2
         x: 16
@@ -600,7 +600,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -614,7 +614,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_11
+      name: Wall_Cave_Brown_08
       rect:
         serializedVersion: 2
         x: 32
@@ -622,7 +622,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -636,7 +636,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_12
+      name: Wall_Cave_Brown_13
       rect:
         serializedVersion: 2
         x: 32
@@ -644,7 +644,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -658,7 +658,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_13
+      name: Wall_Cave_Brown_09
       rect:
         serializedVersion: 2
         x: 48
@@ -666,7 +666,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -680,7 +680,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_14
+      name: Wall_Cave_Brown_10
       rect:
         serializedVersion: 2
         x: 64
@@ -688,7 +688,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -702,7 +702,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_15
+      name: Wall_Cave_Brown_11
       rect:
         serializedVersion: 2
         x: 80
@@ -710,7 +710,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -724,7 +724,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_16
+      name: Wall_Cave_Brown_14
       rect:
         serializedVersion: 2
         x: 48
@@ -732,7 +732,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -746,7 +746,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_17
+      name: Wall_Cave_Brown_15
       rect:
         serializedVersion: 2
         x: 64
@@ -754,7 +754,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -768,7 +768,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_18
+      name: Wall_Cave_Brown_16
       rect:
         serializedVersion: 2
         x: 80
@@ -776,7 +776,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -790,7 +790,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_19
+      name: Wall_Cave_Brown_Doorway
       rect:
         serializedVersion: 2
         x: 96
@@ -798,7 +798,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -812,7 +812,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_20
+      name: Wall_Cave_Grey_02
       rect:
         serializedVersion: 2
         x: 32
@@ -820,7 +820,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -834,7 +834,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_21
+      name: Wall_Cave_Grey_08
       rect:
         serializedVersion: 2
         x: 32
@@ -842,7 +842,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -856,7 +856,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_22
+      name: Wall_Cave_Grey_13
       rect:
         serializedVersion: 2
         x: 32
@@ -864,7 +864,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -878,7 +878,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_23
+      name: Wall_Cave_Grey_03
       rect:
         serializedVersion: 2
         x: 48
@@ -886,7 +886,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -900,7 +900,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_24
+      name: Wall_Cave_Grey_04
       rect:
         serializedVersion: 2
         x: 64
@@ -908,7 +908,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -922,7 +922,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_25
+      name: Wall_Cave_Grey_05
       rect:
         serializedVersion: 2
         x: 80
@@ -930,7 +930,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -944,7 +944,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_26
+      name: Wall_Cave_Grey_06
       rect:
         serializedVersion: 2
         x: 96
@@ -952,7 +952,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -966,7 +966,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_27
+      name: Wall_Cave_Grey_09
       rect:
         serializedVersion: 2
         x: 48
@@ -974,7 +974,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -988,7 +988,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_28
+      name: Wall_Cave_Grey_14
       rect:
         serializedVersion: 2
         x: 48
@@ -996,7 +996,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1010,7 +1010,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_29
+      name: Wall_Cave_Grey_10
       rect:
         serializedVersion: 2
         x: 64
@@ -1018,7 +1018,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1032,7 +1032,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_30
+      name: Wall_Cave_Grey_11
       rect:
         serializedVersion: 2
         x: 80
@@ -1040,7 +1040,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1054,7 +1054,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_31
+      name: Wall_Cave_Grey_15
       rect:
         serializedVersion: 2
         x: 64
@@ -1062,7 +1062,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1076,7 +1076,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_32
+      name: Wall_Cave_Grey_16
       rect:
         serializedVersion: 2
         x: 80
@@ -1084,7 +1084,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1098,7 +1098,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_33
+      name: Wall_Cave_Grey_Doorway
       rect:
         serializedVersion: 2
         x: 96
@@ -1106,7 +1106,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1120,7 +1120,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_34
+      name: Floor_Cave_01
       rect:
         serializedVersion: 2
         x: 144
@@ -1128,7 +1128,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1142,7 +1142,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_35
+      name: Floor_Cave_02
       rect:
         serializedVersion: 2
         x: 160
@@ -1150,7 +1150,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1164,7 +1164,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_36
+      name: Floor_Cave_03
       rect:
         serializedVersion: 2
         x: 144
@@ -1172,7 +1172,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1186,7 +1186,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_37
+      name: Floor_Cave_04
       rect:
         serializedVersion: 2
         x: 160
@@ -1194,7 +1194,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1208,7 +1208,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_38
+      name: Floor_Cave_05
       rect:
         serializedVersion: 2
         x: 144
@@ -1216,7 +1216,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1230,7 +1230,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_39
+      name: Floor_Cave_06
       rect:
         serializedVersion: 2
         x: 160
@@ -1238,7 +1238,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1252,7 +1252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_40
+      name: Floor_Cave_07
       rect:
         serializedVersion: 2
         x: 144
@@ -1260,7 +1260,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1274,7 +1274,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_41
+      name: Floor_Cave_08
       rect:
         serializedVersion: 2
         x: 160
@@ -1282,7 +1282,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1296,7 +1296,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_42
+      name: Floor_Cave_09
       rect:
         serializedVersion: 2
         x: 144
@@ -1304,7 +1304,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1318,7 +1318,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_43
+      name: Floor_Cave_10
       rect:
         serializedVersion: 2
         x: 160
@@ -1326,7 +1326,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1340,7 +1340,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_44
+      name: Trap_Spikes_Cave_Brown_01
       rect:
         serializedVersion: 2
         x: 16
@@ -1348,7 +1348,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1362,7 +1362,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_45
+      name: Trap_Spikes_Cave_Brown_02
       rect:
         serializedVersion: 2
         x: 32
@@ -1370,7 +1370,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1384,7 +1384,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_46
+      name: Trap_Spikes_Cave_Brown_03
       rect:
         serializedVersion: 2
         x: 48
@@ -1392,7 +1392,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1406,7 +1406,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_47
+      name: Trap_Spikes_Cave_Brown_04
       rect:
         serializedVersion: 2
         x: 64
@@ -1414,7 +1414,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1428,7 +1428,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_48
+      name: Obj_Rocks_Cave_Brown_02
       rect:
         serializedVersion: 2
         x: 112
@@ -1436,7 +1436,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1450,7 +1450,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_49
+      name: Obj_Rocks_Cave_Brown_01
       rect:
         serializedVersion: 2
         x: 96
@@ -1458,7 +1458,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1472,7 +1472,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_51
+      name: Trap_Spikes_Cave_Red_01
       rect:
         serializedVersion: 2
         x: 16
@@ -1480,7 +1480,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1494,7 +1494,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_52
+      name: Trap_Spikes_Cave_Grey_01
       rect:
         serializedVersion: 2
         x: 16
@@ -1502,7 +1502,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1516,7 +1516,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_53
+      name: Trap_Spikes_Cave_Brown_05
       rect:
         serializedVersion: 2
         x: 16
@@ -1524,7 +1524,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1538,7 +1538,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_54
+      name: Trap_Spikes_Cave_Grey_05
       rect:
         serializedVersion: 2
         x: 16
@@ -1546,7 +1546,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1560,7 +1560,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_55
+      name: Trap_Spikes_Cave_Red_02
       rect:
         serializedVersion: 2
         x: 32
@@ -1568,7 +1568,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1582,7 +1582,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_56
+      name: Trap_Spikes_Cave_Grey_02
       rect:
         serializedVersion: 2
         x: 32
@@ -1590,7 +1590,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1604,7 +1604,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_57
+      name: Trap_Spikes_Cave_Brown_06
       rect:
         serializedVersion: 2
         x: 32
@@ -1612,7 +1612,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1626,7 +1626,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_58
+      name: Trap_Spikes_Cave_Grey_06
       rect:
         serializedVersion: 2
         x: 32
@@ -1634,7 +1634,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1648,7 +1648,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_59
+      name: Trap_Spikes_Cave_Red_03
       rect:
         serializedVersion: 2
         x: 48
@@ -1656,7 +1656,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1670,7 +1670,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_60
+      name: Trap_Spikes_Cave_Grey_03
       rect:
         serializedVersion: 2
         x: 48
@@ -1678,7 +1678,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1692,7 +1692,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_61
+      name: Trap_Spikes_Cave_Brown_07
       rect:
         serializedVersion: 2
         x: 48
@@ -1700,7 +1700,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1714,7 +1714,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_62
+      name: Trap_Spikes_Cave_Grey_07
       rect:
         serializedVersion: 2
         x: 48
@@ -1722,7 +1722,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1736,7 +1736,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_63
+      name: Trap_Spikes_Cave_Red_04
       rect:
         serializedVersion: 2
         x: 64
@@ -1744,7 +1744,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1758,7 +1758,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_64
+      name: Trap_Spikes_Cave_Grey_04
       rect:
         serializedVersion: 2
         x: 64
@@ -1766,7 +1766,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1780,7 +1780,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_65
+      name: Trap_Spikes_Cave_Brown_08
       rect:
         serializedVersion: 2
         x: 64
@@ -1788,7 +1788,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1802,7 +1802,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_66
+      name: Trap_Spikes_Cave_Grey_08
       rect:
         serializedVersion: 2
         x: 64
@@ -1810,7 +1810,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1824,7 +1824,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_68
+      name: Obj_Rocks_Cave_Grey_01
       rect:
         serializedVersion: 2
         x: 96
@@ -1832,7 +1832,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1846,7 +1846,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_69
+      name: Obj_Rocks_Cave_Grey_02
       rect:
         serializedVersion: 2
         x: 112
@@ -1854,7 +1854,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1868,7 +1868,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_50
+      name: Obj_LadderDown_Cave_Brown_01
       rect:
         serializedVersion: 2
         x: 16
@@ -1876,7 +1876,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1890,7 +1890,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_67
+      name: Obj_LadderDown_Cave_Grey_01
       rect:
         serializedVersion: 2
         x: 32
@@ -1898,7 +1898,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1912,7 +1912,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_70
+      name: Obj_LadderUp_Cave_01
       rect:
         serializedVersion: 2
         x: 48
@@ -1920,7 +1920,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1934,7 +1934,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_71
+      name: Obj_Pit_Cave_Brown_01
       rect:
         serializedVersion: 2
         x: 16
@@ -1942,7 +1942,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1956,7 +1956,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_72
+      name: Obj_Pit_Cave_Grey_01
       rect:
         serializedVersion: 2
         x: 32
@@ -1964,7 +1964,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1978,7 +1978,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_73
+      name: Obj_Jar_Cave_01
       rect:
         serializedVersion: 2
         x: 80
@@ -1986,7 +1986,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2000,7 +2000,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_74
+      name: Obj_Barrel_Cave_01
       rect:
         serializedVersion: 2
         x: 96
@@ -2008,7 +2008,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2022,7 +2022,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_75
+      name: Obj_GreenCrystal_Cave_01
       rect:
         serializedVersion: 2
         x: 80
@@ -2030,7 +2030,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2044,7 +2044,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_76
+      name: Obj_BlueCrystal_Cave_01
       rect:
         serializedVersion: 2
         x: 96
@@ -2052,7 +2052,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2066,7 +2066,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_77
+      name: Obj_PinkCrystal_Cave_01
       rect:
         serializedVersion: 2
         x: 112
@@ -2074,7 +2074,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2088,7 +2088,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_78
+      name: Obj_RedCrystal_Cave_01
       rect:
         serializedVersion: 2
         x: 128
@@ -2096,7 +2096,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2110,7 +2110,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_79
+      name: Obj_OrangeCrystal_Cave_01
       rect:
         serializedVersion: 2
         x: 144
@@ -2118,7 +2118,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2132,7 +2132,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_80
+      name: Obj_RedMushroom_Cave_01
       rect:
         serializedVersion: 2
         x: 160
@@ -2140,7 +2140,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2154,7 +2154,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_81
+      name: Obj_PurpleMushroom_Cave_01
       rect:
         serializedVersion: 2
         x: 176
@@ -2162,7 +2162,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2176,7 +2176,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_82
+      name: Obj_BrownMushroom_Cave_01
       rect:
         serializedVersion: 2
         x: 192
@@ -2184,7 +2184,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2198,7 +2198,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_83
+      name: Obj_Web_Cave_01
       rect:
         serializedVersion: 2
         x: 80
@@ -2206,7 +2206,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2220,7 +2220,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_84
+      name: Obj_Torch_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2228,7 +2228,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2242,7 +2242,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_85
+      name: Obj_Torch_02
       rect:
         serializedVersion: 2
         x: 32
@@ -2250,7 +2250,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2264,7 +2264,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_86
+      name: Obj_Torch_03
       rect:
         serializedVersion: 2
         x: 48
@@ -2272,7 +2272,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2286,7 +2286,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_87
+      name: Obj_Torch_04
       rect:
         serializedVersion: 2
         x: 64
@@ -2294,7 +2294,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2308,7 +2308,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_88
+      name: Obj_Torch_05
       rect:
         serializedVersion: 2
         x: 16
@@ -2316,7 +2316,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2330,7 +2330,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_89
+      name: Obj_Torch_06
       rect:
         serializedVersion: 2
         x: 32
@@ -2338,7 +2338,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2352,7 +2352,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_90
+      name: Obj_Torch_07
       rect:
         serializedVersion: 2
         x: 48
@@ -2360,7 +2360,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2374,7 +2374,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave_91
+      name: Obj_Torch_08
       rect:
         serializedVersion: 2
         x: 64
@@ -2382,7 +2382,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2411,98 +2411,98 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Cave_0: -1093897896430776101
-      Cave_1: 5613625410805641350
-      Cave_10: 5951026009885636841
-      Cave_11: -3044759361422347511
-      Cave_12: 3807257438876814715
-      Cave_13: 5154424330881927195
-      Cave_14: -1858677311074798011
-      Cave_15: 3648317675610061473
-      Cave_16: -4003172159838341851
-      Cave_17: -5157309767603549727
-      Cave_18: -6471723139270182898
-      Cave_19: -5529588739131890905
-      Cave_2: -6904588194007982752
-      Cave_20: 5948354285055753362
-      Cave_21: 4187717558725092431
-      Cave_22: 2411881627010439108
-      Cave_23: 6653805697104430333
-      Cave_24: 4244239831416960097
-      Cave_25: 7227647757889852921
-      Cave_26: 5069533796533631158
-      Cave_27: 1090660722530879022
-      Cave_28: -5623592684834184834
-      Cave_29: 7971197192407144449
-      Cave_3: -3599981608736371148
-      Cave_30: 2393700260515456483
-      Cave_31: 2102755085522077433
-      Cave_32: -3416502588600991543
-      Cave_33: 3990145827762845351
-      Cave_34: -4321843546192393771
-      Cave_35: -74852147716508962
-      Cave_36: 5255402647678035704
-      Cave_37: 815521065570224029
-      Cave_38: -4474518862555562805
-      Cave_39: 3634179334583146012
-      Cave_4: -166943357939834585
-      Cave_40: -5348950429000742298
-      Cave_41: -6136931885765687143
-      Cave_42: -7650241117986314312
-      Cave_43: 1953801423900347947
-      Cave_44: 1359065031941647734
-      Cave_45: -5097881634038695952
-      Cave_46: 1998721363228855649
-      Cave_47: -5893063533464086943
-      Cave_48: -3053336482757397513
-      Cave_49: 4702705888122386017
-      Cave_5: -3502186859281277887
-      Cave_50: -985498676680437112
-      Cave_51: 181858295025136395
-      Cave_52: 1206214499786741984
-      Cave_53: -1783797407961796594
-      Cave_54: 11632569220440843
-      Cave_55: 5862718738734931136
-      Cave_56: -3090878415604089370
-      Cave_57: -7038474981934870780
-      Cave_58: -1674448153255205306
-      Cave_59: 7457869990701804091
-      Cave_6: 8813304931990983627
-      Cave_60: 5181826367799490615
-      Cave_61: 5953697961525035299
-      Cave_62: -2176558167932423225
-      Cave_63: -4554895449258450804
-      Cave_64: 2282438728240979986
-      Cave_65: -7240881190747209004
-      Cave_66: -7664943965270236303
-      Cave_67: 2308260196085386651
-      Cave_68: 2947982938964403458
-      Cave_69: 1465048858064791944
-      Cave_7: -6688433147063477658
-      Cave_70: 8206873725086999944
-      Cave_71: 5821897364321837433
-      Cave_72: 3846937137370072442
-      Cave_73: 175103506833883212
-      Cave_74: -6767318990307368408
-      Cave_75: 3561660630540885450
-      Cave_76: 112904060633393334
-      Cave_77: 621257478721719223
-      Cave_78: 3346841061381526709
-      Cave_79: 8448022715977219979
-      Cave_8: 7316793297809730775
-      Cave_80: 1192981377402507746
-      Cave_81: -3346755894842147289
-      Cave_82: -8090050347504019940
-      Cave_83: -1542657304
-      Cave_84: -1539138533
-      Cave_85: -519555782
-      Cave_86: -1415725252
-      Cave_87: 41355970
-      Cave_88: -3694227
-      Cave_89: 93881240
-      Cave_9: -4845170792244362475
-      Cave_90: -1689403670
-      Cave_91: -517575218
+      Floor_Cave_01: -4321843546192393771
+      Floor_Cave_02: -74852147716508962
+      Floor_Cave_03: 5255402647678035704
+      Floor_Cave_04: 815521065570224029
+      Floor_Cave_05: -4474518862555562805
+      Floor_Cave_06: 3634179334583146012
+      Floor_Cave_07: -5348950429000742298
+      Floor_Cave_08: -6136931885765687143
+      Floor_Cave_09: -7650241117986314312
+      Floor_Cave_10: 1953801423900347947
+      Obj_Barrel_Cave_01: -6767318990307368408
+      Obj_BlueCrystal_Cave_01: 112904060633393334
+      Obj_BrownMushroom_Cave_01: -8090050347504019940
+      Obj_GreenCrystal_Cave_01: 3561660630540885450
+      Obj_Jar_Cave_01: 175103506833883212
+      Obj_LadderDown_Cave_Brown_01: -985498676680437112
+      Obj_LadderDown_Cave_Grey_01: 2308260196085386651
+      Obj_LadderUp_Cave_01: 8206873725086999944
+      Obj_OrangeCrystal_Cave_01: 8448022715977219979
+      Obj_PinkCrystal_Cave_01: 621257478721719223
+      Obj_Pit_Cave_Brown_01: 5821897364321837433
+      Obj_Pit_Cave_Grey_01: 3846937137370072442
+      Obj_PurpleMushroom_Cave_01: -3346755894842147289
+      Obj_RedCrystal_Cave_01: 3346841061381526709
+      Obj_RedMushroom_Cave_01: 1192981377402507746
+      Obj_Rocks_Cave_Brown_01: 4702705888122386017
+      Obj_Rocks_Cave_Brown_02: -3053336482757397513
+      Obj_Rocks_Cave_Grey_01: 2947982938964403458
+      Obj_Rocks_Cave_Grey_02: 1465048858064791944
+      Obj_Torch_01: -1539138533
+      Obj_Torch_02: -519555782
+      Obj_Torch_03: -1415725252
+      Obj_Torch_04: 41355970
+      Obj_Torch_05: -3694227
+      Obj_Torch_06: 93881240
+      Obj_Torch_07: -1689403670
+      Obj_Torch_08: -517575218
+      Obj_Web_Cave_01: -1542657304
+      Trap_Spikes_Cave_Brown_01: 1359065031941647734
+      Trap_Spikes_Cave_Brown_02: -5097881634038695952
+      Trap_Spikes_Cave_Brown_03: 1998721363228855649
+      Trap_Spikes_Cave_Brown_04: -5893063533464086943
+      Trap_Spikes_Cave_Brown_05: -1783797407961796594
+      Trap_Spikes_Cave_Brown_06: -7038474981934870780
+      Trap_Spikes_Cave_Brown_07: 5953697961525035299
+      Trap_Spikes_Cave_Brown_08: -7240881190747209004
+      Trap_Spikes_Cave_Grey_01: 1206214499786741984
+      Trap_Spikes_Cave_Grey_02: -3090878415604089370
+      Trap_Spikes_Cave_Grey_03: 5181826367799490615
+      Trap_Spikes_Cave_Grey_04: 2282438728240979986
+      Trap_Spikes_Cave_Grey_05: 11632569220440843
+      Trap_Spikes_Cave_Grey_06: -1674448153255205306
+      Trap_Spikes_Cave_Grey_07: -2176558167932423225
+      Trap_Spikes_Cave_Grey_08: -7664943965270236303
+      Trap_Spikes_Cave_Red_01: 181858295025136395
+      Trap_Spikes_Cave_Red_02: 5862718738734931136
+      Trap_Spikes_Cave_Red_03: 7457869990701804091
+      Trap_Spikes_Cave_Red_04: -4554895449258450804
+      Wall_Cave_Brown_01: -1093897896430776101
+      Wall_Cave_Brown_02: 5613625410805641350
+      Wall_Cave_Brown_03: -6904588194007982752
+      Wall_Cave_Brown_04: -3599981608736371148
+      Wall_Cave_Brown_05: -166943357939834585
+      Wall_Cave_Brown_06: -3502186859281277887
+      Wall_Cave_Brown_07: 8813304931990983627
+      Wall_Cave_Brown_08: -3044759361422347511
+      Wall_Cave_Brown_09: 5154424330881927195
+      Wall_Cave_Brown_10: -1858677311074798011
+      Wall_Cave_Brown_11: 3648317675610061473
+      Wall_Cave_Brown_12: -6688433147063477658
+      Wall_Cave_Brown_13: 3807257438876814715
+      Wall_Cave_Brown_14: -4003172159838341851
+      Wall_Cave_Brown_15: -5157309767603549727
+      Wall_Cave_Brown_16: -6471723139270182898
+      Wall_Cave_Brown_Doorway: -5529588739131890905
+      Wall_Cave_Grey_01: 7316793297809730775
+      Wall_Cave_Grey_02: 5948354285055753362
+      Wall_Cave_Grey_03: 6653805697104430333
+      Wall_Cave_Grey_04: 4244239831416960097
+      Wall_Cave_Grey_05: 7227647757889852921
+      Wall_Cave_Grey_06: 5069533796533631158
+      Wall_Cave_Grey_07: -4845170792244362475
+      Wall_Cave_Grey_08: 4187717558725092431
+      Wall_Cave_Grey_09: 1090660722530879022
+      Wall_Cave_Grey_10: 7971197192407144449
+      Wall_Cave_Grey_11: 2393700260515456483
+      Wall_Cave_Grey_12: 5951026009885636841
+      Wall_Cave_Grey_13: 2411881627010439108
+      Wall_Cave_Grey_14: -5623592684834184834
+      Wall_Cave_Grey_15: 2102755085522077433
+      Wall_Cave_Grey_16: -3416502588600991543
+      Wall_Cave_Grey_Doorway: 3990145827762845351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

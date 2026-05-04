@@ -780,7 +780,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cave-Obsidian_0
+      name: Wall_Obsidian_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -802,7 +802,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_1
+      name: Wall_Obsidian_Dark_02
       rect:
         serializedVersion: 2
         x: 32
@@ -824,7 +824,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_2
+      name: Wall_Obsidian_Dark_03
       rect:
         serializedVersion: 2
         x: 48
@@ -846,7 +846,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_3
+      name: Wall_Obsidian_Dark_04
       rect:
         serializedVersion: 2
         x: 64
@@ -868,7 +868,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_4
+      name: Wall_Obsidian_Dark_05
       rect:
         serializedVersion: 2
         x: 80
@@ -890,7 +890,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_5
+      name: Wall_Obsidian_Dark_06
       rect:
         serializedVersion: 2
         x: 96
@@ -912,7 +912,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_6
+      name: Wall_Obsidian_Dark_07
       rect:
         serializedVersion: 2
         x: 16
@@ -934,7 +934,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_7
+      name: Wall_Obsidian_Dark_12
       rect:
         serializedVersion: 2
         x: 16
@@ -956,7 +956,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_8
+      name: Wall_Obsidian_Dark_08
       rect:
         serializedVersion: 2
         x: 32
@@ -978,7 +978,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_9
+      name: Wall_Obsidian_Dark_13
       rect:
         serializedVersion: 2
         x: 32
@@ -1000,7 +1000,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_10
+      name: Wall_Obsidian_Dark_09
       rect:
         serializedVersion: 2
         x: 48
@@ -1022,7 +1022,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_11
+      name: Wall_Obsidian_Dark_14
       rect:
         serializedVersion: 2
         x: 48
@@ -1044,7 +1044,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_12
+      name: Wall_Obsidian_Dark_10
       rect:
         serializedVersion: 2
         x: 64
@@ -1066,7 +1066,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_13
+      name: Wall_Obsidian_Dark_11
       rect:
         serializedVersion: 2
         x: 80
@@ -1088,7 +1088,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_14
+      name: Wall_Obsidian_Dark_15
       rect:
         serializedVersion: 2
         x: 64
@@ -1110,7 +1110,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_15
+      name: Wall_Obsidian_Dark_16
       rect:
         serializedVersion: 2
         x: 80
@@ -1132,7 +1132,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_16
+      name: Obj_Rocks_Obsidian_Dark_01
       rect:
         serializedVersion: 2
         x: 96
@@ -1154,7 +1154,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_17
+      name: Obj_Rocks_Obsidian_Dark_02
       rect:
         serializedVersion: 2
         x: 112
@@ -1176,7 +1176,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_18
+      name: Wall_Obsidian_Dark_Doorway_01
       rect:
         serializedVersion: 2
         x: 96
@@ -1198,7 +1198,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_19
+      name: Wall_Obsidian_Dark_ClosedDoorway_01
       rect:
         serializedVersion: 2
         x: 112
@@ -1220,7 +1220,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_20
+      name: Obj_Rocks_Obsidian_Light_01
       rect:
         serializedVersion: 2
         x: 224
@@ -1242,7 +1242,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_21
+      name: Wall_Obsidian_Light_06
       rect:
         serializedVersion: 2
         x: 224
@@ -1264,7 +1264,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_22
+      name: Obj_Rocks_Obsidian_Light_02
       rect:
         serializedVersion: 2
         x: 240
@@ -1286,7 +1286,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_23
+      name: Wall_Obsidian_Light_ClosedDoorway_01
       rect:
         serializedVersion: 2
         x: 240
@@ -1308,7 +1308,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_24
+      name: Wall_Obsidian_Light_Doorway_01
       rect:
         serializedVersion: 2
         x: 224
@@ -1330,7 +1330,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_25
+      name: Wall_Obsidian_Light_05
       rect:
         serializedVersion: 2
         x: 208
@@ -1352,7 +1352,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_26
+      name: Wall_Obsidian_Light_04
       rect:
         serializedVersion: 2
         x: 192
@@ -1374,7 +1374,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_27
+      name: Wall_Obsidian_Light_03
       rect:
         serializedVersion: 2
         x: 176
@@ -1396,7 +1396,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_28
+      name: Wall_Obsidian_Light_02
       rect:
         serializedVersion: 2
         x: 160
@@ -1418,7 +1418,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_29
+      name: Wall_Obsidian_Light_01
       rect:
         serializedVersion: 2
         x: 144
@@ -1440,7 +1440,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_30
+      name: Wall_Obsidian_Light_07
       rect:
         serializedVersion: 2
         x: 144
@@ -1462,7 +1462,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_31
+      name: Wall_Obsidian_Light_12
       rect:
         serializedVersion: 2
         x: 144
@@ -1484,7 +1484,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_32
+      name: Wall_Obsidian_Light_13
       rect:
         serializedVersion: 2
         x: 160
@@ -1506,7 +1506,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_33
+      name: Wall_Obsidian_Light_08
       rect:
         serializedVersion: 2
         x: 160
@@ -1528,7 +1528,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_34
+      name: Wall_Obsidian_Light_09
       rect:
         serializedVersion: 2
         x: 176
@@ -1550,7 +1550,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_35
+      name: Wall_Obsidian_Light_14
       rect:
         serializedVersion: 2
         x: 176
@@ -1572,7 +1572,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_36
+      name: Wall_Obsidian_Light_10
       rect:
         serializedVersion: 2
         x: 192
@@ -1594,7 +1594,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_37
+      name: Wall_Obsidian_Light_11
       rect:
         serializedVersion: 2
         x: 208
@@ -1616,7 +1616,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_38
+      name: Wall_Obsidian_Light_15
       rect:
         serializedVersion: 2
         x: 192
@@ -1638,7 +1638,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_39
+      name: Wall_Obsidian_Light_16
       rect:
         serializedVersion: 2
         x: 208
@@ -1660,7 +1660,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_40
+      name: Obj_Pit_Obsidian_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -1682,7 +1682,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_41
+      name: Obj_Pit_Obsidian_Dark_02
       rect:
         serializedVersion: 2
         x: 32
@@ -1704,7 +1704,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_42
+      name: Obj_Pit_Obsidian_Dark_03
       rect:
         serializedVersion: 2
         x: 48
@@ -1726,7 +1726,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_43
+      name: Obj_Grate_Obsidian_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -1748,7 +1748,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_44
+      name: Obj_Grate_Obsidian_Dark_02
       rect:
         serializedVersion: 2
         x: 32
@@ -1770,7 +1770,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_45
+      name: Obj_Grate_Obsidian_Dark_03
       rect:
         serializedVersion: 2
         x: 48
@@ -1792,7 +1792,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_46
+      name: Obj_StairsDown_Obsidian_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -1814,7 +1814,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_47
+      name: Obj_StairsUp_Obsidian_Dark_01
       rect:
         serializedVersion: 2
         x: 32
@@ -1836,7 +1836,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_48
+      name: Obj_Pit_Obsidian_Light_01
       rect:
         serializedVersion: 2
         x: 144
@@ -1858,7 +1858,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_49
+      name: Obj_Pit_Obsidian_Light_02
       rect:
         serializedVersion: 2
         x: 160
@@ -1880,7 +1880,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_50
+      name: Obj_Pit_Obsidian_Light_03
       rect:
         serializedVersion: 2
         x: 176
@@ -1902,7 +1902,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_51
+      name: Obj_Grate_Obsidian_Light_01
       rect:
         serializedVersion: 2
         x: 144
@@ -1924,7 +1924,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_52
+      name: Obj_StairsDown_Obsidian_Light_01
       rect:
         serializedVersion: 2
         x: 144
@@ -1946,7 +1946,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_53
+      name: Obj_Grate_Obsidian_Light_02
       rect:
         serializedVersion: 2
         x: 160
@@ -1968,7 +1968,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_54
+      name: Obj_StairsUp_Obsidian_Light_01
       rect:
         serializedVersion: 2
         x: 160
@@ -1990,7 +1990,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_55
+      name: Obj_Grate_Obsidian_Light_03
       rect:
         serializedVersion: 2
         x: 176
@@ -2012,7 +2012,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_56
+      name: Obj_Spike_Obsidian_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2034,7 +2034,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_57
+      name: Obj_Spike_Obsidian_Dark_02
       rect:
         serializedVersion: 2
         x: 32
@@ -2056,7 +2056,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_58
+      name: Obj_Spike_Obsidian_Light_02
       rect:
         serializedVersion: 2
         x: 160
@@ -2078,7 +2078,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_59
+      name: Obj_Spike_Obsidian_Light_01
       rect:
         serializedVersion: 2
         x: 144
@@ -2100,7 +2100,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_60
+      name: Obj_Rocks_Obsidian_Dark_03
       rect:
         serializedVersion: 2
         x: 16
@@ -2122,7 +2122,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_61
+      name: Obj_Rocks_Obsidian_Dark_04
       rect:
         serializedVersion: 2
         x: 32
@@ -2144,7 +2144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_62
+      name: Obj_Rocks_Obsidian_Dark_05
       rect:
         serializedVersion: 2
         x: 48
@@ -2166,7 +2166,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_63
+      name: Obj_Rocks_Obsidian_Dark_06
       rect:
         serializedVersion: 2
         x: 64
@@ -2188,7 +2188,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_64
+      name: Obj_Rocks_Obsidian_Dark_09
       rect:
         serializedVersion: 2
         x: 16
@@ -2210,7 +2210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_65
+      name: Obj_Rocks_Obsidian_Dark_10
       rect:
         serializedVersion: 2
         x: 32
@@ -2232,7 +2232,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_66
+      name: Obj_Rocks_Obsidian_Dark_11
       rect:
         serializedVersion: 2
         x: 48
@@ -2254,7 +2254,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_67
+      name: Obj_Rocks_Obsidian_Dark_12
       rect:
         serializedVersion: 2
         x: 64
@@ -2276,7 +2276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_68
+      name: Obj_Rocks_Obsidian_Dark_07
       rect:
         serializedVersion: 2
         x: 80
@@ -2298,7 +2298,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_69
+      name: Obj_Rocks_Obsidian_Dark_13
       rect:
         serializedVersion: 2
         x: 80
@@ -2320,7 +2320,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_70
+      name: Obj_Rocks_Obsidian_Dark_08
       rect:
         serializedVersion: 2
         x: 96
@@ -2342,7 +2342,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_71
+      name: Obj_Rocks_Obsidian_Dark_14
       rect:
         serializedVersion: 2
         x: 96
@@ -2364,7 +2364,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_72
+      name: Obj_Rocks_Obsidian_Light_08
       rect:
         serializedVersion: 2
         x: 224
@@ -2386,7 +2386,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_73
+      name: Obj_Rocks_Obsidian_Light_07
       rect:
         serializedVersion: 2
         x: 208
@@ -2408,7 +2408,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_74
+      name: Obj_Rocks_Obsidian_Light_06
       rect:
         serializedVersion: 2
         x: 192
@@ -2430,7 +2430,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_75
+      name: Obj_Rocks_Obsidian_Light_05
       rect:
         serializedVersion: 2
         x: 176
@@ -2452,7 +2452,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_76
+      name: Obj_Rocks_Obsidian_Light_04
       rect:
         serializedVersion: 2
         x: 160
@@ -2474,7 +2474,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_77
+      name: Obj_Rocks_Obsidian_Light_03
       rect:
         serializedVersion: 2
         x: 144
@@ -2496,7 +2496,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_78
+      name: Obj_Rocks_Obsidian_Light_09
       rect:
         serializedVersion: 2
         x: 144
@@ -2518,7 +2518,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_79
+      name: Obj_Rocks_Obsidian_Light_10
       rect:
         serializedVersion: 2
         x: 160
@@ -2540,7 +2540,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_80
+      name: Obj_Rocks_Obsidian_Light_11
       rect:
         serializedVersion: 2
         x: 176
@@ -2562,7 +2562,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_81
+      name: Obj_Rocks_Obsidian_Light_12
       rect:
         serializedVersion: 2
         x: 192
@@ -2584,7 +2584,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_82
+      name: Obj_Rocks_Obsidian_Light_13
       rect:
         serializedVersion: 2
         x: 208
@@ -2606,7 +2606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_83
+      name: Obj_Rocks_Obsidian_Light_14
       rect:
         serializedVersion: 2
         x: 224
@@ -2628,7 +2628,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_84
+      name: Obj_BigRocks_Obsidian_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2650,7 +2650,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_85
+      name: Obj_BigRocks_Obsidian_Dark_02
       rect:
         serializedVersion: 2
         x: 16
@@ -2672,7 +2672,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_86
+      name: Obj_BigRocks_Obsidian_Light_01
       rect:
         serializedVersion: 2
         x: 144
@@ -2694,7 +2694,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_87
+      name: Obj_BigRocks_Obsidian_Light_02
       rect:
         serializedVersion: 2
         x: 144
@@ -2716,7 +2716,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_88
+      name: Obj_LadderDown_Obsidian_Dark_01
       rect:
         serializedVersion: 2
         x: 16
@@ -2724,7 +2724,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2738,7 +2738,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_89
+      name: Obj_LadderDown_Obsidian_Dark_02
       rect:
         serializedVersion: 2
         x: 32
@@ -2746,7 +2746,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2760,7 +2760,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_90
+      name: Obj_LadderDown_Obsidian_Dark_03
       rect:
         serializedVersion: 2
         x: 48
@@ -2768,7 +2768,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2782,7 +2782,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_91
+      name: Obj_LadderUp_Obsidian_Dark_01
       rect:
         serializedVersion: 2
         x: 64
@@ -2790,7 +2790,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2804,7 +2804,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_92
+      name: Obj_LadderUp_Obsidian_Dark_02
       rect:
         serializedVersion: 2
         x: 80
@@ -2812,7 +2812,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2826,7 +2826,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_93
+      name: Obj_LadderDown_Obsidian_Light_01
       rect:
         serializedVersion: 2
         x: 144
@@ -2834,7 +2834,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2848,7 +2848,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_94
+      name: Obj_LadderDown_Obsidian_Light_02
       rect:
         serializedVersion: 2
         x: 160
@@ -2856,7 +2856,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2870,7 +2870,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_95
+      name: Obj_LadderDown_Obsidian_Light_03
       rect:
         serializedVersion: 2
         x: 176
@@ -2878,7 +2878,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2892,7 +2892,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_96
+      name: Obj_LadderUp_Obsidian_Light_01
       rect:
         serializedVersion: 2
         x: 192
@@ -2900,7 +2900,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2914,11 +2914,33 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cave-Obsidian_97
+      name: Obj_LadderUp_Obsidian_Light_02
       rect:
         serializedVersion: 2
         x: 208
         y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62622d02a56a78a43b026ca459252cd6
+      internalID: -171662914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Obsidian_Dark_01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
         width: 16
         height: 16
       alignment: 0
@@ -2929,8 +2951,162 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62622d02a56a78a43b026ca459252cd6
-      internalID: -171662914
+      spriteID: cc98aa2e941918c4996f1e205b8e632c
+      internalID: -192994595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Obsidian_Dark_02
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580364b33da3a8f438b5a0fd169d1eb6
+      internalID: 1300040500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Obsidian_Dark_03
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e2924d252794048bb9e75be2e1b38d
+      internalID: 1076620865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Obsidian_Dark_04
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942121f806fca47418113e866aa75a2c
+      internalID: 65724598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Obsidian_Light_01
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775ecb7aff3c63143a4c2f018439e9c4
+      internalID: -1857476525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Obsidian_Light_02
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f75856b44fd52a4d9712f2699144732
+      internalID: -1020167393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Obsidian_Light_03
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e98892aec47054b99c3f234d4781f4
+      internalID: -915743831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spikes_Obsidian_Light_04
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924e25afa7eab154ca9d49506068b1f2
+      internalID: 1193674565
       vertices: []
       indices: 
       edges: []
@@ -2951,104 +3127,112 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Cave-Obsidian_0: 8714908718420996608
-      Cave-Obsidian_1: 2636348321199672311
-      Cave-Obsidian_10: 6690470899243529109
-      Cave-Obsidian_11: -2442879161492535484
-      Cave-Obsidian_12: 5736513070218438877
-      Cave-Obsidian_13: 2668467040239574169
-      Cave-Obsidian_14: -2559056948651977447
-      Cave-Obsidian_15: -449462951212074381
-      Cave-Obsidian_16: 2253827931381472313
-      Cave-Obsidian_17: -8452134311360785120
-      Cave-Obsidian_18: 8902632218116985791
-      Cave-Obsidian_19: 4366174546593601506
-      Cave-Obsidian_2: 6561843279828535849
-      Cave-Obsidian_20: 312180457464706348
-      Cave-Obsidian_21: -6822198442752451101
-      Cave-Obsidian_22: 8191947504761185996
-      Cave-Obsidian_23: -5382259464943128570
-      Cave-Obsidian_24: 2090898902046930581
-      Cave-Obsidian_25: -8364420724129553556
-      Cave-Obsidian_26: -2246679698230328872
-      Cave-Obsidian_27: -325402140934494561
-      Cave-Obsidian_28: -7494387161686863583
-      Cave-Obsidian_29: -1519253098659066378
-      Cave-Obsidian_3: 4848393020743923169
-      Cave-Obsidian_30: -690673349614862832
-      Cave-Obsidian_31: -2673962260673871675
-      Cave-Obsidian_32: 1759285580542207923
-      Cave-Obsidian_33: -5153573961589609829
-      Cave-Obsidian_34: -1881101558837500608
-      Cave-Obsidian_35: 391864069711923721
-      Cave-Obsidian_36: -4692915057442459970
-      Cave-Obsidian_37: -10854262534001053
-      Cave-Obsidian_38: -5383827561088267321
-      Cave-Obsidian_39: -2264340476853703675
-      Cave-Obsidian_4: 1777204393555112753
-      Cave-Obsidian_40: -5430372986609668986
-      Cave-Obsidian_41: 5836663873708824746
-      Cave-Obsidian_42: 4797463371699853626
-      Cave-Obsidian_43: 2915690924825342863
-      Cave-Obsidian_44: -7845327965782474380
-      Cave-Obsidian_45: -2845492185002755317
-      Cave-Obsidian_46: 4458335548421452960
-      Cave-Obsidian_47: -4404234554082941721
-      Cave-Obsidian_48: -4828777775058604990
-      Cave-Obsidian_49: -61124344053028992
-      Cave-Obsidian_5: 875740666271830044
-      Cave-Obsidian_50: -3753298072006830125
-      Cave-Obsidian_51: 1194622103786514449
-      Cave-Obsidian_52: 8457533930688537336
-      Cave-Obsidian_53: 1319250677051416399
-      Cave-Obsidian_54: 8393259473826542708
-      Cave-Obsidian_55: 7596034115149128970
-      Cave-Obsidian_56: -5338699753444676215
-      Cave-Obsidian_57: -2989117981099063304
-      Cave-Obsidian_58: -6365036649665107683
-      Cave-Obsidian_59: -2896581678389113767
-      Cave-Obsidian_6: 1293130397616714105
-      Cave-Obsidian_60: -2650350361786391974
-      Cave-Obsidian_61: -2829232246041401410
-      Cave-Obsidian_62: 291072900823905754
-      Cave-Obsidian_63: -7286855394349390006
-      Cave-Obsidian_64: -7872514721406629290
-      Cave-Obsidian_65: -1615852691650043663
-      Cave-Obsidian_66: 309678891573965312
-      Cave-Obsidian_67: 4374513110429943336
-      Cave-Obsidian_68: 1457153738443750722
-      Cave-Obsidian_69: 1406171582140182665
-      Cave-Obsidian_7: 3005773585023163878
-      Cave-Obsidian_70: -2085576233733487617
-      Cave-Obsidian_71: 4886292018459570112
-      Cave-Obsidian_72: -1583768677747508130
-      Cave-Obsidian_73: -1053724586864358690
-      Cave-Obsidian_74: 6404124738971699452
-      Cave-Obsidian_75: 2900633941474289002
-      Cave-Obsidian_76: -7750546506995371511
-      Cave-Obsidian_77: -205898215853917794
-      Cave-Obsidian_78: -9723256388474399
-      Cave-Obsidian_79: -4111979963146205709
-      Cave-Obsidian_8: 95367145455772945
-      Cave-Obsidian_80: -6383383415806795124
-      Cave-Obsidian_81: -9142365724336737725
-      Cave-Obsidian_82: 7000354345715953368
-      Cave-Obsidian_83: -8389274253661847046
-      Cave-Obsidian_84: -5449389455520996558
-      Cave-Obsidian_85: -5612905732940092201
-      Cave-Obsidian_86: -2437252929608274723
-      Cave-Obsidian_87: 7666779348739913446
-      Cave-Obsidian_88: 1623042534
-      Cave-Obsidian_89: 1376149615
-      Cave-Obsidian_9: 7040733595599441178
-      Cave-Obsidian_90: 2027671751
-      Cave-Obsidian_91: 1312896035
-      Cave-Obsidian_92: -984040838
-      Cave-Obsidian_93: 120710995
-      Cave-Obsidian_94: 611338413
-      Cave-Obsidian_95: -1276209514
-      Cave-Obsidian_96: 766445938
-      Cave-Obsidian_97: -171662914
+      Obj_BigRocks_Obsidian_Dark_01: -5449389455520996558
+      Obj_BigRocks_Obsidian_Dark_02: -5612905732940092201
+      Obj_BigRocks_Obsidian_Light_01: -2437252929608274723
+      Obj_BigRocks_Obsidian_Light_02: 7666779348739913446
+      Obj_Grate_Obsidian_Dark_01: 2915690924825342863
+      Obj_Grate_Obsidian_Dark_02: -7845327965782474380
+      Obj_Grate_Obsidian_Dark_03: -2845492185002755317
+      Obj_Grate_Obsidian_Light_01: 1194622103786514449
+      Obj_Grate_Obsidian_Light_02: 1319250677051416399
+      Obj_Grate_Obsidian_Light_03: 7596034115149128970
+      Obj_LadderDown_Obsidian_Dark_01: 1623042534
+      Obj_LadderDown_Obsidian_Dark_02: 1376149615
+      Obj_LadderDown_Obsidian_Dark_03: 2027671751
+      Obj_LadderDown_Obsidian_Light_01: 120710995
+      Obj_LadderDown_Obsidian_Light_02: 611338413
+      Obj_LadderDown_Obsidian_Light_03: -1276209514
+      Obj_LadderUp_Obsidian_Dark_01: 1312896035
+      Obj_LadderUp_Obsidian_Dark_02: -984040838
+      Obj_LadderUp_Obsidian_Light_01: 766445938
+      Obj_LadderUp_Obsidian_Light_02: -171662914
+      Obj_Pit_Obsidian_Dark_01: -5430372986609668986
+      Obj_Pit_Obsidian_Dark_02: 5836663873708824746
+      Obj_Pit_Obsidian_Dark_03: 4797463371699853626
+      Obj_Pit_Obsidian_Light_01: -4828777775058604990
+      Obj_Pit_Obsidian_Light_02: -61124344053028992
+      Obj_Pit_Obsidian_Light_03: -3753298072006830125
+      Obj_Rocks_Obsidian_Dark_01: 2253827931381472313
+      Obj_Rocks_Obsidian_Dark_02: -8452134311360785120
+      Obj_Rocks_Obsidian_Dark_03: -2650350361786391974
+      Obj_Rocks_Obsidian_Dark_04: -2829232246041401410
+      Obj_Rocks_Obsidian_Dark_05: 291072900823905754
+      Obj_Rocks_Obsidian_Dark_06: -7286855394349390006
+      Obj_Rocks_Obsidian_Dark_07: 1457153738443750722
+      Obj_Rocks_Obsidian_Dark_08: -2085576233733487617
+      Obj_Rocks_Obsidian_Dark_09: -7872514721406629290
+      Obj_Rocks_Obsidian_Dark_10: -1615852691650043663
+      Obj_Rocks_Obsidian_Dark_11: 309678891573965312
+      Obj_Rocks_Obsidian_Dark_12: 4374513110429943336
+      Obj_Rocks_Obsidian_Dark_13: 1406171582140182665
+      Obj_Rocks_Obsidian_Dark_14: 4886292018459570112
+      Obj_Rocks_Obsidian_Light_01: 312180457464706348
+      Obj_Rocks_Obsidian_Light_02: 8191947504761185996
+      Obj_Rocks_Obsidian_Light_03: -205898215853917794
+      Obj_Rocks_Obsidian_Light_04: -7750546506995371511
+      Obj_Rocks_Obsidian_Light_05: 2900633941474289002
+      Obj_Rocks_Obsidian_Light_06: 6404124738971699452
+      Obj_Rocks_Obsidian_Light_07: -1053724586864358690
+      Obj_Rocks_Obsidian_Light_08: -1583768677747508130
+      Obj_Rocks_Obsidian_Light_09: -9723256388474399
+      Obj_Rocks_Obsidian_Light_10: -4111979963146205709
+      Obj_Rocks_Obsidian_Light_11: -6383383415806795124
+      Obj_Rocks_Obsidian_Light_12: -9142365724336737725
+      Obj_Rocks_Obsidian_Light_13: 7000354345715953368
+      Obj_Rocks_Obsidian_Light_14: -8389274253661847046
+      Obj_Spike_Obsidian_Dark_01: -5338699753444676215
+      Obj_Spike_Obsidian_Dark_02: -2989117981099063304
+      Obj_Spike_Obsidian_Light_01: -2896581678389113767
+      Obj_Spike_Obsidian_Light_02: -6365036649665107683
+      Obj_StairsDown_Obsidian_Dark_01: 4458335548421452960
+      Obj_StairsDown_Obsidian_Light_01: 8457533930688537336
+      Obj_StairsUp_Obsidian_Dark_01: -4404234554082941721
+      Obj_StairsUp_Obsidian_Light_01: 8393259473826542708
+      Trap_Spikes_Obsidian_Dark_01: -192994595
+      Trap_Spikes_Obsidian_Dark_02: 1300040500
+      Trap_Spikes_Obsidian_Dark_03: 1076620865
+      Trap_Spikes_Obsidian_Dark_04: 65724598
+      Trap_Spikes_Obsidian_Light_01: -1857476525
+      Trap_Spikes_Obsidian_Light_02: -1020167393
+      Trap_Spikes_Obsidian_Light_03: -915743831
+      Trap_Spikes_Obsidian_Light_04: 1193674565
+      Wall_Obsidian_Dark_01: 8714908718420996608
+      Wall_Obsidian_Dark_02: 2636348321199672311
+      Wall_Obsidian_Dark_03: 6561843279828535849
+      Wall_Obsidian_Dark_04: 4848393020743923169
+      Wall_Obsidian_Dark_05: 1777204393555112753
+      Wall_Obsidian_Dark_06: 875740666271830044
+      Wall_Obsidian_Dark_07: 1293130397616714105
+      Wall_Obsidian_Dark_08: 95367145455772945
+      Wall_Obsidian_Dark_09: 6690470899243529109
+      Wall_Obsidian_Dark_10: 5736513070218438877
+      Wall_Obsidian_Dark_11: 2668467040239574169
+      Wall_Obsidian_Dark_12: 3005773585023163878
+      Wall_Obsidian_Dark_13: 7040733595599441178
+      Wall_Obsidian_Dark_14: -2442879161492535484
+      Wall_Obsidian_Dark_15: -2559056948651977447
+      Wall_Obsidian_Dark_16: -449462951212074381
+      Wall_Obsidian_Dark_ClosedDoorway_01: 4366174546593601506
+      Wall_Obsidian_Dark_Doorway_01: 8902632218116985791
+      Wall_Obsidian_Light_01: -1519253098659066378
+      Wall_Obsidian_Light_02: -7494387161686863583
+      Wall_Obsidian_Light_03: -325402140934494561
+      Wall_Obsidian_Light_04: -2246679698230328872
+      Wall_Obsidian_Light_05: -8364420724129553556
+      Wall_Obsidian_Light_06: -6822198442752451101
+      Wall_Obsidian_Light_07: -690673349614862832
+      Wall_Obsidian_Light_08: -5153573961589609829
+      Wall_Obsidian_Light_09: -1881101558837500608
+      Wall_Obsidian_Light_10: -4692915057442459970
+      Wall_Obsidian_Light_11: -10854262534001053
+      Wall_Obsidian_Light_12: -2673962260673871675
+      Wall_Obsidian_Light_13: 1759285580542207923
+      Wall_Obsidian_Light_14: 391864069711923721
+      Wall_Obsidian_Light_15: -5383827561088267321
+      Wall_Obsidian_Light_16: -2264340476853703675
+      Wall_Obsidian_Light_ClosedDoorway_01: -5382259464943128570
+      Wall_Obsidian_Light_Doorway_01: 2090898902046930581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

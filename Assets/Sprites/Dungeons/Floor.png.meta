@@ -198,7 +198,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Floor_0
+      name: Floor_Rocks_Floors_01
       rect:
         serializedVersion: 2
         x: 16
@@ -206,7 +206,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -220,7 +220,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_1
+      name: Floor_Rocks_Floors_02
       rect:
         serializedVersion: 2
         x: 32
@@ -228,7 +228,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -242,7 +242,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_2
+      name: Floor_Rocks_Floors_03
       rect:
         serializedVersion: 2
         x: 48
@@ -250,7 +250,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -264,7 +264,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_3
+      name: Floor_Rocks_Floors_04
       rect:
         serializedVersion: 2
         x: 16
@@ -272,7 +272,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -286,7 +286,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_4
+      name: Floor_Rocks_Floors_05
       rect:
         serializedVersion: 2
         x: 32
@@ -294,7 +294,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -308,7 +308,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_5
+      name: Floor_Rocks_Floors_06
       rect:
         serializedVersion: 2
         x: 48
@@ -316,7 +316,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -330,7 +330,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_6
+      name: Floor_Rocks_Floors_07
       rect:
         serializedVersion: 2
         x: 16
@@ -338,7 +338,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -352,7 +352,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_7
+      name: Floor_Rocks_Floors_10
       rect:
         serializedVersion: 2
         x: 16
@@ -360,7 +360,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -374,7 +374,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_8
+      name: Floor_Rocks_Floors_13
       rect:
         serializedVersion: 2
         x: 16
@@ -382,7 +382,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -396,7 +396,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_9
+      name: Floor_Rocks_Floors_08
       rect:
         serializedVersion: 2
         x: 32
@@ -404,7 +404,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -418,7 +418,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_10
+      name: Floor_Rocks_Floors_11
       rect:
         serializedVersion: 2
         x: 32
@@ -426,7 +426,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -440,7 +440,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_11
+      name: Floor_Rocks_Floors_14
       rect:
         serializedVersion: 2
         x: 32
@@ -448,7 +448,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -462,7 +462,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_12
+      name: Floor_Rocks_Floors_09
       rect:
         serializedVersion: 2
         x: 48
@@ -470,7 +470,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -484,7 +484,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_13
+      name: Floor_Rocks_Floors_12
       rect:
         serializedVersion: 2
         x: 48
@@ -492,7 +492,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -506,7 +506,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_14
+      name: Floor_Rocks_Floors_15
       rect:
         serializedVersion: 2
         x: 48
@@ -514,7 +514,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -528,7 +528,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_15
+      name: Floor_Smoke_Floors_01
       rect:
         serializedVersion: 2
         x: 16
@@ -536,7 +536,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -550,7 +550,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_16
+      name: Floor_Smoke_Floors_04
       rect:
         serializedVersion: 2
         x: 16
@@ -558,7 +558,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -572,7 +572,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_17
+      name: Floor_Smoke_Floors_02
       rect:
         serializedVersion: 2
         x: 32
@@ -580,7 +580,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -594,7 +594,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_18
+      name: Floor_Smoke_Floors_05
       rect:
         serializedVersion: 2
         x: 32
@@ -602,7 +602,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -616,7 +616,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_19
+      name: Floor_Smoke_Floors_03
       rect:
         serializedVersion: 2
         x: 48
@@ -624,7 +624,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -638,7 +638,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_20
+      name: Floor_Smoke_Floors_06
       rect:
         serializedVersion: 2
         x: 48
@@ -646,7 +646,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -660,7 +660,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_21
+      name: Floor_Spikes_Floors_01
       rect:
         serializedVersion: 2
         x: 16
@@ -668,7 +668,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -682,7 +682,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_22
+      name: Floor_Spikes_Floors_04
       rect:
         serializedVersion: 2
         x: 16
@@ -690,7 +690,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -704,7 +704,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_23
+      name: Floor_Spikes_Floors_07
       rect:
         serializedVersion: 2
         x: 16
@@ -712,7 +712,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -726,7 +726,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_24
+      name: Floor_Spikes_Floors_02
       rect:
         serializedVersion: 2
         x: 32
@@ -734,7 +734,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -748,7 +748,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_25
+      name: Floor_Spikes_Floors_03
       rect:
         serializedVersion: 2
         x: 48
@@ -756,7 +756,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -770,7 +770,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_26
+      name: Floor_Spikes_Floors_05
       rect:
         serializedVersion: 2
         x: 32
@@ -778,7 +778,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -792,7 +792,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_27
+      name: Floor_Spikes_Floors_08
       rect:
         serializedVersion: 2
         x: 32
@@ -800,7 +800,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -814,7 +814,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_28
+      name: Floor_Spikes_Floors_06
       rect:
         serializedVersion: 2
         x: 48
@@ -822,7 +822,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -836,7 +836,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_29
+      name: Floor_Spikes_Floors_09
       rect:
         serializedVersion: 2
         x: 48
@@ -844,7 +844,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -858,7 +858,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_30
+      name: Floor_Bones_Floors_01
       rect:
         serializedVersion: 2
         x: 16
@@ -866,7 +866,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -880,7 +880,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_31
+      name: Floor_Bones_Floors_02
       rect:
         serializedVersion: 2
         x: 32
@@ -888,7 +888,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -902,7 +902,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_32
+      name: Floor_Bones_Floors_03
       rect:
         serializedVersion: 2
         x: 48
@@ -910,7 +910,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -924,7 +924,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_33
+      name: Floor_Bones_Floors_04
       rect:
         serializedVersion: 2
         x: 16
@@ -932,7 +932,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -946,7 +946,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_34
+      name: Floor_Bones_Floors_05
       rect:
         serializedVersion: 2
         x: 32
@@ -954,7 +954,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -968,7 +968,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_35
+      name: Floor_Bones_Floors_06
       rect:
         serializedVersion: 2
         x: 48
@@ -976,7 +976,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -990,7 +990,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_36
+      name: Floor_Bones_Floors_07
       rect:
         serializedVersion: 2
         x: 16
@@ -998,7 +998,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1012,7 +1012,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_37
+      name: Floor_Bones_Floors_08
       rect:
         serializedVersion: 2
         x: 32
@@ -1020,7 +1020,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1034,7 +1034,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Floor_38
+      name: Floor_Bones_Floors_09
       rect:
         serializedVersion: 2
         x: 48
@@ -1042,7 +1042,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1071,45 +1071,45 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Floor_0: 199249360466117110
-      Floor_1: 8586074191503405527
-      Floor_10: -6898485715014378537
-      Floor_11: -13061129504367088
-      Floor_12: 9083392959312964389
-      Floor_13: 1080754219818092620
-      Floor_14: -8019469232796269750
-      Floor_15: -1930786425789448780
-      Floor_16: 4043034113753454009
-      Floor_17: -8564908905932203502
-      Floor_18: 2843940479614984580
-      Floor_19: 8908484451350263007
-      Floor_2: -4880280114624847625
-      Floor_20: 8249422526318198269
-      Floor_21: -6939970552380966185
-      Floor_22: -4265050643512687715
-      Floor_23: 1624525886079249586
-      Floor_24: -5307727764738301441
-      Floor_25: -1125983876
-      Floor_26: 925012067
-      Floor_27: 1641030633
-      Floor_28: -337022869
-      Floor_29: 1499746304
-      Floor_3: -8760255559057331400
-      Floor_30: -380725039
-      Floor_31: 1025678524
-      Floor_32: -979315469
-      Floor_33: 1534866676
-      Floor_34: -511863512
-      Floor_35: 1850928167
-      Floor_36: -576424222
-      Floor_37: -635615016
-      Floor_38: -847014306
-      Floor_4: 1706119114420486083
-      Floor_5: -8800800135064143610
-      Floor_6: 5413850237332849526
-      Floor_7: -4416756212120593824
-      Floor_8: 3227120792165100839
-      Floor_9: 5619165966657897192
+      Floor_Bones_Floors_01: -380725039
+      Floor_Bones_Floors_02: 1025678524
+      Floor_Bones_Floors_03: -979315469
+      Floor_Bones_Floors_04: 1534866676
+      Floor_Bones_Floors_05: -511863512
+      Floor_Bones_Floors_06: 1850928167
+      Floor_Bones_Floors_07: -576424222
+      Floor_Bones_Floors_08: -635615016
+      Floor_Bones_Floors_09: -847014306
+      Floor_Rocks_Floors_01: 199249360466117110
+      Floor_Rocks_Floors_02: 8586074191503405527
+      Floor_Rocks_Floors_03: -4880280114624847625
+      Floor_Rocks_Floors_04: -8760255559057331400
+      Floor_Rocks_Floors_05: 1706119114420486083
+      Floor_Rocks_Floors_06: -8800800135064143610
+      Floor_Rocks_Floors_07: 5413850237332849526
+      Floor_Rocks_Floors_08: 5619165966657897192
+      Floor_Rocks_Floors_09: 9083392959312964389
+      Floor_Rocks_Floors_10: -4416756212120593824
+      Floor_Rocks_Floors_11: -6898485715014378537
+      Floor_Rocks_Floors_12: 1080754219818092620
+      Floor_Rocks_Floors_13: 3227120792165100839
+      Floor_Rocks_Floors_14: -13061129504367088
+      Floor_Rocks_Floors_15: -8019469232796269750
+      Floor_Smoke_Floors_01: -1930786425789448780
+      Floor_Smoke_Floors_02: -8564908905932203502
+      Floor_Smoke_Floors_03: 8908484451350263007
+      Floor_Smoke_Floors_04: 4043034113753454009
+      Floor_Smoke_Floors_05: 2843940479614984580
+      Floor_Smoke_Floors_06: 8249422526318198269
+      Floor_Spikes_Floors_01: -6939970552380966185
+      Floor_Spikes_Floors_02: -5307727764738301441
+      Floor_Spikes_Floors_03: -1125983876
+      Floor_Spikes_Floors_04: -4265050643512687715
+      Floor_Spikes_Floors_05: 925012067
+      Floor_Spikes_Floors_06: -337022869
+      Floor_Spikes_Floors_07: 1624525886079249586
+      Floor_Spikes_Floors_08: 1641030633
+      Floor_Spikes_Floors_09: 1499746304
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
