@@ -138,7 +138,8 @@ public class GameManager : MonoBehaviour
             OnRunStarted?.Invoke(dungeon);
         }
 
-        // TODO: DungeonGenerator.Instance.GenerateFloor(dungeon, floor)
+        FloorData floorData = DungeonGenerator.Instance.GenerateFloor(dungeon, floor);
+        PlayerController.Instance.SetPosition(floorData.PlayerSpawn);
 
         OnLevelChanged?.Invoke(CurrentLevel, CurrentFloor);
     }
