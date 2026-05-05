@@ -297,7 +297,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Item_GreyGauntlet
+      name: Item_Weapon_Grey_Gauntlet_01
       rect:
         serializedVersion: 2
         x: 16
@@ -305,7 +305,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -319,7 +319,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_GoldGauntlet
+      name: Item_Weapon_Gold_Gauntlet_01
       rect:
         serializedVersion: 2
         x: 32
@@ -327,7 +327,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -341,7 +341,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_ObsidianSword
+      name: Item_Weapon_Red_Sword_01
       rect:
         serializedVersion: 2
         x: 16
@@ -349,7 +349,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -363,7 +363,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_ObsidianHammer
+      name: Item_Weapon_Red_Hammer_01
       rect:
         serializedVersion: 2
         x: 32
@@ -371,7 +371,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -385,7 +385,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_ObsidianAxe
+      name: Item_Weapon_Red_Axe_01
       rect:
         serializedVersion: 2
         x: 48
@@ -393,7 +393,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -407,7 +407,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_MagmaHammer
+      name: Item_Weapon_Magma_Hammer_01
       rect:
         serializedVersion: 2
         x: 16
@@ -415,7 +415,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -429,7 +429,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_Pickaxe
+      name: Item_Weapon_Grey_Pickaxe_01
       rect:
         serializedVersion: 2
         x: 16
@@ -437,7 +437,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -451,7 +451,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_GoldPickaxe
+      name: Item_Weapon_Gold_Pickaxe_01
       rect:
         serializedVersion: 2
         x: 32
@@ -459,7 +459,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -473,7 +473,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_FieryRing
+      name: Item_Jewelry_Fiery_Ring_01
       rect:
         serializedVersion: 2
         x: 16
@@ -481,7 +481,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -495,7 +495,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_FieryNecklace
+      name: Item_Jewelry_Fiery_Necklace_01
       rect:
         serializedVersion: 2
         x: 32
@@ -503,7 +503,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -517,7 +517,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_ObsidianRing
+      name: Item_Jewelry_Obsidian_Ring_01
       rect:
         serializedVersion: 2
         x: 48
@@ -525,7 +525,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -539,7 +539,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_ObsidianNecklace
+      name: Item_Jewelry_Obsidian_Necklace_01
       rect:
         serializedVersion: 2
         x: 64
@@ -547,7 +547,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -561,7 +561,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_CopperOre
+      name: Item_Currency_Copper_Ore_01
       rect:
         serializedVersion: 2
         x: 16
@@ -569,7 +569,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -583,7 +583,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_CopperBar
+      name: Item_Currency_Copper_Bar_01
       rect:
         serializedVersion: 2
         x: 32
@@ -591,7 +591,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -605,7 +605,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_IronOre
+      name: Item_Currency_Grey_Ore_01
       rect:
         serializedVersion: 2
         x: 48
@@ -613,7 +613,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -627,7 +627,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_IronBar
+      name: Item_Currency_Grey_Bar_01
       rect:
         serializedVersion: 2
         x: 64
@@ -635,7 +635,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -649,7 +649,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_GoldOre
+      name: Item_Currency_Gold_Ore_01
       rect:
         serializedVersion: 2
         x: 80
@@ -657,7 +657,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -671,7 +671,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Item_GoldBar
+      name: Item_Currency_Gold_Bar_01
       rect:
         serializedVersion: 2
         x: 96
@@ -679,7 +679,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -708,24 +708,24 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Item_CopperBar: 1476680202
-      Item_CopperOre: -1243109430
-      Item_FieryNecklace: 1693330824
-      Item_FieryRing: -743236158
-      Item_GoldBar: 1429558033
-      Item_GoldGauntlet: -477969815136343359
-      Item_GoldOre: 1797316596
-      Item_GoldPickaxe: 3781162541450742955
-      Item_GreyGauntlet: 4965238015722835036
-      Item_IronBar: -2056183006
-      Item_IronOre: 269311235
-      Item_MagmaHammer: 1501103778337013499
-      Item_ObsidianAxe: -4838781656820762868
-      Item_ObsidianHammer: 4967252946082025986
-      Item_ObsidianNecklace: -1733930476
-      Item_ObsidianRing: 1730919232
-      Item_ObsidianSword: -7938189610693294842
-      Item_Pickaxe: 6531432147686360114
+      Item_Currency_Copper_Bar_01: 1476680202
+      Item_Currency_Copper_Ore_01: -1243109430
+      Item_Currency_Gold_Bar_01: 1429558033
+      Item_Currency_Gold_Ore_01: 1797316596
+      Item_Currency_Grey_Bar_01: -2056183006
+      Item_Currency_Grey_Ore_01: 269311235
+      Item_Jewelry_Fiery_Necklace_01: 1693330824
+      Item_Jewelry_Fiery_Ring_01: -743236158
+      Item_Jewelry_Obsidian_Necklace_01: -1733930476
+      Item_Jewelry_Obsidian_Ring_01: 1730919232
+      Item_Weapon_Gold_Gauntlet_01: -477969815136343359
+      Item_Weapon_Gold_Pickaxe_01: 3781162541450742955
+      Item_Weapon_Grey_Gauntlet_01: 4965238015722835036
+      Item_Weapon_Grey_Pickaxe_01: 6531432147686360114
+      Item_Weapon_Magma_Hammer_01: 1501103778337013499
+      Item_Weapon_Red_Axe_01: -4838781656820762868
+      Item_Weapon_Red_Hammer_01: 4967252946082025986
+      Item_Weapon_Red_Sword_01: -7938189610693294842
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

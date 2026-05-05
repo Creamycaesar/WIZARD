@@ -204,7 +204,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Items 1_0
+      name: Item_Weapon_Grey_Dagger_01
       rect:
         serializedVersion: 2
         x: 16
@@ -212,7 +212,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -226,7 +226,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_1
+      name: Item_Weapon_Gold_Dagger_01
       rect:
         serializedVersion: 2
         x: 32
@@ -234,7 +234,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -248,7 +248,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_2
+      name: Item_Weapon_Grey_Whip_01
       rect:
         serializedVersion: 2
         x: 48
@@ -256,7 +256,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -270,7 +270,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_3
+      name: Item_Weapon_Gold_Whip_01
       rect:
         serializedVersion: 2
         x: 64
@@ -278,7 +278,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -292,7 +292,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_4
+      name: Item_Weapon_Green_IvyWhip_01
       rect:
         serializedVersion: 2
         x: 80
@@ -300,7 +300,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -314,7 +314,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_5
+      name: Item_Weapon_Brown_IvyWhip_01
       rect:
         serializedVersion: 2
         x: 96
@@ -322,7 +322,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -336,7 +336,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_6
+      name: Item_Green_Leaf_01
       rect:
         serializedVersion: 2
         x: 16
@@ -344,7 +344,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -358,7 +358,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_7
+      name: Item_Green_Leaf_02
       rect:
         serializedVersion: 2
         x: 32
@@ -366,7 +366,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -380,7 +380,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_8
+      name: Item_Brown_Leaf_01
       rect:
         serializedVersion: 2
         x: 48
@@ -388,7 +388,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -402,7 +402,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_9
+      name: Item_Brown_Leaf_02
       rect:
         serializedVersion: 2
         x: 64
@@ -410,7 +410,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -424,7 +424,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_10
+      name: Item_Brown_Seeds_01
       rect:
         serializedVersion: 2
         x: 80
@@ -432,7 +432,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -446,7 +446,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_11
+      name: Item_Food_Green_Candy_01
       rect:
         serializedVersion: 2
         x: 16
@@ -454,7 +454,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -468,7 +468,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_12
+      name: Item_Food_Blue_Candy_01
       rect:
         serializedVersion: 2
         x: 32
@@ -476,7 +476,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -490,7 +490,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_13
+      name: Item_Food_Pink_Candy_01
       rect:
         serializedVersion: 2
         x: 48
@@ -498,7 +498,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -512,7 +512,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_14
+      name: Item_Food_Red_Candy_01
       rect:
         serializedVersion: 2
         x: 64
@@ -520,7 +520,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -534,7 +534,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_15
+      name: Item_Food_Orange_Candy_01
       rect:
         serializedVersion: 2
         x: 80
@@ -542,7 +542,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -556,7 +556,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_16
+      name: Item_Food_Green_Candy_02
       rect:
         serializedVersion: 2
         x: 96
@@ -564,7 +564,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -578,7 +578,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_17
+      name: Item_Food_Blue_Candy_02
       rect:
         serializedVersion: 2
         x: 112
@@ -586,7 +586,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -600,7 +600,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_18
+      name: Item_Food_Pink_Candy_02
       rect:
         serializedVersion: 2
         x: 128
@@ -608,7 +608,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -622,7 +622,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_19
+      name: Item_Food_Red_Candy_02
       rect:
         serializedVersion: 2
         x: 144
@@ -630,7 +630,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -644,7 +644,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Items 1_20
+      name: Item_Food_Orange_Candy_02
       rect:
         serializedVersion: 2
         x: 160
@@ -652,7 +652,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -681,27 +681,27 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Items 1_0: -5167392513394231105
-      Items 1_1: 260716731100841394
-      Items 1_10: -6569751845123818290
-      Items 1_11: -952464285279606802
-      Items 1_12: -2875214728658080973
-      Items 1_13: -7867822520409329689
-      Items 1_14: 4694926500479285095
-      Items 1_15: 805606305843877415
-      Items 1_16: -3599017852380616369
-      Items 1_17: -6281282322522425290
-      Items 1_18: 7368560795467181776
-      Items 1_19: 248259842494328956
-      Items 1_2: 3206692951211016962
-      Items 1_20: 8738622432051669113
-      Items 1_3: -2141130680608154646
-      Items 1_4: 7559609800763146844
-      Items 1_5: -970924275662631936
-      Items 1_6: 32315890887388720
-      Items 1_7: -3269994710755432165
-      Items 1_8: -1277069322766029471
-      Items 1_9: -7572561137359397060
+      Item_Brown_Leaf_01: -1277069322766029471
+      Item_Brown_Leaf_02: -7572561137359397060
+      Item_Brown_Seeds_01: -6569751845123818290
+      Item_Food_Blue_Candy_01: -2875214728658080973
+      Item_Food_Blue_Candy_02: -6281282322522425290
+      Item_Food_Green_Candy_01: -952464285279606802
+      Item_Food_Green_Candy_02: -3599017852380616369
+      Item_Food_Orange_Candy_01: 805606305843877415
+      Item_Food_Orange_Candy_02: 8738622432051669113
+      Item_Food_Pink_Candy_01: -7867822520409329689
+      Item_Food_Pink_Candy_02: 7368560795467181776
+      Item_Food_Red_Candy_01: 4694926500479285095
+      Item_Food_Red_Candy_02: 248259842494328956
+      Item_Green_Leaf_01: 32315890887388720
+      Item_Green_Leaf_02: -3269994710755432165
+      Item_Weapon_Brown_IvyWhip_01: -970924275662631936
+      Item_Weapon_Gold_Dagger_01: 260716731100841394
+      Item_Weapon_Gold_Whip_01: -2141130680608154646
+      Item_Weapon_Green_IvyWhip_01: 7559609800763146844
+      Item_Weapon_Grey_Dagger_01: -5167392513394231105
+      Item_Weapon_Grey_Whip_01: 3206692951211016962
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
